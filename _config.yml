@@ -1,0 +1,42 @@
+# Jekyll configuration
+markdown: kramdown
+highlighter: rouge
+paginate: 100 # it will paginate after this number
+language: 'en-us'
+
+# Website info
+title: Rangsiman Ketkaew
+subtitle: Rangsiman Ketkaew's website
+description: >- # this means to ignore newlines until "baseurl:"
+  Free Linux, Computational Environment, and Computational Chemistry Resources.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+logo: assets/img/me.png
+logo_dark: assets/img/me.png
+favicon: assets/img/me.png
+author_logo: assets/img/me.png
+author: Rangsiman Ketkaew
+author_bio: I am Rangsiman Ketkaew, a Thai student in Theoretical and Computational Chemistry.
+author_email: "rangsiman1993@gmail.com"
+author_location: Thailand
+author_website_url: "https://rangsimanketkaew.github.io"
+
+# disqus
+disqus: False
+disqus_shortname: rangsiman-ketakew  #for comments using disqus
+
+# Google Analytics
+google_analytics: UA-55803297-6 # replace with your GA tracking identifier
+
+# social links
+twitter_username: rangsiman1993
+github_username:  rangsimanketkaew
+facebook_username: r.ketkaew
+linkedin_username: rangsiman
+behance_username: yourusername
+instagram_username: yourusername
+medium_username: yourusername 
+telegram_username: yourusername
+dribbble_username: yourusername 
+flickr_username: yourusername

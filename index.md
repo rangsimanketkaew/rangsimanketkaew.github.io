@@ -2,12 +2,7 @@
 layout: default
 ---
 
-
-## I am migrating from bit.ly/rangsiman1993 to this repository.
-
-## Rangsiman Ketkaew @ rangsimanketkaew.github.io
-
-<br/>
+# Rangsiman Ketkaew @ rangsimanketkaew.github.io
 
 ## Table of Contents
 
@@ -16,12 +11,10 @@ layout: default
 
 ## About this website
 
-- [Tools](./about-this-website/tools.md)
+- [Tools](./about/tools.md)
 
-
-
-
-## Contact me
-rangsiman1993@gmail.com
-
+## About me
+Rangsiman Ketkaew <br/>
+Bangkok, Thailand
+rangsiman1993@gmail.com <br/>
 
