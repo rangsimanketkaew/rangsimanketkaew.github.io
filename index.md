@@ -6,7 +6,8 @@ layout: default
 ## rangsimanketkaew.github.io
 
 <br/>
+
 ## Table of Contents
 
-- [Python tips](./python-tips/compiled-notebook.html)
+- [Python tips](./python-tips/compiled_notebook.html)
 
