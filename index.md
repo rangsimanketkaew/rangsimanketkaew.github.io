@@ -1,4 +1,12 @@
+---
+layout: default
+---
+
 # Rangsiman Ketkaew
 ## rangsimanketkaew.github.io
 
-(Python tips)[./python-tips/compiled-notebook.html]
+<br/>
+## Table of Contents
+
+- [Python tips](./python-tips/compiled-notebook.html)
+
