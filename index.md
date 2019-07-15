@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Rangsiman Ketkaew @ rangsimanketkaew.github.io
 
 ## Table of Contents
@@ -15,6 +11,6 @@ layout: default
 
 ## About me
 Rangsiman Ketkaew <br/>
-Bangkok, Thailand
+Bangkok, Thailand <br/>
 rangsiman1993@gmail.com <br/>
 
