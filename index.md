@@ -11,8 +11,7 @@ layout: default
 
 ## Table of Contents
 
-- [Python tips](./python-tips/compiled_notebook.html)
-
+- [Python tips](./python-tips/8-hidden-tips/compiled_notebook.html)
 
 
 ## About this website
