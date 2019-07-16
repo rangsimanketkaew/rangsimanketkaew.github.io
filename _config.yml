@@ -6,12 +6,14 @@ baseurl: "" # the subpath of site, e.g. /blog
 url: "" # the base hostname & protocol for site, e.g. http://example.com
 
 author_logo: /assets/img/profile.png 
-disqus_shortname: rangsiman-ketkaew  #for comments using disqus
 author: Rangsiman Ketkaew 
 author_bio: I am Rangsiman Ketkaew, a Thai computational chemistry student.
 author_email: "rangsiman1993@.com"
 author_location: Thailand
 author_website_url: "https://rangsimanketkaew.github.io"
+
+# Disqus for commenting under the post
+disqus_shortname: rangsimanketkaew  # disqus username
 
 # social links
 twitter_username: rangsiman1993 
