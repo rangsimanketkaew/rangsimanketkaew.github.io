@@ -1,14 +1,16 @@
 ---
-layout: default
+layout: page
 ---
 
-# Tools
+# About this website
 
 ## Platform and Service
 
-- Github
-- Jupyter Notebook
-- Jupyter Book
+- Github static server
+- Jekyll
+- Disqus
+- MakerWidget
+- MailChimp
 
 ## Language
 
@@ -17,6 +19,11 @@ layout: default
 - IPython
 - HTML
 - CSS
+
+## Other tools
+
+- Jupyter Notebook
+- Jupyter Book
 
 ## Jupyter command-line
 
