@@ -2,7 +2,7 @@
 layout: page
 permalink: /blog/categories/jekyll
 ---
- 
+
 <h3> Posts by Category : {{ page.title }} </h3>
 
 <div class="card">
