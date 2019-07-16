@@ -22,10 +22,7 @@ layout: default
         <h4 class="post-meta">{{ page.summary }}</h4>
         <p class="post-summary">
           Posted by : {% if page.author %}
-          <img
-            src="{{ site.author_logo }}"
-            class="author-profile-img"
-          />
+          <img src="{{ site.author_logo }}" class="author-profile-img" />
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <span itemprop="name">{{ page.author }}</span> </span
           >{% endif %} at
