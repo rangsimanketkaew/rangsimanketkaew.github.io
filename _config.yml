@@ -1,39 +1,25 @@
-# Jekyll configuration
-markdown: kramdown
-highlighter: rouge
-paginate: 100 # it will paginate after this number
-language: 'en-us'
-
-# Website info
-title: Rangsiman Ketkaew
-subtitle: Rangsiman Ketkaew's website
+title: devlopr jekyll
+subtitle: A Jekyll Theme built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
-  Free Linux, Computational Environment, and Computational Chemistry Resources.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-logo: assets/img/me.png
-logo_dark: assets/img/me.png
-favicon: assets/img/me.png
-author_logo: assets/img/me.png
-author: Rangsiman Ketkaew
-author_bio: I am Rangsiman Ketkaew, a Thai student in Theoretical and Computational Chemistry.
-author_email: "rangsiman1993@gmail.com"
-author_location: Thailand
-author_website_url: "https://rangsimanketkaew.github.io"
-
-# disqus
-disqus: False
-disqus_shortname: rangsiman-ketakew  #for comments using disqus
-
-# Google Analytics
-google_analytics: UA-55803297-6 # replace with your GA tracking identifier
+author_logo: profile.png
+disqus_shortname: sujay-kundu  #for comments using disqus
+author: devlopr
+author_bio: Hello, my name is John Doe.I am an award winning Full Stack Web Developer and UI/UX Javascript specialist.Check out my blog articles, React.JS and Vue.JS UI components at the code laboratory.Feel free to take a look at my latest projects below.Based in London, UK. 
+author_email: "john@devlopr.com"
+author_location: India
+author_website_url: "https://yourwebsite.com"
 
 # social links
-twitter_username: rangsiman1993
-github_username:  rangsimanketkaew
-facebook_username: r.ketkaew
-linkedin_username: rangsiman
+twitter_username: yourusername
+github_username:  yourusername
+facebook_username: yourusername
+linkedin_username: yourusername
 behance_username: yourusername
 instagram_username: yourusername
 medium_username: yourusername 
