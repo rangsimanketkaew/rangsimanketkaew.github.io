@@ -2,6 +2,9 @@
 layout: default
 ---
 
+<!-- Navigation tree at head of post
+Blog / Categories / page.title
+-->
 <nav aria-label="breadcrumb" role="navigation">
   <ol class="breadcrumb">
     <li class="breadcrumb-item">
@@ -20,20 +23,17 @@ layout: default
       <div class="card-header">
         <!-- <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1> -->
         <h4 class="post-meta">{{ page.summary }}</h4>
+        <h4> {{ page.url }} </h4>
         <p class="post-summary">
           Posted by : {% if page.author %}
           <img src="{{ site.author_logo }}" class="author-profile-img" />
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span itemprop="name">{{ page.author }}</span> </span
-          >{% endif %} at
+            <span itemprop="name">{{ page.author }}</span> </span>{% endif %} at
           <time datetime="{{ page.date }}" itemprop="datePublished">{{
             page.date | date: "%b %-d, %Y"
           }}</time>
         </p>
-        <span
-          class="disqus-comment-count"
-          data-disqus-identifier="{{ page.url }}"
-        ></span>
+        <span class="disqus-comment-count" data-disqus-identifier="{{ page.url }}"></span>
         <p>
           {%- include share.html -%}
         </p>
@@ -41,20 +41,13 @@ layout: default
           {% if post %} {% assign categories = post.categories %} {% else %} {%
           assign categories = page.categories %} {% endif %} Category : {% for
           category in categories %}
-          <a
-            href="{{ site.baseurl }}/blog/categories/{{ category | slugize }}"
-            >{{ category }}</a
-          >
+          <a href="{{ site.baseurl }}/blog/categories/{{ category | slugize }}">{{ category }}</a>
           {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %}
         </div>
       </div>
 
       <div class="card-body" itemprop="articleBody">
-        <img
-          class="card-img-top"
-          src="/assets/img/{{ page.thumbnail }}"
-          alt="{{ post.title }}"
-        />
+        <img class="card-img-top" src="/assets/img/{{ page.thumbnail }}" alt="{{ post.title }}" />
         {{ content }} {%- include share.html -%}
       </div>
 
@@ -89,12 +82,12 @@ layout: default
 </div>
 
 <script>
-  var disqus_config = function() {
+  var disqus_config = function () {
     this.page.url = "{{ site.url }}{{ page.url }}"; // Replace PAGE_URL with your page's canonical URL variable
     this.page.identifier = "{{ page.id }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
   };
 
-  (function() {
+  (function () {
     // DON'T EDIT BELOW THIS LINE
     var d = document,
       s = d.createElement("script");
@@ -103,7 +96,6 @@ layout: default
     (d.head || d.body).appendChild(s);
   })();
 </script>
-<noscript
-  >Please enable JavaScript to view the
+<noscript>Please enable JavaScript to view the
   <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
 </noscript>
