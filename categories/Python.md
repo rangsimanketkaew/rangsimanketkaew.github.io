@@ -10,3 +10,5 @@ permalink: /blog/categories/Python
  <li class="category-posts"><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </div>
+<h3>{{ post.date }}</h3>
+<h3>{{ post.url }}</h3>
