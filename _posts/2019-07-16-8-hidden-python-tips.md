@@ -8,7 +8,6 @@ summary: 8 hidden Python tips
 thumbnail: posts/python-tips.jpg
 ---
 
-<!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
 
