@@ -1,18 +1,20 @@
 ---
 layout: post
-title: Welcome to my website!
+title: Upload Python package to PyPI library
 author: Rangsiman Ketkaew
-date: "2019-07-16 12:30:00 +0700"
-category: web-development
-summary: My First Post
-thumbnail: posts/hello.jpg
+date: "2019-07-17 17:07:00 +0700"
+category:
+    - Python
+    - how-to
+summary: Upload Python package to PyPI library
+thumbnail: posts/python-logo.png
 ---
 
-# Python: Create and upload your project to PyPI library
+# Upload Python package to PyPI library
 
 ---
 
-- [Python: Create and upload your project to PyPI library](#Python-Create-and-upload-your-project-to-PyPI-library)
+- [Upload Python package to PyPI library](#Upload-Python-package-to-PyPI-library)
   - [Python Package Index (PyPI)](#Python-Package-Index-PyPI)
   - [Prerequisite packages](#Prerequisite-packages)
   - [First of all, you should have](#First-of-all-you-should-have)
