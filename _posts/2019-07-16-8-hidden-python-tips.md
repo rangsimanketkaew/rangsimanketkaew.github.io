@@ -243,7 +243,7 @@ th {
     page-break-inside: avoid;
   }
   img {
-    max-width: 100% !important;
+    max-width: 80% !important;
   }
   p,
   h2,
