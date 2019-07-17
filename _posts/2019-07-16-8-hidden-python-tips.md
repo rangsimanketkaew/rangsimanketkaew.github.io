@@ -1614,11 +1614,6 @@ pre code {
     width: 1140px;
   }
 }
-@media (min-width: 500px) {
-  .container {
-    width: 500px;
-  }
-}
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
@@ -10434,7 +10429,7 @@ div.cell {
   border-width: 1px;
   border-style: solid;
   border-color: transparent;
-  width: 100%;
+  width: 75%;
   padding: 5px;
   /* This acts as a spacer between cells, that is outside the border */
   margin: 0px;
