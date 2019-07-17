@@ -10429,7 +10429,7 @@ div.cell {
   border-width: 1px;
   border-style: solid;
   border-color: transparent;
-  width: 75%;
+  width: 100%;
   padding: 5px;
   /* This acts as a spacer between cells, that is outside the border */
   margin: 0px;
