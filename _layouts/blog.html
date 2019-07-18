@@ -30,6 +30,8 @@ layout: default
             <!-- Button to read post -->
             <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}"
               class="btn btn-primary btn-lg">Read</a>
+            <h6>{{ post.url }}</h6>
+            <h6>{{ site.baseurl }}</h6>
             <span class="disqus-comment-count" data-disqus-identifier="{{ post.url }}"></span>
           </div>
         </div>
