@@ -67,7 +67,7 @@ pip install setuptools wheel twine --upgrade --user
 
 setup.py
 
-```sh
+```py
 #!/usr/bin/env python
 
 import setuptools
