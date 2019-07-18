@@ -2,5 +2,5 @@
 
 gem 'github-pages'
 source "https://rubygems.org"
-gemspec
+# gemspec
 gem 'jekyll-relative-links'
