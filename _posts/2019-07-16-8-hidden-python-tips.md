@@ -9,6 +9,7 @@ category:
 summary: 8 hidden Python tips
 thumbnail: posts/python-tips.jpg
 permalink: content/2
+redirect_from: /python-tips/8-hidden-tips/compiled_notebook
 ---
 
 <html>

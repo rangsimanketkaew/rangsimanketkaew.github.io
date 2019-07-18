@@ -9,6 +9,7 @@ category:
 summary: Upload Python package to PyPI library
 thumbnail: posts/python-logo.png
 permalink: content/3
+redirect_from: /python/how-to/2019/07/17/upload-python-package-to-pypi-server
 ---
 
 # Upload Python package to PyPI library
