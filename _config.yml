@@ -5,6 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     computational chemistry resources for everyone.
 baseurl: "" # the subpath of site, e.g. /blog
 url: "https://rangsimanketkaew.github.io" # the base hostname & protocol for site, e.g. http://example.com
+permalink: pretty # remove *.html extension from generated link
 
 author_logo: /assets/img/profile.png 
 author: Rangsiman Ketkaew 
@@ -24,3 +25,7 @@ linkedin_username: rangsiman
 
 # Google Analytics
 google_analytics: UA-55803297-6
+
+plugins:
+  - jekyll-relative-links
+  

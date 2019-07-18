@@ -6,6 +6,7 @@ date: "2019-07-16 12:30:00 +0700"
 category: web-development
 summary: My First Post
 thumbnail: posts/hello.jpg
+permalink: ok
 ---
 
 This is the very first post of my website. 
