@@ -108,6 +108,14 @@ footer {
   overflow-x: auto;
 }
 
+code * {
+  white-space: nowrap;
+}
+
+pre {
+  overflow-x: auto;
+}
+
 pre code {
   white-space: pre;
 }
@@ -119,7 +127,7 @@ code {
   // white-space: pre-wrap; # wrap code
   // -------------------
   // prevent wrap code
-  white-space: nowrap;
+  white-space: pre;
   overflow-x: auto;
   // -------------------
   word-wrap: break-word;
