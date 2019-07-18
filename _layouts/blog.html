@@ -10,15 +10,19 @@ layout: default
         {% for post in site.posts %}
         <div class="card blog-post">
           <!-- Post thumbnail -->
-          <img class="card-img-top" src="/assets/img/{{ post.thumbnail }}" alt="{{ post.title }}" />
-          
+          <img
+            class="card-img-top"
+            src="/assets/img/{{ post.thumbnail }}"
+            alt="{{ post.title }}"
+          />
+
           <!-- Author logo -->
           <div class="card-body center">
             <img src="{{ site.author_logo }}" class="author-profile-img" />
 
             <!-- Post title -->
             <h4 class="card-title">{{ post.title }}</h4>
-            
+
             <!-- Date -->
             <h6 class="card-subtitle mb-2 text-muted">
               {{ post.date | date: "%b %-d, %Y" }}
@@ -28,11 +32,16 @@ layout: default
             <p class="card-text">{{ post.summary }}</p>
 
             <!-- Button to read post -->
-            <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}"
-              class="btn btn-primary btn-lg">Read</a>
-            <h6>{{ post.url }}</h6>
-            <h6>{{ site.baseurl }}</h6>
-            <span class="disqus-comment-count" data-disqus-identifier="{{ post.url }}"></span>
+            <a
+              href="{{ post.url | prepend: site.baseurl }}"
+              data-disqus-identifier="{{ post.url }}"
+              class="btn btn-primary btn-lg"
+              >Read</a
+            >
+            <span
+              class="disqus-comment-count"
+              data-disqus-identifier="{{ post.url }}"
+            ></span>
           </div>
         </div>
 
@@ -46,8 +55,8 @@ layout: default
       <div class="card-header">About {{ site.author }}</div>
       <div class="card-body text-dark">
         <p>
-          This website provides new knowledge in Linux, programming, computational
-          environment, and computational chemistry for everyone.
+          This website aims at providing new knowledge in Linux, programming,
+          computational environment, and computational chemistry for everyone.
         </p>
       </div>
     </div>
