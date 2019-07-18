@@ -8,6 +8,7 @@ category:
   - tips-and-tricks
 summary: 8 hidden Python tips
 thumbnail: posts/python-tips.jpg
+permalink: content/2
 ---
 
 <html>

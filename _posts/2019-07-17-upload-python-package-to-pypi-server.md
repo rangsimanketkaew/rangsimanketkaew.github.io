@@ -8,6 +8,7 @@ category:
     - how-to
 summary: Upload Python package to PyPI library
 thumbnail: posts/python-logo.png
+permalink: content/3
 ---
 
 # Upload Python package to PyPI library
