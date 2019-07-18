@@ -29,3 +29,6 @@ google_analytics: UA-55803297-6
 plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
+
+# Build setting
+markdown: kramdown
