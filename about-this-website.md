@@ -93,8 +93,8 @@ pip install markdown2
 
 - Use markdown-to-html
 
-[https://www.npmjs.com/package/markdown-to-html]()
+[https://www.npmjs.com/package/markdown-to-html](https://www.npmjs.com/package/markdown-to-html)
 
 - Use pandoc
 
-[https://pandoc.org/getting-started.html]()
+[https://pandoc.org/getting-started.html](https://www.npmjs.com/package/markdown-to-html)
