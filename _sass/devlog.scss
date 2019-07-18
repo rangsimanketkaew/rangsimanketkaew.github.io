@@ -108,8 +108,15 @@ footer {
   overflow-x: auto;
 }
 
+// white-space value
+// normal
+// nowrap
+// pre
+// pre-wrap
+// pre-line
+
 code * {
-  white-space: nowrap;
+  white-space: pre;
 }
 
 pre {
