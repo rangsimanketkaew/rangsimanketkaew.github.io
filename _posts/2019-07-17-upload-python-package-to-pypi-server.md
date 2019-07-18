@@ -42,7 +42,7 @@ This post covers the basic of how to build and distribution your own Python pack
 
 * Python 3.x
 
-```
+```sh
 python --version
 ```
 
@@ -50,7 +50,7 @@ python --version
 * wheel
 * twine
 
-```
+```sh
 pip install setuptools wheel twine --upgrade --user
 ```
 
@@ -67,7 +67,7 @@ pip install setuptools wheel twine --upgrade --user
 
 setup.py
 
-```
+```sh
 #!/usr/bin/env python
 
 import setuptools
@@ -114,7 +114,7 @@ python_requires='>=3',
 
 Build *.tar.gz source code archive and *whl distribution files using command:
 
-```
+```sh
 python setup.py sdist bdist_wheel
 ```
 
@@ -126,13 +126,13 @@ Both *tar.gz and *whl will be built and stored in a ./dist directory.
 
 Upload file
 
-```
+```sh
 twine upload --repository-url https://test.pypi.org/legacy/ dist/\*
 ```
 
 It will ask you to enter your PyPI account, for example:
 
-```
+```sh
 Enter your username: rangsiman
 Enter your password: (invisible)
 Uploading distributions to https://test.pypi.org/legacy/
@@ -146,13 +146,13 @@ Uploading octadist-2.5.3.tar.gz
 
 Upload file
 
-```
+```sh
 twine upload dist/\*
 ```
 
 It will ask you to enter your PyPI account, for example:
 
-```
+```sh
 Enter your username: rangsiman
 Enter your password: (invisible)
 Uploading distributions to https://upload.pypi.org/legacy/
@@ -166,31 +166,31 @@ Uploading octadist-2.5.3.tar.gz
 
 ### Test-PyPI
 
-```
+```sh
 pip search octadist --index https://test.pypi.org/pypi
 ```
 
 ### PyPI
 
-```
+```sh
 pip search octadist --index https://pypi.org/pypi
 ```
 
 or
 
-```
+```sh
 pip search octadist
 ```
 
 ### Show package detail
 
-```
+```sh
 pip show octadist
 ```
 
 Sample output:
 
-```
+```sh
 Name: octadist
 Version: 2.5.3.1
 Summary: OctaDist: A tool for calculating distortion parameters in coordination complexes.
@@ -207,13 +207,13 @@ Required-by:
 
 ### Test-PyPI
 
-```
+```sh
 pip install --index-url https://test.pypi.org/simple/ octadist
 ```
 
 ### PyPI
 
-```
+```sh
 pip install octadist
 ```
 
