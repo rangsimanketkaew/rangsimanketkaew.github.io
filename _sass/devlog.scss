@@ -115,28 +115,10 @@ footer {
 // pre-wrap
 // pre-line
 
-code * {
-  white-space: pre;
-}
-
-pre {
-  overflow-x: auto;
-}
-
-pre code {
-  white-space: pre;
-}
-
 pre,
 code {
   overflow: auto;
-  // wrap code
-  // white-space: pre-wrap; # wrap code
-  // -------------------
-  // prevent wrap code
-  // white-space: pre;
-  // overflow-x: auto;
-  // -------------------
+  white-space: pre;
   word-wrap: break-word;
   word-break: break-all;
   font-family: Courier, monospace;
@@ -144,6 +126,19 @@ code {
   background-color: #f4f6f8;
   padding: 5px;
   display: block;
+}
+
+code * {
+  white-space: pre;
+}
+
+pre {
+  overflow-x: auto;
+  white-space: pre;
+}
+
+pre code {
+  white-space: pre;
 }
 
 @media (min-width: 320px) and (max-width: 780px) {
