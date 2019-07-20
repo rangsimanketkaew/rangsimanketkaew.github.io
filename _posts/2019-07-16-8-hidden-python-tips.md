@@ -26,6 +26,8 @@ comments: true
 7. ([html][demo7_html] / [ipynb][demo7_ipynb]) Swapping variables in one line
 8. ([html][demo8_html] / [ipynb][demo8_ipynb]) Use local variables to make code run faster
 
+- ([html][all_html] / [ipynb][all_ipynb]) All demo in one file
+
 [demo1_html]: /contents/python-tips/8-hidden-tips/demo1.py.html
 [demo2_html]: /contents/python-tips/8-hidden-tips/demo2.py.html
 [demo3_html]: /contents/python-tips/8-hidden-tips/demo3.py.html
@@ -34,6 +36,7 @@ comments: true
 [demo6_html]: /contents/python-tips/8-hidden-tips/demo6.py.html
 [demo7_html]: /contents/python-tips/8-hidden-tips/demo7.py.html
 [demo8_html]: /contents/python-tips/8-hidden-tips/demo8.py.html
+[all_html]: /contents/python-tips/8-hidden-tips/all_demo.py.html
 [demo1_ipynb]: /contents/python-tips/8-hidden-tips/demo1.py.ipynb
 [demo2_ipynb]: /contents/python-tips/8-hidden-tips/demo2.py.ipynb
 [demo3_ipynb]: /contents/python-tips/8-hidden-tips/demo3.py.ipynb
@@ -42,3 +45,4 @@ comments: true
 [demo6_ipynb]: /contents/python-tips/8-hidden-tips/demo6.py.ipynb
 [demo7_ipynb]: /contents/python-tips/8-hidden-tips/demo7.py.ipynb
 [demo8_ipynb]: /contents/python-tips/8-hidden-tips/demo8.py.ipynb
+[all_ipynb]: /contents/python-tips/8-hidden-tips/all_demo.py.ipynb
