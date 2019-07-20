@@ -32,3 +32,12 @@ plugins:
 # Build setting
 permalink: pretty # remove *.html extension from generated link
 markdown: kramdown
+
+highlighter: true
+kramdown:
+  input: GFM
+  hard_wrap: False
+  syntax_highlighter: rouge
+  syntax_highlighter_opts: {span: {disable: true}}
+  math_engine: mathjax
+
