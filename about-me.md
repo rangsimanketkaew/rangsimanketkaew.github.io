@@ -16,11 +16,13 @@ layout: default
     </div>
 
     <div class="card">
-      <h1 class="card-title">Experience</h1>
+      <h1 class="card-title">Experiences</h1>
 
       <p>
-        I am a Thai student who interested in Linux, programming, supercomputer,
-        and chemistry.
+        My works are mostly about scientific research, especially theoretical
+        and computational chemistry. Some of them have been published in
+        scientific journal. I also have several websites and blogs, including
+        this one, where I share my knowledge and experience for those who are interested.
       </p>
     </div>
   </div>
