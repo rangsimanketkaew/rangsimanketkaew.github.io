@@ -7,11 +7,11 @@ category: web-development
 summary: My First Post
 thumbnail: posts/hello.jpg
 permalink: content/1
+comments: false
 ---
 
-This is the very first post of my website. 
-I am migrating from Google Site to Github static page.
+This is the very first post of my website.
+
+I am migrating from Google Site to this Github static website.
 
 Stay tuned for more updates!
-
-Rangsiman Ketkaew
