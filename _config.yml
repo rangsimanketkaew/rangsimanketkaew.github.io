@@ -1,15 +1,13 @@
-title: Rangsiman Ketkaew 
+title: Rangsiman Ketkaew
 subtitle: Computational environment and chemistry resources
 description: >- # this means to ignore newlines until "baseurl:"
-    Free Unix/Linux, programming, computational environment, and 
-    computational chemistry resources for everyone.
+  Free Unix/Linux, programming, computational environment, and 
+  computational chemistry resources for everyone.
 baseurl: "" # the subpath of site, e.g. /blog
 url: "https://rangsimanketkaew.github.io" # the base hostname & protocol for site, e.g. http://example.com
-permalink: pretty # remove *.html extension from generated link
 
-author_logo: /assets/img/profile.png 
-author: Rangsiman Ketkaew 
-author_bio: I am a Thai student who interested in Linux, programming, supercomputer, and chemistry.
+author_logo: /assets/img/profile.png
+author: Rangsiman Ketkaew
 author_email: "rangsiman1993@gmail.com"
 author_location: Bangkok, Thailand
 author_website_url: "https://rangsimanketkaew.github.io"
@@ -18,17 +16,19 @@ author_website_url: "https://rangsimanketkaew.github.io"
 disqus_shortname: rangsiman-ketkaew
 
 # social links
-twitter_username: rangsiman1993 
-github_username: rangsimanketkaew 
-facebook_username: r.ketkaew 
+twitter_username: rangsiman1993
+github_username: rangsimanketkaew
+facebook_username: r.ketkaew
 linkedin_username: rangsiman
 
 # Google Analytics
 google_analytics: UA-55803297-6
 
+# Additional plugins
 plugins:
   - jekyll-relative-links
   - jekyll-redirect-from
 
 # Build setting
+permalink: pretty # remove *.html extension from generated link
 markdown: kramdown

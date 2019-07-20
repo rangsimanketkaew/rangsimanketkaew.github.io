@@ -10,6 +10,8 @@ permalink: content/1
 comments: false
 ---
 
+<br>
+
 This is the very first post of my website.
 
 I am migrating from Google Site to this Github static website.

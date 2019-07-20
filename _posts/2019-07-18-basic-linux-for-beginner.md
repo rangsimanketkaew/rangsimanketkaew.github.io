@@ -20,6 +20,7 @@ comments: true
 Linux is the best-known and most-used open source operating system, developed by Linux Torvalds. It's free, fast, lightweight, beautiful, and powerful OS forever. The Kernel source code can be found on Torvalds/Linux.
 
 Introduction to Linux: the powerful tool for everyone
+
 1. Unix Tutorial for Beginners from the EE dept at Surrey
 2. Basic UNIX commands (and More Unix) from Suzanne Riehemann at Stanford
 3. Basic UNIX commands by Manuel Muriel Cordero
@@ -47,6 +48,7 @@ The command line (CL) is one of the most powerful features of Linux. If you have
 <br>
 
 Text editor
+
 1. Gedit program for newbie
 2. Basic VI commands from the CS dept at Colorado State.
 3. Emacs Basics from Suzanne Riehemann at Stanford.
@@ -58,6 +60,6 @@ Text editor
 <br>
 
 Shell Scripting
+
 1. Shell Scripts from Tutorials Point
 2. Shell Scripting tutorial from ShellScript.sh
-

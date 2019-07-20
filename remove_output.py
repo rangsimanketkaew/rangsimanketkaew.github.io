@@ -16,6 +16,7 @@ def remove_outputs(nb):
             if cell.cell_type == 'code':
                 cell.outputs = []
 
+
 if __name__ == '__main__':
     fname = sys.argv[1]
     with io.open(fname, 'r') as f:

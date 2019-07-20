@@ -4,8 +4,8 @@ title: Upload Python package to PyPI library
 author: Rangsiman Ketkaew
 date: "2019-07-17 17:07:00 +0700"
 category:
-    - Python
-    - how-to
+  - Python
+  - how-to
 summary: Upload Python package to PyPI library
 thumbnail: posts/python-logo.png
 permalink: content/3
@@ -41,15 +41,15 @@ This post covers the basic of how to build and distribution your own Python pack
 
 ## Prerequisite packages
 
-* Python 3.x
+- Python 3.x
 
 ```sh
 python --version
 ```
 
-* setuptools
-* wheel
-* twine
+- setuptools
+- wheel
+- twine
 
 ```sh
 pip install setuptools wheel twine --upgrade --user
@@ -223,4 +223,3 @@ pip install octadist
 1. Overview: https://packaging.python.org/overview/
 2. Tutorial: https://packaging.python.org/tutorials/
 3. Packaging and distributing tools: https://packaging.python.org/guides/distributing-packages-using-setuptools/
-
