@@ -33,7 +33,7 @@ plugins:
 permalink: pretty # remove *.html extension from generated link
 markdown: kramdown
 
-highlighter: true
+highlighter: rouge
 kramdown:
   input: GFM
   hard_wrap: False
