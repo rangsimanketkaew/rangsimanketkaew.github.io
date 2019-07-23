@@ -13,6 +13,11 @@ layout: page
   - [Other tools](#other-tools)
   - [Jupyter command-line](#jupyter-command-line)
   - [Convert .md to .html](#convert-md-to-html)
+  - [HTML in Markdown](#html-in-markdown)
+  - [Embedding PDF](#embedding-pdf)
+    - [PDFObject](#pdfobject)
+    - [embed](#embed)
+    - [iframe](#iframe)
 
 ### Platform and Service
 
@@ -101,7 +106,7 @@ pip install markdown2
 
 <hr />
 
-<h1>HTML in Markdown</h1>
+### HTML in Markdown
  
 <img src="/assets/img/test-and-wow.jpg" width="100%" height="auto">
 
@@ -309,3 +314,35 @@ This line is so longgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 <h3> Instagram Embed </h3>
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/BhFTg6uhNRi/" data-instgrm-version="9" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BhFTg6uhNRi/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Ahmad Ajmi (@ahmadajme)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-04-02T21:18:58+00:00">Apr 2, 2018 at 2:18pm PDT</time></p></div></blockquote> <script async defer src="//www.instagram.com/embed.js"></script>
+
+<br>
+
+### Embedding PDF
+
+#### PDFObject
+
+<div id="pdf1"></div>
+
+<script src='/jv/pdfobject.js'></script>
+<script>
+PDFObject.embed("/sample/sample.pdf", "#pdf1");
+</script>
+
+<style>
+.pdfobject-container { height: 30rem; border: 1rem solid rgba(0,0,0,.1); }
+</style>
+
+<br>
+
+#### embed
+
+<embed src="/sample/sample.pdf" type="application/pdf" width="100%" height="500rem">
+
+<br>
+
+#### iframe
+
+<iframe src="/sample/sample.pdf" width="100%" height="500rem">
+This browser does not support PDFs. Please download the PDF to view it: 
+<a href="/sample/sample.pdf">Download PDF</a></iframe>
+
