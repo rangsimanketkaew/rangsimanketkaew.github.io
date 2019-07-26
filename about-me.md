@@ -4,7 +4,6 @@ layout: default
 
 <div class="row">
   <div class="col-lg-8">
-  
     <div class="card">
       <h1 class="card-title">About Me</h1>
       <p>
@@ -17,11 +16,12 @@ layout: default
     <div class="card">
       <h1 class="card-title">Experiences</h1>
       <p>
-        My interests are mostly about scientific research. I love writing blogs including
-        this one where I share my knowledge and experience in computer science, technology news, state-of-the-art techniques, and cool tricks for those who are interested.
+        My interests are mostly about scientific research. I love writing blogs
+        including this one where I share my knowledge and experience in computer
+        science, technology news, state-of-the-art techniques, and cool tricks
+        for those who are interested.
       </p>
     </div>
-
   </div>
 
   <div class="col-lg-4">
@@ -37,6 +37,5 @@ layout: default
       <p>Bash, Python, C++, Fortran, HTML/CSS,</p>
       <p>Unix/Linux, Windows, Git, Vi</p>
     </div>
-
   </div>
 </div>
