@@ -1,0 +1,35 @@
+---
+layout: default
+title: Home
+---
+
+<div class="row">
+  <div class="col-lg-8 col-md-4">
+    {{ content }}
+  </div>
+
+  <div class="col-lg-4">
+    <div class="card">
+      <div class="card-header">Categories</div>
+      <div class="card-body text-dark">
+        <!-- Loop over tag in category specified by user in post file.-->
+        {% for tag in site.categories %} {% capture tag_name %}{{
+          tag | first
+        }}{% endcapture %}
+        <div id="#{{ tag_name | slugize }}"></div>
+        <li class="tag-head">
+          <a href="{{ site.baseurl }}/blog/categories/{{ tag_name }}">{{
+            tag_name
+          }}</a>
+        </li>
+        <a name="{{ tag_name | slugize }}"></a>
+
+        {% endfor %}
+      </div>
+    </div>
+    <div class="card">
+      <!-- Begin MailChimp Signup Form -->
+      {%- include newsletter.html -%}
+    </div>
+  </div>
+</div>
