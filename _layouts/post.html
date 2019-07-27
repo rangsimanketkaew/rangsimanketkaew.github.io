@@ -6,17 +6,19 @@ layout: default
 Blog / Categories / page.title
 -->
 <div class="card-nav-post">
-<nav aria-label="breadcrumb" role="navigation">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item">
-      <a href="/">Blog</a>
-    </li>
-    <li class="breadcrumb-item">
-      <a href="/blog/categories">Categories</a>
-    </li>
-    <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
-  </ol>
-</nav>
+  <nav aria-label="breadcrumb" role="navigation">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item">
+        <a href="/">Blog</a>
+      </li>
+      <li class="breadcrumb-item">
+        <a href="/blog/categories">Categories</a>
+      </li>
+      <li class="breadcrumb-item active" aria-current="page">
+        {{ page.title }}
+      </li>
+    </ol>
+  </nav>
 </div>
 
 <div class="row">
@@ -59,6 +61,11 @@ Blog / Categories / page.title
           src="/assets/img/{{ page.thumbnail }}"
           alt="{{ post.title }}"
         />
+
+        <p>
+          <br />
+        </p>
+
         {{ content }} {%- include share.html -%}
       </div>
 
