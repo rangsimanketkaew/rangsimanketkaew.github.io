@@ -4,7 +4,7 @@ title: Python References
 author: Rangsiman Ketkaew
 date: "2019-07-23 00:27:00 +0700"
 category:
-  - python
+  - Python
 summary: Reference books and materials for Python learner
 thumbnail: posts/code-capture.jpeg
 permalink: content/5
