@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Install Plugins for Vi/Vim
+title: Install Plugins for Vim
 author: Rangsiman Ketkaew
 date: "2019-07-27 23:26:00 +0700"
 category:
   - Vi-Vim
   - text-editor
-summary: How to install plugins and examples for vi/vim editor
+summary: How to install plugins for Vim editor
 thumbnail: posts/vim-logo.png
 permalink: content/7
 comments: true
