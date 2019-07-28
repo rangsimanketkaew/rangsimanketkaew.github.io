@@ -14,7 +14,16 @@ comments: true
 
 ## เกริ่นนำ
 
-สวัสดีครับ ผมเชื่อว่าหลาย ๆ คนที่ใช้งาน Linux หรือ macOS หรือระบบปฏิบัติการ (OS) อะไรก็แล้วแต่ที่ต้อง deal กับ command-line จะต้องรู้จักโปรแกรมแก้ไขอักษร (text editor) ที่ชื่อว่า Vim อย่างแน่นอน นั่นก็เพราะความสามารถที่โดดเด่นซึ่งสามารถช่วยให้เราแก้ไขไฟล์ได้อย่างรวดเร็ว โพสต์นี้ผมจะอธิบายวิธีการติดตั้งโปรแกรมเสริม (extension) หรือปลั๊กอิน (plugin) ให้กับ Vim ซึ่งผมก็จะยแสดงตัวอย่างการติดตั้งปลั๊กอินยอดฮิต NERDTree ด้วยครับ
+สวัสดีครับ ผมเชื่อว่าหลาย ๆ คนที่ใช้งาน Linux หรือ macOS หรือระบบปฏิบัติการ (OS) อะไรก็แล้วแต่ที่ต้อง deal กับ command-line จะต้องรู้จักโปรแกรมแก้ไขอักษร (text editor) ที่ชื่อว่า Vim อย่างแน่นอน นั่นก็เพราะความสามารถที่โดดเด่นซึ่งสามารถช่วยให้เราแก้ไขไฟล์ได้อย่างรวดเร็ว โพสต์นี้ผมจะอธิบายวิธีการติดตั้งโปรแกรมเสริม (extension) หรือปลั๊กอิน (plugin) ให้กับ Vim ซึ่งผมก็จะแสดงตัวอย่างการติดตั้งปลั๊กอินยอดฮิต NERDTree ด้วยครับ
+
+<br>
+
+<img 
+  src="/assets/img/posts/vim-help.png" 
+  alt="vi-nerdtree-test" 
+  width="100%" 
+  height="auto" 
+/>
 
 <br>
 
@@ -34,9 +43,8 @@ comments: true
 ## ระบบที่ผมใช้
 
 - Windows Linux Subsystem (WLS)
-- Ubuntu
-- Version: 18.04.2 LTS (Bionic Beaver)
-- Vim
+- Ubuntu: Version: 18.04.2 LTS (Bionic Beaver)
+- Vim editor (vim-gnome)
 ```
 VIM - Vi IMproved 8.0 (2016 Sep 12, compiled Jun 06 2019 17:31:41)
 Included patches: 1-1453
