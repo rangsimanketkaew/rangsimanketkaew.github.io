@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compiling Linear Algebra Libraries
+title: Compiling Powerful Linear Algebra Libraries on Linux
 author: Rangsiman Ketkaew
 date: "2019-07-30 00:12:00 +0700"
 category:
@@ -9,7 +9,7 @@ category:
   - math
   - installation
   - software
-summary: Compile many powerful linear algebra libraries on Linux system
+summary: Compiling powerful linear algebra libraries on Linux
 thumbnail: posts/linalg.png
 permalink: content/8
 comments: true
@@ -33,7 +33,7 @@ comments: true
 
 ## Compiling Linear Algebra Libraries
 
-This post would show how to compile a software suite of linear algebra libraries. Those linear algebra math libraries have been generously used for compiling a mid- and top-level scientific programming such as Fortran, C, and C++.
+This post will show how to compile and install linear algebra libraries such as BLAS and LAPACK on Linux-based operating system step-by-step. These linear algebra mathematical libraries have been generously used in computational science and development for compiling a mid- and top-level scientific programming such as Fortran, C, and C++ programming languages.
 
 <br>
 
