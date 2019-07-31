@@ -4,11 +4,10 @@ title: Compiling Powerful Linear Algebra Libraries on Linux
 author: Rangsiman Ketkaew
 date: "2019-07-30 00:12:00 +0700"
 category:
-  - library
-  - environment
-  - math
+  - Computational-environment
+  - Math-library
   - installation
-  - software
+  - software-development
 summary: Compiling powerful linear algebra libraries on Linux
 thumbnail: posts/linalg.png
 permalink: content/8
