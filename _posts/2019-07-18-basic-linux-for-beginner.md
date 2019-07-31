@@ -4,7 +4,7 @@ title: Basic Linux for the Beginner
 author: Rangsiman Ketkaew
 date: "2019-07-19 00:43:00 +0700"
 category:
-  - linux
+  - Linux
 summary: Resources for everyone to get started Linux
 thumbnail: posts/linux-1.png
 permalink: content/4
