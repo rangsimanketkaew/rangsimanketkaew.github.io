@@ -20,7 +20,7 @@ comments: true
 
 <img 
   src="/assets/img/posts/vim-help.png" 
-  alt="vi-nerdtree-test" 
+  alt="vim-help" 
   width="100%" 
   height="auto" 
 />
@@ -108,7 +108,7 @@ vi
 
 <img 
   src="/assets/img/posts/vim-awesome-screenshot.png" 
-  alt="vi-nerdtree-test" 
+  alt="vim-awesome-screenshot" 
   width="100%" 
   height="auto" 
 />
@@ -132,7 +132,7 @@ Plug 'klen/python-mode'
 
 <img 
   src="/assets/img/posts/install-python-plugin-vim.png" 
-  alt="vi-nerdtree-test" 
+  alt="install-python-plugin-vim" 
   width="100%" 
   height="auto" 
 />
