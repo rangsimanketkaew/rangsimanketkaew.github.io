@@ -129,7 +129,6 @@ Plug 'klen/python-mode'
 ```
 
 3. รอสักครู่จนการติดตั้งจะเสร็จสมบูรณ์
-
 <img 
   src="/assets/img/posts/install-python-plugin-vim.png" 
   alt="install-python-plugin-vim" 
@@ -156,7 +155,6 @@ vi
 ```
 
 3. เมื่อ NERDTree ทำงาน จะปรากฎหน้าต่าง File/Folder explorer ขึ้นมาทางด้านซ้าย ซึ่งจะเป็นการแสดงไฟล์และแฟ้มข้อมูลแบบ tree นั่นเอง ซึ่งปลั๊กอินตัวนี้มีประโยชน์อย่างมากในการทำงานที่ต้องมีการแก้ไขหลาย ๆ ไฟล์พร้อมกัน
-
 <img 
   src="/assets/img/posts/vi-nerdtree-test.png" 
   alt="vi-nerdtree-test" 
