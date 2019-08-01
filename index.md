@@ -29,7 +29,7 @@ layout: home
     <img
       src="/assets/img/pages/programming.gif"
       alt="programming"
-      width="55%"
+      width="70%"
       height="auto"
       class="center-img"
     />
