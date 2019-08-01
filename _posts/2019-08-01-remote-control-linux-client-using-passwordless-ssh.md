@@ -31,6 +31,8 @@ Suppose that a cluster has mother node and clients nodes whose their hostname ar
 - compute-4
 - compute-5
 
+<br>
+
 ### Step 1. Generating a private key
 
 The first step starts with creation of an authentication key on Remote SSH for accessing to client or computing node. 
@@ -76,6 +78,8 @@ Look at $HOME/.ssh/. There you should have id_ras and id_ras.pub files. Now, cop
 cp id_ras.pub authorized_keys
 ```
 
+<br>
+
 ### Step 2. Create automatic script to send token authentication key to all clients
 
 On Remote SSH, create new bash script and copy/paste following code to bash script.
@@ -87,6 +91,8 @@ for i in compute-{1..5}
   scp -r id_ras id_rsa.pub authorized_keys $USER@$i:$HOME/.ssh/
 done
 ```
+
+<br>
 
 ### Step 3. Executing script
 
