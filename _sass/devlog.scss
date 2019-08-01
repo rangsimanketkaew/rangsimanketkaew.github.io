@@ -39,13 +39,22 @@ header {
   text-align: center;
 }
 
+.custom_btn {
+  width: 90px !important;
+  text-align: center !important;
+}
+
 .center-img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 15px;
-  width: 50%;
+}
+
+.resize-animated-gif{
+  width: 120px !important;
+  height: auto !important;
 }
 
 .card {

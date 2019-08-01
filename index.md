@@ -5,9 +5,10 @@ layout: home
 <div class="row justify-content-center">
   <div class="card blog-post">
     <img
-      src="/assets/img/pages/linux.png"
+      src="/assets/img/pages/linux.gif"
       alt="linux"
-      width="200px"
+      width="40%"
+      height="auto"
       class="center-img"
     />
 
@@ -18,13 +19,18 @@ layout: home
       <li>RHEL-based and Ubuntu-based Distributions</li>
       <li>Program Installations</li>
     </ul>
+
+    <p align="center">
+      <a href="{{ site.baseurl }}/linux" class="btn btn-primary btn-lg custom_btn">Read</a>
+    </p>
   </div>
 
   <div class="card blog-post">
     <img
-      src="/assets/img/pages/programming.png"
+      src="/assets/img/pages/programming.gif"
       alt="programming"
-      width="200px"
+      width="55%"
+      height="auto"
       class="center-img"
     />
 
@@ -37,13 +43,18 @@ layout: home
       <li>HTMl/CSS + Bootstrap</li>
       <li>Scientific Computing</li>
     </ul>
+
+    <p align="center">
+      <a href="{{ site.baseurl }}/programming" class="btn btn-primary btn-lg custom_btn">Read</a>
+    </p>
   </div>
 
   <div class="card blog-post">
     <img
-      src="/assets/img/pages/comp-env.png"
+      src="/assets/img/pages/comp-env.gif"
       alt="comp-env"
-      width="200px"
+      width="70%"
+      height="auto"
       class="center-img"
     />
 
@@ -55,23 +66,32 @@ layout: home
       <li>Software Development</li>
       <li>Devices and Hardware</li>
     </ul>
+
+    <p align="center">
+      <a href="{{ site.baseurl }}/comp-env" class="btn btn-primary btn-lg custom_btn">Read</a>
+    </p>
   </div>
 
   <div class="card blog-post">
     <img
-      src="/assets/img/pages/comp-sci.png"
+      src="/assets/img/pages/comp-sci.gif"
       alt="comp-sci"
-      width="200px"
+      width="50%"
+      height="auto"
       class="center-img"
     />
 
     <h5 align="center">Computational Science</h5>
     <ul>
       <li>Artificial Intelligence</li>
-      <li>Big data</li>
+      <li>Deep learning</li>
       <li>Machine learning</li>
-      <li>Autobot</li>
+      <li>Big data</li>
     </ul>
+
+    <p align="center">
+      <a href="{{ site.baseurl }}/comp-sci" class="btn btn-primary btn-lg custom_btn">Read</a>
+    </p>
   </div>
 
   <div class="card blog-post">
@@ -79,16 +99,21 @@ layout: home
       src="/assets/img/pages/comp-chem.gif"
       alt="comp-chem"
       width="200px"
+      height="auto"
       class="center-img"
     />
 
     <h5 align="center">Computational Chemistry</h5>
     <ul>
-      <li>Computational Chemistry Techniques</li>
+      <li>Tips and Tricks</li>
       <li>Molecular Properties and Modeling</li>
       <li>Program Installations</li>
       <li>Program Benchmarks</li>
     </ul>
+
+    <p align="center">
+      <a href="{{ site.baseurl }}/comp-chem" class="btn btn-primary btn-lg custom_btn">Read</a>
+    </p>
   </div>
 </div>
 

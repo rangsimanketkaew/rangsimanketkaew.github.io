@@ -31,6 +31,8 @@ layout: default
             <!-- Button to read post -->
             <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}"
               class="btn btn-primary btn-lg">Read</a>
+            
+            <!-- Read count by disqus -->
             <span class="disqus-comment-count" data-disqus-identifier="{{ post.url }}"></span>
           </div>
         </div>
