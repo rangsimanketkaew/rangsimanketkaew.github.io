@@ -4,7 +4,7 @@ https://rangsimanketkaew.github.io
 
 <br>
 
-<p align="center>
+<p align="center">
     <img src="screenshot-homepage.png"
     href="https://rangsimanketkaew.github.io"
     alt="screentshot of front page"
