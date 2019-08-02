@@ -9,14 +9,14 @@ permalink: comp-env
 
 ## Program Installations
 
-* [Installation of Intel Parallel Studio XE 2018 update 3]()
+* [Installation of Intel Parallel Studio XE 2018 update 3](content/9)
 * [Installation of MPICH]()
 * [Installation of MVAPICH]()
 * [Installation of OpenMPI]()
 
 ## Math and Parallel Libraries
 
-* [Compiling Linear Algebra Libraries]()
+* [Compiling Linear Algebra Libraries](content/8)
 * [Intel Performance Libraries (ext)]()
 * [Intel Math Kernel Library Link Line Advisor (ext)]()
 * [Interoperability with OpenMP APII_MPI_PIN_DOMAIN (ext)]()

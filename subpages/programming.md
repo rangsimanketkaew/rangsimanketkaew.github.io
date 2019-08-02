@@ -13,6 +13,10 @@ permalink: programming
 * <https://www.programming9.com>
 * <https://www.w3resource.com>
 
+## Bash Scripting
+
+* [For loop in Bash]()
+
 ## C++ Programming
 
 * [C++: Practicing programs]()
@@ -20,57 +24,40 @@ permalink: programming
 
 ## Python Programming
 
+* [Install Python 3 on local directory in Linux]()
+* [8 Python Tips You May Never Know](content/2)
+* [Install PyInstaller]()
+* [Make A Standalone Executable from Python script using PyInstaller]()
+* [Reduce the size of executable file created by PyInstaller on Conda]()
+
+## Python Tools
+
+* [Quick Conda commands](content/18)
 * [Build your documents using Sphinx]()
-* [Python: Create and upload your project to PyPI library]()
-* [Python: Install Python 3 on local /home directory in Linux]()
-* [Python: Install Python Package using PIP]()
-* [Python: Install PyInstaller]()
-* [Python: Make A Standalone Executable from Python script using PyInstaller]()
-* [Python: Reduce the size of executable file created by PyInstaller on Conda]()
-* [Python: Upload your project on PyPI to Anaconda Cloud]()
+* [Install Python Package using PIP]()
+* [Upload your project to PyPI library](content/3)
+* [Upload your project on PyPI to Anaconda Cloud]()
 
 ## Python IDE
 
+* [NotePad++: How to Run Python Script]()
+* [NotePad++: How to Install Plugins]()
+* [NotePad++: Run Python and Show Output in Console using NPPEXEC pluging]()
+* [Visual Studio Code: Powerful Plugins for Python]()
+* [Visual Studio Code: Create/Rename/Duplicate/Delete file and folder using File Utils]()
 * [PyCharm: How Can I Launch PyCharm Faster?]()
 * [Python for Scientific Computing (Youtube Playlist)]()
 
-## Conda
+## Vi/Vim Text Editor
 
-- Install package, e.g. tensorflow,
-```
-conda install tensorflow
-```
-- Update conda
-```
-conda update conda
-```
-- Update all packages
-```
-conda update --all
-```
-- Clean caches, such as tarball files and unused packages.
-```
-conda clean --all
-```
-- Create new environment
-```
-conda create --name NAME_OF_ENV
-```
-- Activate env
-```
-conda activate NAME_OF_ENV
-```
-- Deactivate env
-```
-conda deactivate
-```
-- Delete unwanted env
-```
-conda remove --name NAME_OF_ENV --all
-```
+* [Upgrade your Vi/Vim]()
+* [How to Install Plugins for Vim](content/7)
+* [Create your own command in Vim]()
+* [Playing with sub-windows in Vim]()
 
-## Cheat sheet for Python and tools
+## Cheat sheet for Python and Tools
 
+* [Python reference](content/5)
 * [Python for data science]()
 * [Python cheat sheet]()
 * [Python for beginner]()
