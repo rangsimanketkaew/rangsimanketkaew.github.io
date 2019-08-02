@@ -11,16 +11,16 @@ permalink: linux
 
 * [Basic Linux and VI commands](content/4)
 * [Connect Remote Server using OpenVPN with Username/Password Authentication](content/10)
-* [Remote Control Linux Client using Passwordless SSH](content/13)
-* [Transfer File between Remote Server and Local Machine](content/14)
-* [Working with the Linux Terminal](content/15)
+* [Remote Control Linux Client using Passwordless SSH](content/11)
+* [Transfer File between Remote Server and Local Machine](content/12)
+* [Working with the Linux Terminal](content/13)
 
 ## Basic System Administration
 
-* [Check Free Memory on Linux for Running Program]()
-* [Monitor Linux Performance using Passwordless SSH]()
-* [Scan IP address using command line]()
-* [Segmentation Fault in Your Program]()
+* [Check Free Memory on Linux for Running Program](content/14)
+* [Monitor Linux Performance using Passwordless SSH](content/15)
+* [Scan IP address using command line](content/16)
+* [Segmentation Fault in Your Program](content/17)
 
 ## Package Installations
 
