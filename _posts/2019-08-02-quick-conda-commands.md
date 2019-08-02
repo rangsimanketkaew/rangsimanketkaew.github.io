@@ -7,7 +7,7 @@ category:
   - Python
   - cheat-sheet
 summary: Important Conda commands you should know
-thumbnail: posts/anaconda-logo.png
+thumbnail: posts/python-conda.png
 permalink: content/18
 comments: true
 ---
