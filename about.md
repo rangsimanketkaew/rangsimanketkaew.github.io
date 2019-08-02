@@ -25,12 +25,61 @@ layout: default
 
     <div class="card">
       <h1 class="card-title">Projects</h1>
-        <ul>
-          <li><a href="https://sites.google.com/site/rangsiman1993/">Google Site Blog</a></li>
-          <li><a href="https://github.com/rangsimanketkaew/NWChem">ET-NWChem</a></li>
-          <li><a href="https://github.com/rangsimanketkaew/QM-on-TAIWANIA">QM-on-TAIWANIA</a></li>
-          <li><a href="https://octadist.github.io/">OctaDist</a></li>
-        </ul>
+      <ul>
+        <li>
+          <a href="https://sites.google.com/site/rangsiman1993/"
+            >Google Site Blog</a
+          >
+        </li>
+        <li>
+          <a href="https://github.com/rangsimanketkaew/NWChem">ET-NWChem</a>
+        </li>
+        <li>
+          <a href="https://github.com/rangsimanketkaew/QM-on-TAIWANIA"
+            >QM-on-TAIWANIA</a
+          >
+        </li>
+        <li><a href="https://octadist.github.io/">OctaDist</a></li>
+        <li>
+          <a href="https://github.com/rangsimanketkaew/tv_counting"
+            >tv_counting</a
+          >
+        </li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h1 class="card-title">Contributions</h1>
+      <p>
+      <h5>PyCon Thailand 2019</h5>
+      <img
+        src="/assets/img/about/pycon-assemble.JPG"
+        alt="pycon-assemble"
+        width="500px"
+        height="auto"
+      />
+      </p>
+
+      <p>
+      <h5>ThaiPy Bangkok Meetup</h5>
+      <img
+        src="/assets/img/about/thaipy.JPG"
+        alt="thaipy"
+        width="500px"
+        height="auto"
+      />
+      </p>
+      
+      <p>
+      <h5>PySomTum</h5>
+      <img
+        src="/assets/img/about/pysomtum.JPG"
+        alt="pysomtum"
+        width="500px"
+        height="auto"
+      />
+      </p>
+
     </div>
   </div>
 
