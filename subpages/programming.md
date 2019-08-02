@@ -38,27 +38,32 @@ permalink: programming
 * [Upload your project to PyPI library](content/3)
 * [Upload your project on PyPI to Anaconda Cloud]()
 
-## Python IDE
-
-* [NotePad++: How to Run Python Script]()
-* [NotePad++: How to Install Plugins]()
-* [NotePad++: Run Python and Show Output in Console using NPPEXEC pluging]()
-* [Visual Studio Code: Powerful Plugins for Python]()
-* [Visual Studio Code: Create/Rename/Duplicate/Delete file and folder using File Utils]()
-* [PyCharm: How Can I Launch PyCharm Faster?]()
-* [Python for Scientific Computing (Youtube Playlist)]()
-
-## Vi/Vim Text Editor
+## Vi/Vim
 
 * [Upgrade your Vi/Vim]()
 * [How to Install Plugins for Vim](content/7)
 * [Create your own command in Vim]()
 * [Playing with sub-windows in Vim]()
 
-## Cheat sheet for Python and Tools
+## NotePad++
+
+* [NotePad++: How to Run Python Script]()
+* [NotePad++: How to Install Plugins]()
+* [NotePad++: Run Python and Show Output in Console using NPPEXEC pluging]()
+
+## Visual Studio Code
+
+* [Visual Studio Code: Powerful Plugins for Python]()
+* [Visual Studio Code: Create/Rename/Duplicate/Delete file and folder using File Utils]()
+
+## PyCharm
+
+* [PyCharm: How Can I Launch PyCharm Faster?]()
+* [Python for Scientific Computing (Youtube Playlist)]()
+
+## Reference and Cheat Sheets
 
 * [Python reference](content/5)
 * [Python for data science]()
 * [Python cheat sheet]()
 * [Python for beginner]()
-* [Python 3 cheat sheet]()
