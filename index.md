@@ -37,10 +37,10 @@ layout: home
     <h5 align="center">Programming</h5>
     <ul>
       <li>Learning Coding</li>
+      <li>Functional programming</li>
       <li>Object-oriented programming</li>
-      <li>Python 3</li>
-      <li>C++</li>
-      <li>HTMl/CSS + Bootstrap</li>
+      <li>Scripting programming</li>
+      <li>HTMl/CSS and Bootstrap</li>
       <li>Scientific Computing</li>
     </ul>
 
