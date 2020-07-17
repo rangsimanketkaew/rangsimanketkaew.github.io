@@ -7,19 +7,15 @@ layout: default
     <div class="card">
       <h1 class="card-title">About Me</h1>
       <p>
-        I am a Thai computational chemistry student and self-taught programmer
-        who is interested in Linux, scientific computing, operation systems,
-        network, computer cluster, and supercomputer.
+        I am a Ph.D. student in theoretical and computational chemistry at Department of Chemistry, University of Zurich, Switzerland. I am a self-taught programmer and also interested in Linux, operating system, scientific computing, high-performance computing and supercomputer.
       </p>
     </div>
 
     <div class="card">
       <h1 class="card-title">Experiences</h1>
       <p>
-        My interests are mostly about scientific research. I love writing blogs
-        including this one where I share my knowledge and experience in computer
-        science, technology news, state-of-the-art techniques, and cool tricks
-        for those who are interested.
+        My interests are mostly about programming and scientific research. I love writing blogs
+        and running personal <a href="https://youtube.com/rangsiman1993">Youtube channel</a> where I share my knowledge and experience in computer science, technology news, state-of-the-art techniques, and cool programming tricks.
       </p>
     </div>
 
@@ -91,9 +87,15 @@ layout: default
     </div>
 
     <div class="card">
+      <h1>CV</h1>
+      <p>My CV is available <a href="/cv_tex.pdf">here</a>.</p>
+    </div>
+
+    <div class="card">
       <h1>Skills</h1>
       <p>Bash, Python, C++, Fortran, HTML/CSS,</p>
       <p>Unix/Linux, Windows, Git, Vi</p>
+      <p>AWS Cloud and System administration</p>
     </div>
   </div>
 </div>

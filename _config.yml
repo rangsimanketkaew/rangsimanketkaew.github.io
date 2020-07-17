@@ -1,15 +1,14 @@
 title: Rangsiman Ketkaew
-subtitle: Computational environment and chemistry resources
+subtitle: Ph.D. Student in Theoretical Chemistry at UZH
 description: >- # this means to ignore newlines until "baseurl:"
-  Free Unix/Linux, programming, computational environment, and 
-  computational chemistry resources for everyone.
+  Rangsiman Ketkaew's website: Ph.D. Student in Theoretical Chemistry at University of Zurich
 baseurl: "" # the subpath of site, e.g. /blog
 url: "https://rangsimanketkaew.github.io" # the base hostname & protocol for site, e.g. http://example.com
 
 author_logo: /assets/img/profile.png
 author: Rangsiman Ketkaew
 author_email: "rangsiman1993@gmail.com"
-author_location: Bangkok, Thailand
+author_location: Zurich, Switzerland
 author_website_url: "https://rangsimanketkaew.github.io"
 
 # Disqus for commenting under the post
