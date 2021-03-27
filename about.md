@@ -7,7 +7,7 @@ layout: default
     <div class="card">
       <h1 class="card-title">About Me</h1>
       <p>
-        I am a Ph.D. student in theoretical and computational chemistry at Department of Chemistry, University of Zurich, Switzerland. I am a self-taught programmer and also interested in Linux, operating system, scientific computing, high-performance computing and supercomputer.
+        I am a Ph.D. student in theoretical and computational chemistry at Department of Chemistry, University of Zurich, Switzerland. I am also a self-taught programmer interested in Linux, operating system, scientific computing, high-performance computing and supercomputer.
       </p>
     </div>
 
@@ -16,6 +16,7 @@ layout: default
       <p>
         My interests are mostly about programming and scientific research. I love writing blogs
         and running personal <a href="https://youtube.com/rangsiman1993">Youtube channel</a> where I share my knowledge and experience in computer science, technology news, state-of-the-art techniques, and cool programming tricks.
+        Libraries and software I have been developeing can be found in my Github at <a href="https://youtube.com/rangsiman1993">https://github.com/rangsimanketkaew</a>.
       </p>
     </div>
 
