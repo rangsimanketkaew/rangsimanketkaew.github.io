@@ -7,7 +7,7 @@ permalink: comp-chem
 
 ---
 
-## CompChem Techniques
+## Useful Techniques
 
 * [Energy Units and Conversion using FORTRAN]()
 * [Gaussian: BSSE calculation]()

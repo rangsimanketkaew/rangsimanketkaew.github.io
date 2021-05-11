@@ -21,8 +21,17 @@ permalink: programming
 
 * [C++: Practicing programs]()
 * [C++: Program samples (ext)]()
+* [Guide to Scientific Computing in C++, 2nd edition (ext)](https://petcomputacao.ufsc.br/wp-content/uploads/2020/06/2017_Book_GuideToScientificComputingInC.pdf) 
 
-## Python Programming
+## Fortran
+
+* [Fortran Wiki Tutorials (ext)](http://fortranwiki.org/fortran/show/Tutorials)
+* [Fortran Lessons (ext)](https://math.hawaii.edu/wordpress/fortran-lessons/)
+* [Learn to code 7 lessons with Fortran 90/95 (ext)](https://www.fortrantutorial.com/index.php)
+* [A First Course in Scientific Computing: Fortran Version (ext)](http://assets.press.princeton.edu/landau_firstCourse/FortranCD/AllFort.pdf)
+* [Introduction to F2Py (ext)](https://www2.atmos.umd.edu/~dkleist/docs/pythonTraining/Slides/F2Py_SSSO.pdf)
+
+## Python
 
 * [Install Python 3 on local directory in Linux]()
 * [8 Python Tips You May Never Know](content/2)
@@ -60,6 +69,10 @@ permalink: programming
 
 * [PyCharm: How Can I Launch PyCharm Faster?]()
 * [Python for Scientific Computing (Youtube Playlist)]()
+
+## Makefile
+
+* [Introduction to Makefil (ext)](https://bytes.usc.edu/cs104/wiki/makefile/)
 
 ## Reference and Cheat Sheets
 
