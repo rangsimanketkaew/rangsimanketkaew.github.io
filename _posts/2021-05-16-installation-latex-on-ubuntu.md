@@ -7,7 +7,7 @@ category:
   - LaTeX
   - Linux
 summary: Installation of LaTeX on Ubuntu
-thumbnail: 
+thumbnail: posts/blog.png
 permalink: content/20
 comments: true
 ---
