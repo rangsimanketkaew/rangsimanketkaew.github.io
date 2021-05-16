@@ -113,7 +113,7 @@ layout: default
 
     <div class="card">
       <h1>CV</h1>
-      <p>My CV is available <a href="/cv_tex.pdf">here</a>.</p>
+      <p>My CV is available <a href="/cv_tex.pdf" target="_blank">here</a>.</p>
     </div>
 
     <div class="card">
@@ -135,6 +135,7 @@ layout: default
       </ul>
       <h4>Favorite discussions</h4>
       <ul>
+        <li><h6><a href="https://stackoverflow.com/questions/101268/hidden-features-of-python" target="_blank">Hidden features of Python</a></h6></li>
         <li><h6><a href="https://scicomp.stackexchange.com/questions/3159/is-it-a-good-idea-to-use-vectorvectordouble-to-form-a-matrix-class-for-high" target="_blank">Is it a good idea to use vector&lt;vector&lt;double&gt;&gt; to form a matrix class for high performance scientific computing code?</a></h6></li>
       </ul>
     </div>
