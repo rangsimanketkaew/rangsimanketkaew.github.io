@@ -13,14 +13,10 @@ permalink: programming
 * <https://www.programming9.com>
 * <https://www.w3resource.com>
 
-## Bash Scripting
-
-* [For loop in Bash]()
-
 ## C++ Programming
 
-* [C++: Practicing programs]()
-* [C++: Program samples (ext)]()
+* [C++: Practicing programs](https://sites.google.com/site/rangsiman1993/programming/cpp-practicing-programs)
+* [C++: Program samples (ext)](http://www.codebind.com/cpp/cpp-programs-examples/)
 * [Guide to Scientific Computing in C++, 2nd edition (ext)](https://petcomputacao.ufsc.br/wp-content/uploads/2020/06/2017_Book_GuideToScientificComputingInC.pdf) 
 
 ## Fortran
@@ -33,42 +29,25 @@ permalink: programming
 
 ## Python
 
-* [Install Python 3 on local directory in Linux]()
+* [Install Python package using PIP](https://sites.google.com/site/rangsiman1993/programming/python-install-package-using-pip)
+* [Install Python 3 on local directory in Linux](https://sites.google.com/site/rangsiman1993/programming/install-python3-local-linux)
 * [8 Python Tips You May Never Know](content/2)
-* [Install PyInstaller]()
-* [Make A Standalone Executable from Python script using PyInstaller]()
-* [Reduce the size of executable file created by PyInstaller on Conda]()
+* [Install PyInstaller](https://sites.google.com/site/rangsiman1993/programming/install-pyinstaller)
+* [Make A Standalone Executable from Python script using PyInstaller](https://sites.google.com/site/rangsiman1993/programming/make-exe-from-python-script-using-pyinstaller)
+* [Reduce the size of executable file created by PyInstaller on Conda](https://sites.google.com/site/rangsiman1993/programming/python-reduce-size-of-exe-pyinstaller-on-conda)
+* [Build document for your Python project using Sphinx (ext)](https://sites.google.com/site/rangsiman1993/programming/build-doc-using-sphinx)
+* [Create and upload your Python program to PyPI](content/3)
+* [Create and upload your Python program to Conda](https://sites.google.com/site/rangsiman1993/programming/python-upload-pypi-to-anaconda-cloud)
 
-## Python Tools
+## Python tools
 
 * [Quick Conda commands](content/18)
-* [Build your documents using Sphinx]()
-* [Install Python Package using PIP]()
-* [Upload your project to PyPI library](content/3)
-* [Upload your project on PyPI to Anaconda Cloud]()
+* [PyCharm: How Can I Launch PyCharm Faster?](https://sites.google.com/site/rangsiman1993/programming/how-can-i-launch-pycharm-faster)
+* [Python for Scientific Computing (Youtube Playlist)](https://www.youtube.com/playlist?list=PLt-twymrmZ2eUPDfuXP6A7fbiCZygd-sa)
 
 ## Vi/Vim
 
-* [Upgrade your Vi/Vim]()
 * [How to Install Plugins for Vim](content/7)
-* [Create your own command in Vim]()
-* [Playing with sub-windows in Vim]()
-
-## NotePad++
-
-* [NotePad++: How to Run Python Script]()
-* [NotePad++: How to Install Plugins]()
-* [NotePad++: Run Python and Show Output in Console using NPPEXEC pluging]()
-
-## Visual Studio Code
-
-* [Visual Studio Code: Powerful Plugins for Python]()
-* [Visual Studio Code: Create/Rename/Duplicate/Delete file and folder using File Utils]()
-
-## PyCharm
-
-* [PyCharm: How Can I Launch PyCharm Faster?]()
-* [Python for Scientific Computing (Youtube Playlist)]()
 
 ## Makefile
 
@@ -77,6 +56,3 @@ permalink: programming
 ## Reference and Cheat Sheets
 
 * [Python reference](content/5)
-* [Python for data science]()
-* [Python cheat sheet]()
-* [Python for beginner]()
