@@ -23,6 +23,10 @@ permalink: comp-env
 * [Selecting Fabrics for Intel MPI Library (ext)](https://software.intel.com/content/www/us/en/develop/documentation/mpi-developer-guide-linux/top/running-applications/fabrics-control/selecting-fabrics.html)
 * [Tuning Reference of Intel MPI Library Developer Reference for Linux OS (ext)](https://software.intel.com/content/www/us/en/develop/home.html)
 
+## Compiling libraries
+
+* [Install Linux libraries](content/26)
+
 ## Test and Benchmarks
 
 * [Benchmark Your Cluster using Intel Distribution for LINPACK Benchmark](https://sites.google.com/site/rangsiman1993/comp-env/test-and-benchmarks/benchmark-hpc-intel-linpack)
