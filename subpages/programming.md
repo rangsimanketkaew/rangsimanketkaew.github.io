@@ -45,6 +45,11 @@ permalink: programming
 * [PyCharm: How Can I Launch PyCharm Faster?](https://sites.google.com/site/rangsiman1993/programming/how-can-i-launch-pycharm-faster)
 * [Python for Scientific Computing (Youtube Playlist)](https://www.youtube.com/playlist?list=PLt-twymrmZ2eUPDfuXP6A7fbiCZygd-sa)
 
+## LaTeX
+
+* [Manuscript template using article class](content/27)
+* [Referencing with natbib and biblatex](content/28)
+
 ## Vi/Vim
 
 * [How to Install Plugins for Vim](content/7)
