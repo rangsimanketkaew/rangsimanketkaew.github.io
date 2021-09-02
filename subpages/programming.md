@@ -17,7 +17,14 @@ permalink: programming
 
 * [C++: Practicing programs](https://sites.google.com/site/rangsiman1993/programming/cpp-practicing-programs)
 * [C++: Program samples (ext)](http://www.codebind.com/cpp/cpp-programs-examples/)
-* [Guide to Scientific Computing in C++, 2nd edition (ext)](https://petcomputacao.ufsc.br/wp-content/uploads/2020/06/2017_Book_GuideToScientificComputingInC.pdf) 
+* [Guide to Scientific Computing in C++, 2nd edition (ext)](https://petcomputacao.ufsc.br/wp-content/uploads/2020/06/2017_Book_GuideToScientificComputingInC.pdf)
+
+## C++ Books
+
+* [C++ Primer by Stanley Lippman, Josée Lajoie, and Barbara Moo](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113) (beginner)
+* [Object Oriented Programming in C++ by Robert Lafore](https://www.amazon.com/Object-Oriented-Programming-4th-Robert-Lafore/dp/0672323087/ref=sr_1_5?dchild=1&keywords=object+oriented+c%2B%2B&qid=1630565845&s=books&sr=1-5) (beginner/intermediate)
+* [Modern C++ Design: Generic Programming and Design Patterns Applied by Debbie Lafferty and Andrei Alexandrescu](https://www.amazon.com/Modern-Design-Generic-Programming-Patterns/dp/0201704315/) (advanced)
+* [The C++ Programming Language by Bjarne Stroustrup](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840/) (advanced)
 
 ## Fortran
 
