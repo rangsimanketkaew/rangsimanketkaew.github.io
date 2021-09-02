@@ -7,9 +7,9 @@ permalink: comp-sci
 
 ---
 
-* [Chatbot]()
-* [Machine Learning: Iris as a case study]()
-* [Microsoft Imagine Premium for Student and Lecturer]()
+* [Chatbot](https://sites.google.com/site/rangsiman1993/comp-env/comp-sci/chatbot)
+* [Machine Learning: Iris as a case study](https://sites.google.com/site/rangsiman1993/comp-env/comp-sci/machine-learning-iris)
+* [Microsoft Imagine Premium for Student and Lecturer](https://sites.google.com/site/rangsiman1993/comp-env/comp-sci/microsoft-imagine-premium-for-education)
 
 <br>
 
