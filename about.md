@@ -131,7 +131,8 @@ layout: default
       </ul>
       <h4>Favorite articles</h4>
       <ul>
-        <li><h6><a href="https://www.moreisdifferent.com/2015/07/16/why-physicsts-still-use-fortran/" target="_blank">Why physicists still use Fortran</a></h6></li>
+        <li><h6><a href="https://www.moreisdifferent.com/2015/07/16/why-physicsts-still-use-fortran/" target="_blank">What Every Computer Scientist Should Know About Floating-Point Arithmetic</a></h6></li>
+        <li><h6><a href="https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf" target="_blank">Why physicists still use Fortran</a></h6></li>
       </ul>
       <h4>Favorite discussions</h4>
       <ul>
