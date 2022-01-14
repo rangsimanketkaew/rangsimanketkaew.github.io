@@ -18,7 +18,7 @@ comments: true
 
 - [Table of Content](#table-of-content)
 - [Compiling Linear Algebra Libraries](#compiling-linear-algebra-libraries)
-- [Linear algebra software I am installing are following](#linear-algebra-software-i-am-installing-are-following)
+- [Linear algebra software](#linear-algebra-software)
 - [Caveat](#caveat)
 - [BLAS](#blas)
 - [LAPACK](#lapack)
@@ -36,7 +36,7 @@ This post will show how to compile and install linear algebra libraries such as 
 
 <br>
 
-## Linear algebra software I am installing are following
+## Linear algebra software
 
 * Basic Linear Algebra Subprogram (BLAS)
 * Linear Algebra Package (LAPACK)
@@ -45,54 +45,68 @@ This post will show how to compile and install linear algebra libraries such as 
 * Automatically Tuned Linear Algebra Soft (ATLAS)
 * Intel Math Kernel Library (MKL)
 
-Their latest versions can be obtained from Netlib Repository: <http://www.netlib.org/liblist.html>, except ATLAS, which its latest version is available at <https://sourceforge.net/projects/math-atlas/files/Stable/> as well as Intel MKL that available only at Intel software suite website.
+The latest version of each library can be obtained from Netlib Repository: <http://www.netlib.org/liblist.html>, except ATLAS, which its latest version is available at <https://sourceforge.net/projects/math-atlas/files/Stable/> as well as Intel MKL that available only at Intel software suite website.
 
 <br>
 
 ## Caveat
 
 1. I use GNU Compiler and OpenMPI of writing this post.
-2. I install all libraries in home directory (/home/rangsiman/).
+2. I install all libraries in my home directory (/home/rangsiman/).
 
 <br>
 
 ## BLAS
 
-See [LAPACK](#lapack)
+1. Download a tarball of BLAS release from <http://www.netlib.org/blas/>
+
+2. Uncompress the tarball and change the directory
+```
+tar -xzvf blas-3.10.0.tgz
+cd BLAS-3.10.0
+```
+
+3. Compile
+```
+make
+mv blas_LINUX.a libblas.a
+```
 
 <br>
 
 ## LAPACK
 
-Due to a low-level BLAS software is part of LAPACK, thus I installed only LAPACK. No need to install BLAS separately.
+1. Download a tarball of LAPACK release from this website <http://www.netlib.org/lapack/>.
 
-1. Download tarball of LAPACK from this website <http://www.netlib.org/lapack/>.
-
-2. There will be LAPACK directory called lapack-3.8.0. (the current version of this writing)
-
-3. Move to LAPACK directory
+2. Uncompress the tarball and change directory
 ```
-cd lapack-3.8.0
+tar-xzvf v3.10.0.tar.gz
+cd lapack-3.10.0
 ```
 
-4. Create make.inc by copying from makefile.inc.example, which is a standard one.
+3. Create `make.inc` by copying from makefile.inc.example, which is a standard one
 ```
 cp make.inc.example make.inc
 ```
 
-5. Compile and Install using Makefile.
+4. Compile and Install using Makefile
 ```
-make blaslib
 make
 ```
 
-6. After installation is finished, there must be three libraries in LAPACK directory:
-* liblapack.a
-* librefblas.a
-* libtmglib.a
-
-7. Create symbolic link of librefblas.a as libblas.a library.
+5. There should be three libraries in LAPACK directory
 ```
+liblapack.a
+librefblas.a
+libtmglib.a
+```
+
+Note: As a low-level BLAS software is part of LAPACK, I could install only LAPACK. No need to install BLAS separately:
+```
+# in LAPACK directory, make lapack with blas
+make blaslib
+make
+# create a symbolic link of librefblas.a as libblas.a library
 ln -s librefblas.a libblas.a
 ```
 
@@ -104,7 +118,7 @@ A **libblas.a** library is required for compiling CBLAS
 
 1. Download the tar.gz. file of CBLAS from BLAS forum on Netlib repository to your Linux <http://www.netlib.org/blas/index.html#_cblas>.
 
-2. Unpack the tar file using following command
+2. Unpack the tar file
 ```
 tar -xzvf cblas.tgz
 ```
@@ -127,15 +141,15 @@ Note that a **libblas.a** static library can be obtained from LAPACK directory, 
 make
 ```
 
-6. After installation is completed, there must be **libcblas.a** in **CBLAS/lib** sub-directory.
+6. There should be **libcblas.a** in **CBLAS/lib** sub-directory.
 
 <br>
 
 ## ScaLAPACK
 
-1. Download the tar.gz. file of ScaLAPACK from Netlib repository to your Linux <http://www.netlib.org/scalapack/#_software>
+1. Download a tarball of ScaLAPACK from Netlib repository to your Linux <http://www.netlib.org/scalapack/#_software>
 
-2. Unpack the tar file using following command
+2. Unpack the tarball
 ```
 tar -xzvf scalapack-2.0.2.tgz
 ```
@@ -145,7 +159,7 @@ tar -xzvf scalapack-2.0.2.tgz
 cd scalapack-2.0.2
 ```
 
-4. Copy SLmake.inc.example to SLmake.inc.
+4. Copy SLmake.inc.example to SLmake.inc
 ```
 cp SLmake.inc.example SLmake.inc
 ```
@@ -156,16 +170,16 @@ make
 ```
 This can take several minutes.
 
-6. After installation is completed, there must be libscalapack.a in ScaLAPACK directory.
+6. There should be `libscalapack.a` in ScaLAPACK directory.
 
 <br>
 
 ## ATLAS
 
-I am going to install ATLAS under my home directory as normal user.
+I am going to install ATLAS under my home directory as a normal user.
 
 
-1. Uncompress tarball 
+1. Uncompress a tarball 
 ```
 mv tlas3.8.3.tar.gz $HOME/
 cd $HOME
@@ -183,7 +197,7 @@ cd $HOME/ATLAS_BUILD
 ../ATLAS/configure
 ```
 
-4. Compile ATLAS using following commands*
+1. Compile ATLAS
 ```
 make
 ```
@@ -205,9 +219,7 @@ If having many error occur while checking program, you might ignore those error 
 ```
 make install
 ```
-When installation is finished (with or without error), please check if there is linear algebra library of CBLAS, LAPACK, and ATLAS at *$HOME/ATLAS_INSTALL/lib/*.
-
-7. Done
+When the installation is finished (with or without error), please check if CBLAS, LAPACK, and ATLAS are installed at *$HOME/ATLAS_INSTALL/lib/*.
 
 <br>
 
@@ -246,7 +258,7 @@ cp: cannot stat ‘/home/rangsiman/ATLAS_BUILD/lib/libtatlas.so’: No such file
 make[1]: [install_lib] Error 1 (ignored)
 make[1]: Leaving directory `/home/u7/rangsiman/ATLAS_BUILD'
 ```
-These error massages can be ignored as long as the static libraries of linear algebra software are build successfully.
+These error messages can be ignored as long as the static libraries of linear algebra software are build successfully.
 All library files should be stored at 
 ```
 /home/rangsiman/ATLAS_INSTALL/lib/
