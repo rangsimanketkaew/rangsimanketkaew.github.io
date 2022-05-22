@@ -13,7 +13,7 @@ layout: default
           alt="RK"
           width="15%"
           height="auto"
-          class="left"
+          class="left_img"
           align="left"
         />
 
