@@ -35,7 +35,7 @@ layout: default
         I helped the team design and setup AWS infrastructures for performing high-performance molecular dynamics simulations and training 
         neural network models for developing specific-purpose molecular force fields for studying intrinsically disordered proteins (IDP) structures.
         In 2016, I won the royal winner award of 
-        <a href="https://www.facebook.com/TCC.ChallengeUBE/">Thailand Computational Chemistry Challenge (TCCC)</a> jointly organized UBE Corporation 
+        <a href="https://www.facebook.com/TCC.ChallengeUBE/">Thailand Computational Chemistry Challenge (TCCC)</a> organized jointly by UBE Corporation 
         and Department of Chemistry, Chulalongkorn University, where I used the dissipative particle dynamics (DPD) technique to 
         investigate the mechanical properties of crosslinking-polyisoprene (natural rubber) reinforced by single-walled carbon nanotube (SWCNT). 
       </p>
