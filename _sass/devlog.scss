@@ -194,6 +194,13 @@ pre code {
   }
 }
 
+@media only screen and (max-width : 320px) {
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
 td {
   text-align: left;
 }
