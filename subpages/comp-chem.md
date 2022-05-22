@@ -38,7 +38,7 @@ permalink: comp-chem
 * [Post-HF: How to Select Active Space Orbital and Active Electron for Post-HF](https://sites.google.com/site/rangsiman1993/comp-chem/tips-and-tricks/choose-proper-active-orbital-electron)
 * [Q-Chem: How to run Q-Chem without "$QC/bin/qchem" script](https://sites.google.com/site/rangsiman1993/comp-chem/tips-and-tricks/run-qchem-without-qchem-script)
 
-## Basic compchem
+## Basic Compchem
 
 * [What is NVE, NVT, and NPT ?](https://sites.google.com/site/rangsiman1993/comp-chem/you-might-not-know/md-ensembles)
 * [What do you guys do when you're waiting for an experiment to finish ?](https://sites.google.com/site/rangsiman1993/comp-chem/you-might-not-know/what-do-u-guys-do-when-you-r-waiting-experiment-to-finish)
@@ -70,3 +70,7 @@ permalink: comp-chem
 * [NWChem: Benchmark of Integral Evaluation Approaches](https://sites.google.com/site/rangsiman1993/comp-chem/test-and-benchmarks/nwchem-benchmark-integral-evaluation-approaches)
 * [NWChem: Benchmark of MPI Parallelization Efficiency for DFT calculation](https://sites.google.com/site/rangsiman1993/comp-chem/test-and-benchmarks/nwchem-benchmark-mpi-dft)
 * [NWChem: Test for CCSD(T)  & CCSD[T] calculation running on GeForce GTX 1050 Ti](https://sites.google.com/site/rangsiman1993/comp-chem/test-and-benchmarks/nwchem-ccsdt-tce-gtx-1050ti)
+
+## Materials
+
+* [Quantum Chemistry and Electronic Structure Books](content/29)
