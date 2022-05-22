@@ -4,11 +4,17 @@ https://rangsimanketkaew.github.io
 
 <br>
 
-<p align="center">
-    <img src="screenshot-homepage.png"
-    href="https://rangsimanketkaew.github.io"
-    alt="screentshot of front page"
-    width="100%"
-    height="auto"
-    />
-</p>
+```sh
+# Linux (Ubuntu)
+sudo apt install ruby ruby-env
+# macOS:
+brew install ruby
+
+# Instlal bundler
+gem install bundler
+
+# Build website
+cd rangsimanketkaew.github.io
+bundle install
+bundle exec jekyll server
+```

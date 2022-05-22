@@ -128,7 +128,7 @@ True Digital Park (TDPK) กรุงเทพมหานคร เมื่อ
 
 ## เพิ่มเติม
 
-&nbsp;&nbsp;&nbsp;ถ้าใครอยากพูดคุยเกี่ยวกับ Linux, Programming, HPC หรือ Cloud Computing สามารถทักมาคุยกันได้นะครับที่ FB: "[Nutt Rangsiman](https://www.facebook.com/rangsiman1993)" หรือเข้าร่วมเป็นสมาชิกของกลุ่ม "[HPC Thailand](https://www.facebook.com/groups/2485600791681924/)" ครับ แล้วเจอกันกิจกรรมอื่น ๆ อีกนะครับ
+&nbsp;&nbsp;&nbsp;ถ้าใครอยากพูดคุยเกี่ยวกับ Linux, Programming, HPC หรือ Cloud Computing สามารถทักมาคุยกันได้นะครับที่ E-mail: rangsiman1993@gmail.com หรือเข้าร่วมเป็นสมาชิกของกลุ่ม "[HPC Thailand](https://www.facebook.com/groups/2485600791681924/)" แล้วเจอกันกิจกรรมอื่น ๆ อีกนะครับ
 
 สำหรับ Slide สามารถ [Download ได้ที่นี่เลยครับ (PDF)](https://1drv.ms/b/s!Ao0M17vQCvR8guop5ORd8del88cclA?e=4wWOyl) และไฟล์ของ Demo อยู่ที่ [https://cutt.ly/hpc-codemania-rangsiman](https://cutt.ly/hpc-codemania-rangsiman)
 

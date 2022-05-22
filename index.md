@@ -1,125 +1,243 @@
 ---
-layout: home
+layout: default
 ---
 
-<div class="row justify-content-center">
-  <div class="card blog-post">
-    <img
-      src="/assets/img/pages/linux.gif"
-      alt="linux"
-      width="40%"
-      height="auto"
-      class="center-img"
-    />
+<div class="row">
+  <div class="col-lg-8">
+    <div class="card">
+      <h1 class="card-title">About Me</h1>
 
-    <h5 align="center">Unix & Linux Resources</h5>
-    <ul>
-      <li>Basic Guide to Linux</li>
-      <li>Basic Server Administration</li>
-      <li>RHEL-based and Ubuntu-based Distributions</li>
-      <li>Program Installations</li>
-    </ul>
+      <p class="indent">
+        <img 
+          src="/assets/img/RK.png"
+          alt="RK"
+          width="15%"
+          height="auto"
+          class="left"
+          align="left"
+        />
 
-    <p align="center">
-      <a href="{{ site.baseurl }}/linux" class="btn btn-primary btn-lg custom_btn">Read</a>
-    </p>
+        I am a Ph.D. student in <a href="http://luber-group.com/">theoretical and computational chemistry group</a> 
+        at Department of Chemistry, University of Zurich, Switzerland. 
+        My current research relies on atomistic simulation with <i>ab initio</i> molecular dynamics (based on density functional theory) 
+        and enhanced sampling techniques (metadynamics) of condensed phased system (soft matter and solid/liquid interface). 
+        I am now interested in applying machine learning and graph theory to develop highly efficient collective variables for 
+        finding configurational space of chemical reaction/transformation and calculating free energy surface. 
+        I am also working on quantum chemistry with emphasis on (diabatic) intramolecular electron transfer in transition metal complexes 
+        for catalyst design. My interest also extends to the development (and improvement) of open-source software . 
+        I am currently a member of <a href="https://www.lightchec.uzh.ch/">LightChEC</a> and <a href="https://www.nccr-catalysis.ch/">NCCR Catalysis</a> 
+        advised by <a href="http://luber-group.com/cv">Prof. Sandra Luber</a>.
+      </p>
+
+      <p class="indent">
+        Before Zurich, I was a consultant at the <a href="https://newequilibriumbio.com/">New Equilibrium Biosciences</a> 
+        working on cloud computing and computational chemistry.
+        I helped the team design and setup AWS infrastructures for performing high performance molecular dynamics simulations and training 
+        neural network models for developing specific-purpose molecular force field for studying intrinsically disordered proteins (IDP) structures.
+        In 2016, I won the royal winner award of 
+        <a href="https://www.facebook.com/TCC.ChallengeUBE/">Thailand Computational Chemistry Challenge (TCCC)</a> jointly organized UBE Corporation 
+        and Department of Chemistry, Chulalongkorn University, where I used dissipative particle dynamics (DPD) technique to 
+        investigate the mechanics properties of crosslinking-polyisoprene (natural rubber) reinforced by single-walled carbon nanotube (SWCNT). 
+      </p>
+
+      <p class="indent">
+        In 2016 and 2019, I received Bachelor and Master degrees respectively from Thammasat University, Thailand, 
+        where I focused on several research topics in computer modelling ranging from density functional theory to multiscale 
+        (coarse-grained model) simulation under supervision of 
+        <a href="https://sites.google.com/site/compchem403/people/faculty/yuthana">Prof. Yuthana Tantirungrotechai</a>.
+        During my education at that time, I received the NCTU Taiwan Elite International Internship scholarship 
+        and worked at NCTU in the research group of <a href="http://wild.life.nctu.edu.tw/~jsyu/">Prof. Jen-Shiang K. Yu</a> in 2015 and 2018, respectively.
+      </p>
+
+      <p class="indent">
+        I have been volunteering as a member of the organizer of many conferences and events, working in both of software developer community 
+        to scientific and chemistry association. I was part of the organizer of <a href="https://th.pycon.org/">PyCon Thailand 2019</a> 
+        and <a href="https://2019.th.pycon.org/en/">PyCon APAC 2021</a>. In 2021, I was the academic team leader of 
+        <a href="http://tmlcc.cseathai.org/">Thailand Machine Learning for Chemistry Challenge (TMLCC)</a> 
+        (check <a href="https://competitions.codalab.org/competitions/34540">this</a> and <a href="https://tmlcc2021.devpost.com/">this</a> 
+        for more details of the competition).
+      </p>      
+
+      <p class="indent">
+        I am also a self-taught programmer interested in learning tips & tricks and useful Linux commands, learning best practice for 
+        coding to increase the performance of codes, benchmarking high-performance supercomputer (and any electronic devices that contain processing unit).
+        In free time, I enjoy writing a blog (like this one) and a book to share my experiences, preparing and teaching online courses 
+        (programming and physical chemistry) on my <a href="https://youtube.com/rangsiman1993">Youtube channel</a>, 
+        playing Dota 2 - the most popular computer game in the world, cooking and eating (delicious) foods, 
+        playing table tennis and hiking on the mountain.
+      </p>
+    </div>
+
+    <div class="card">
+      <h1 class="card-title">Projects</h1>
+      <ul>
+        <li>
+          <a href="https://github.com/rangsimanketkaew//ET-NWChem">ET-NWChem</a>
+        </li>
+        <li>
+          <a href="https://github.com/rangsimanketkaew/QM-on-TAIWANIA"
+            >QM-on-TAIWANIA</a
+          >
+        </li>
+        <li><a href="https://octadist.github.io/">OctaDist</a></li>
+        <li>
+          <a href="https://github.com/rangsimanketkaew/tv_counting"
+            >tv_counting</a
+          >
+        </li>
+        <li>
+          <a href="https://sites.google.com/site/rangsiman1993/"
+            >Google Site Blog</a
+          >
+        </li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h1 class="card-title">Publications</h1>
+        <ol>
+        {% for paper in site.data.publications %}
+          <li>
+           {{ paper.title }}. <br>
+           {{ paper.authors }}. 
+           <a href="https://doi.org/{{ paper.link }}"
+            >DOI: {{ paper.link }}</a
+          >
+          </li>
+        {% endfor %}
+        </ol>
+    </div>
+
+    <div class="card">
+      <h1 class="card-title">Contributions</h1>
+      <div class="row">
+        <div class="col-lg4">
+        <div class="card">
+
+          <p>
+          <h5>PyCon Thailand 2019</h5>
+          <img
+            src="/assets/img/about/pycon-assemble.JPG"
+            alt="pycon-assemble"
+            width="500px"
+            height="auto"
+          />
+          </p>
+
+          <p>
+          <h5>ThaiPy Bangkok Meetup</h5>
+          <img
+            src="/assets/img/about/thaipy.JPG"
+            alt="thaipy"
+            width="500px"
+            height="auto"
+          />
+          </p>
+
+          <p>
+          <h5>Hack Zurich 2021</h5>
+          <img
+            src="/assets/img/about/hackzurich2021.jpeg"
+            alt="hack-zurich-2021"
+            width="500px"
+            height="auto"
+          />
+          </p>
+
+        </div>
+        </div>
+
+        <div class="col-lg4">
+        <div class="card">
+
+          <p>
+          <h5>PySomTum</h5>
+          <img
+            src="/assets/img/about/pysomtum.JPG"
+            alt="pysomtum"
+            width="500px"
+            height="auto"
+          />
+          </p>
+
+          <p>
+          <h5>Hack Zurich 2020</h5>
+          <img
+            src="/assets/img/about/hackzurich2020.PNG"
+            alt="hack-zurich-2020"
+            width="500px"
+            height="auto"
+          />
+          </p>
+
+        </div>
+        </div>
+      </div>
+    </div>
   </div>
 
-  <div class="card blog-post">
-    <img
-      src="/assets/img/pages/programming.gif"
-      alt="programming"
-      width="70%"
-      height="auto"
-      class="center-img"
-    />
+  <div class="col-lg-4">
+    <div class="card">
+      <h1>Contact</h1>
+      <h6><i class="fas fa-map-marker-alt"></i> {{ site.author_location }}</h6>
+      <h6><i class="fas fa-envelope"></i> {{ site.author_email_uzh }}</h6>
+      <h6><i class="fas fa-envelope"></i> {{ site.author_email }}</h6>
+      <h6><i class="fas fa-phone"></i> {{ site.author_phone }}</h6>
+      <h6><i class="fas fa-link"></i> {{ site.author_website_url }}</h6>
+    </div>
 
-    <h5 align="center">Programming</h5>
-    <ul>
-      <li>Learning Coding</li>
-      <li>Functional programming</li>
-      <li>Object-oriented programming</li>
-      <li>Scripting programming</li>
-      <li>HTMl/CSS and Bootstrap</li>
-      <li>Scientific Computing</li>
-    </ul>
+    <div class="card">
+      <h1>CV</h1>
+      <p>My CV is available in a <a href="/cv_short.pdf" target="_blank">short</a> and 
+      <a href="/cv_full.pdf" target="_blank">full</a> version.</p>
+    </div>
 
-    <p align="center">
-      <a href="{{ site.baseurl }}/programming" class="btn btn-primary btn-lg custom_btn">Read</a>
-    </p>
+    <div class="card">
+      <h1>Skills</h1>
+      <p>Bash, Python, C++, Fortran, HTML/CSS,</p>
+      <p>Unix/Linux, Windows, Git, Vi</p>
+      <p>AWS Cloud and System administration</p>
+    </div>
+
+    <div class="card">
+      <h1>Space</h1>
+      <ul>
+        <li><p><a href="https://github.com/rangsimanketkaew">https://github.com/rangsimanketkaew</a></p></li>
+        <li><p><a href="https://scholar.google.com/citations?user=3wOKfJAAAAAJ&hl=en">Google Scholar</a></p></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h1>Cabinet</h1>
+      <h4>Favorite books</h4>
+      <ul>
+        <li><h6>
+        <a 
+          href="http://www.scielo.br/pdf/bjp/v36n4a/a35v364a.pdf" 
+          target="_blank">
+          A Bird’s-Eye View of Density-Functional Theory
+        </a>
+        </h6></li>
+
+        <li><h6>
+        <a 
+          href="https://www.amazon.com/Statistical-Mechanics-Donald-Allan-McQuarrie/dp/1891389157" 
+          target="_blank">
+          Statistical Mechanics by Donald A. McQuarrie
+        </a>
+        </h6>
+        </li>
+      </ul>
+      <h4>Favorite articles</h4>
+      <ul>
+        <li><h6><a href="https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf" target="_blank">What Every Computer Scientist Should Know About Floating-Point Arithmetic</a></h6></li>
+        <li><h6><a href="https://www.moreisdifferent.com/2015/07/16/why-physicsts-still-use-fortran/" target="_blank">Why physicists still use Fortran</a></h6></li>
+      </ul>
+      <h4>Favorite discussions</h4>
+      <ul>
+        <li><h6><a href="https://stackoverflow.com/questions/101268/hidden-features-of-python" target="_blank">Hidden features of Python</a></h6></li>
+        <li><h6><a href="https://scicomp.stackexchange.com/questions/3159/is-it-a-good-idea-to-use-vectorvectordouble-to-form-a-matrix-class-for-high" target="_blank">Is it a good idea to use vector&lt;vector&lt;double&gt;&gt; to form a matrix class for high performance scientific computing code?</a></h6></li>
+      </ul>
+    </div>
   </div>
-
-  <div class="card blog-post">
-    <img
-      src="/assets/img/pages/comp-env.gif"
-      alt="comp-env"
-      width="70%"
-      height="auto"
-      class="center-img"
-    />
-
-    <h5 align="center">Computational Environments</h5>
-    <ul>
-      <li>High Performance and Math Libraries</li>
-      <li>Parallel Libraries and Tools</li>
-      <li>Test and Benchmarks</li>
-      <li>Software Development</li>
-      <li>Devices and Hardware</li>
-    </ul>
-
-    <p align="center">
-      <a href="{{ site.baseurl }}/comp-env" class="btn btn-primary btn-lg custom_btn">Read</a>
-    </p>
-  </div>
-
-  <div class="card blog-post">
-    <img
-      src="/assets/img/pages/comp-sci.gif"
-      alt="comp-sci"
-      width="50%"
-      height="auto"
-      class="center-img"
-    />
-
-    <h5 align="center">Computational Science</h5>
-    <ul>
-      <li>Artificial Intelligence</li>
-      <li>Deep learning</li>
-      <li>Machine learning</li>
-      <li>Big data</li>
-    </ul>
-
-    <p align="center">
-      <a href="{{ site.baseurl }}/comp-sci" class="btn btn-primary btn-lg custom_btn">Read</a>
-    </p>
-  </div>
-
-  <div class="card blog-post">
-    <img
-      src="/assets/img/pages/comp-chem.gif"
-      alt="comp-chem"
-      width="200px"
-      height="auto"
-      class="center-img"
-    />
-
-    <h5 align="center">Computational Chemistry</h5>
-    <ul>
-      <li>Tips and Tricks</li>
-      <li>Molecular Properties and Modeling</li>
-      <li>Program Installations</li>
-      <li>Program Benchmarks</li>
-    </ul>
-
-    <p align="center">
-      <a href="{{ site.baseurl }}/comp-chem" class="btn btn-primary btn-lg custom_btn">Read</a>
-    </p>
-  </div>
-</div>
-
-<div class="card">
-  <p style="text-align: center">
-    I do not take any responsibility and I am not liable for any damage caused
-    through use of all commands or programs taken through this website.
-  </p>
 </div>
