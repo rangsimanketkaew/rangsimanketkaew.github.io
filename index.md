@@ -51,8 +51,8 @@ layout: default
 
       <p class="indent">
         I have been volunteering as a member of the organizer of many conferences and events, working in both of software developer community 
-        to scientific and chemistry association. I was part of the organizer of <a href="https://th.pycon.org/">PyCon Thailand 2019</a> 
-        and <a href="https://2019.th.pycon.org/en/">PyCon APAC 2021</a>. In 2021, I was the academic team leader of 
+        to scientific and chemistry association. I was part of the organizer of <a href="https://2019.th.pycon.org/en/">PyCon APAC 2019</a> and 
+        <a href="https://th.pycon.org/">PyCon Thailand 2021</a>. In 2021, I was the academic team leader of 
         <a href="http://tmlcc.cseathai.org/">Thailand Machine Learning for Chemistry Challenge (TMLCC)</a> 
         (check <a href="https://competitions.codalab.org/competitions/34540">this</a> and <a href="https://tmlcc2021.devpost.com/">this</a> 
         for more details of the competition).
