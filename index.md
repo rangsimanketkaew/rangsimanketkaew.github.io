@@ -9,7 +9,7 @@ layout: default
 
       <p class="indent">
         <img 
-          src="/assets/img/RK.png"
+          src="/assets/img/nutt.png"
           alt="RK"
           width="15%"
           height="auto"
