@@ -20,10 +20,10 @@ layout: default
         I am a Ph.D. student in <a href="http://luber-group.com/">theoretical and computational chemistry group</a> 
         at Department of Chemistry, University of Zurich, Switzerland. 
         My current research relies on atomistic simulation with <i>ab initio</i> molecular dynamics (based on density functional theory) 
-        and enhanced sampling techniques (metadynamics) of condensed phased system (soft matter and solid/liquid interface). 
+        and enhanced sampling techniques (metadynamics and blue moon) of condensed phased systems (soft matter and solid/liquid interface). 
         I am now interested in applying machine learning and graph theory to develop highly efficient collective variables for 
         finding configurational space of chemical reaction/transformation and calculating free energy surface. 
-        I am also working on quantum chemistry with emphasis on (diabatic) intramolecular electron transfer in transition metal complexes 
+        I am also working on quantum chemistry with an emphasis on (diabatic) intramolecular electron transfer in transition metal complexes 
         for catalyst design. My interest also extends to the development (and improvement) of open-source software. 
         I am currently a member of <a href="https://www.lightchec.uzh.ch/">LightChEC</a> and <a href="https://www.nccr-catalysis.ch/">NCCR Catalysis</a> 
         advised by <a href="http://luber-group.com/cv">Prof. Sandra Luber</a>.
@@ -37,7 +37,7 @@ layout: default
         In 2016, I won the royal winner award of 
         <a href="https://www.facebook.com/TCC.ChallengeUBE/">Thailand Computational Chemistry Challenge (TCCC)</a> organized jointly by UBE Corporation 
         and Department of Chemistry, Chulalongkorn University, where I used the dissipative particle dynamics (DPD) technique to 
-        investigate the mechanical properties of crosslinking-polyisoprene (natural rubber) reinforced by single-walled carbon nanotube (SWCNT). 
+        investigate the mechanical properties of crosslinking-polyisoprene (natural rubber) reinforced by single-walled carbon nanotubes (SWCNTs). 
       </p>
 
       <p class="indent">
@@ -50,8 +50,8 @@ layout: default
       </p>
 
       <p class="indent">
-        I have been volunteering as a member of the organizer of many conferences and events, working in both of software developer community 
-        to scientific and chemistry association. I was part of the organizer of <a href="https://2019.th.pycon.org/en/">PyCon APAC 2019</a> and 
+        I have been volunteering as a member of the organizer of many conferences and events, working in both software developer 
+        and scientific computing communities. I was part of the organizer of <a href="https://2019.th.pycon.org/en/">PyCon APAC 2019</a> and 
         <a href="https://th.pycon.org/">PyCon Thailand 2021</a>. In 2021, I was the academic team leader of 
         <a href="http://tmlcc.cseathai.org/">Thailand Machine Learning for Chemistry Challenge (TMLCC)</a> 
         (check <a href="https://competitions.codalab.org/competitions/34540">this</a> and <a href="https://tmlcc2021.devpost.com/">this</a> 
