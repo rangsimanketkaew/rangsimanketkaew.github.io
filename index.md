@@ -8,14 +8,14 @@ layout: default
       <h1 class="card-title">About Me</h1>
 
       <p class="indent">
-        <img 
+        <!-- <img 
           src="/assets/img/nutt.png"
           alt="RK"
           width="15%"
           height="auto"
           class="left_img"
           align="left"
-        />
+        /> -->
 
         I am a Ph.D. student in <a href="http://luber-group.com/">theoretical and computational chemistry group</a> 
         at Department of Chemistry, University of Zurich, Switzerland. 
