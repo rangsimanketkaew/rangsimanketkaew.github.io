@@ -6,7 +6,7 @@ https://rangsimanketkaew.github.io
 
 ```sh
 # Linux (Ubuntu)
-sudo apt install ruby ruby-env
+sudo apt-get install ruby ruby-full
 # macOS:
 brew install ruby
 
