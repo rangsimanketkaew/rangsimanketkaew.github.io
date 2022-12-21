@@ -65,7 +65,7 @@ layout: default
       <h1 class="card-title">Book</h1>
         <ul>
           <li>
-            <a href="https://rangsimanketkaew.github.io/ml-qm-book">Machine Learning for Quantum Chemistry (in Thai)</a>
+            <a href="ml-qm-book">Machine Learning for Quantum Chemistry (in Thai)</a>
           </li>
         </ul>
     </div>
