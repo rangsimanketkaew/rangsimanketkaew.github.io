@@ -1,3 +1,18 @@
+- title: "DeepCV: A Deep Learning Framework for Blind Search of Collective Variables in Expanded Configurational Space"
+  authors: R. Ketkaew, S. Luber
+  journal: J. Chem. Inf. Model. 2022
+  link: 10.1021/acs.jcim.2c00883
+
+- title: "Two Novel Dinuclear Cobalt Polypyridyl Complexes in Electro- and Photocatalysis for Hydrogen Production: Cooperativity Increases Performance"
+  authors: N. Weder, N. S. Grundmann, B. Probst, O. Blacque, R. Ketkaew, F. Creazzo, S. Luber, R. Alberto
+  journal: ChemSusChem 2022, e202201049
+  link: 10.1002/cssc.202201049
+
+- title: "Effects of surface wettability on (001)-WO and (100)-WSe: A spin-polarized DFT-MD study"
+  authors: F. Creazzo, R. Ketkaew, S. Luber
+  journal: Appl. Surf. Sci. 2022, 601, 154203
+  link: 10.1016/j.apsusc.2022.154203
+
 - title: Machine learning-assisted discovery of hidden states in expanded free energy space
   authors: R. Ketkaew, F. Creazzo, S. Luber
   journal: J. Phys. Chem. Lett. 2022, 13, 7, 1797-1805.

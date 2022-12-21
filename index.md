@@ -17,27 +17,27 @@ layout: default
           align="left"
         /> -->
 
-        I am a Ph.D. student in <a href="http://luber-group.com/">theoretical and computational chemistry group</a> 
+        I am a Ph.D. student in <a href="https://www.luber-group.com/">theoretical and computational chemistry group</a> 
         at Department of Chemistry, University of Zurich, Switzerland. 
         My current research relies on atomistic simulation with <i>ab initio</i> molecular dynamics (based on density functional theory) 
-        and enhanced sampling techniques (metadynamics and blue moon) of condensed phased systems (soft matter and solid/liquid interface). 
+        and enhanced sampling techniques of condensed phased systems (soft matter and solid/liquid interface). 
         I am now interested in applying machine learning and graph theory to develop highly efficient collective variables for 
-        finding configurational space of chemical reaction/transformation and calculating free energy surface. 
-        I am also working on quantum chemistry with an emphasis on (diabatic) intramolecular electron transfer in transition metal complexes 
-        for catalyst design. My interest also extends to the development (and improvement) of open-source software. 
+        finding configurational space of chemical reactions and calculating free energies. 
+        I am also working on quantum chemistry and electronic structure with an emphasis on (diabatic) intramolecular electron transfer 
+        in transition metal complexes for catalyst design. My interest also extends to the development and improvement of open-source software. 
+        Now I am mainly active on the development of <a href="https://www.cp2k.org/">CP2K</a> and <a href="https://www.plumed.org/">PLUMED</a> packages. 
         I am currently a member of <a href="https://www.lightchec.uzh.ch/">LightChEC</a> and <a href="https://www.nccr-catalysis.ch/">NCCR Catalysis</a> 
         advised by <a href="http://luber-group.com/cv">Prof. Sandra Luber</a>.
       </p>
 
       <p class="indent">
         Before Zurich, I was a consultant at the <a href="https://newequilibriumbio.com/">New Equilibrium Biosciences</a> 
-        working on cloud computing and computational chemistry.
+        (from 2019 to 2020) working on cloud computing and computational chemistry.
         I helped the team design and setup AWS infrastructures for performing high-performance molecular dynamics simulations and training 
         neural network models for developing specific-purpose molecular force fields for studying intrinsically disordered proteins (IDP) structures.
         In 2016, I won the royal winner award of 
-        <a href="https://www.facebook.com/TCC.ChallengeUBE/">Thailand Computational Chemistry Challenge (TCCC)</a> organized jointly by UBE Corporation 
-        and Department of Chemistry, Chulalongkorn University, where I used the dissipative particle dynamics (DPD) technique to 
-        investigate the mechanical properties of crosslinking-polyisoprene (natural rubber) reinforced by single-walled carbon nanotubes (SWCNTs). 
+        <a href="https://www.facebook.com/TCC.ChallengeUBE/">Thailand Computational Chemistry Challenge (TCCC)</a>. For the competition, I used the dissipative particle dynamics technique to 
+        investigate the mechanical properties of crosslinking-polyisoprene (natural rubber) reinforced by single-walled carbon nanotubes. 
       </p>
 
       <p class="indent">
@@ -46,7 +46,7 @@ layout: default
         (coarse-grained model) simulation under the supervision of 
         <a href="https://sites.google.com/site/compchem403/people/faculty/yuthana">Prof. Yuthana Tantirungrotechai</a>.
         During my education at that time, I received the NCTU Taiwan Elite International Internship scholarship 
-        and worked at NCTU in the research group of <a href="http://wild.life.nctu.edu.tw/~jsyu/">Prof. Jen-Shiang K. Yu</a> in 2015 and 2018, respectively.
+        and worked at NCTU in the research group of <a href="http://wild.life.nctu.edu.tw/~jsyu/">Prof. Jen-Shiang K. Yu</a> in 2015 and 2018, respectively. In 2016, I was also a visiting student at <a href="https://www.ictp.it/">ICTP</a>, Trieste, Italy.
       </p>
 
       <p class="indent">
@@ -55,41 +55,19 @@ layout: default
         <a href="https://th.pycon.org/">PyCon Thailand 2021</a>. In 2021, I was the academic team leader of 
         <a href="http://tmlcc.cseathai.org/">Thailand Machine Learning for Chemistry Challenge (TMLCC)</a> 
         (check <a href="https://competitions.codalab.org/competitions/34540">this</a> and <a href="https://tmlcc2021.devpost.com/">this</a> 
-        for more details of the competition).
-      </p>      
-
-      <p class="indent">
-        I am also a self-taught programmer interested in learning tips & tricks and useful Linux commands, learning best practices for 
-        coding to increase the performance of codes, benchmarking high-performance supercomputers (and any electronic devices that contain processing units).
-        In my free time, I enjoy writing a blog (like this one) and a book to share my experiences, preparing and teaching online courses 
-        (programming and physical chemistry) on my <a href="https://youtube.com/rangsiman1993">Youtube channel</a>, 
-        playing Dota 2 - the most popular computer game in the world, cooking and eating (delicious) foods, 
-        playing table tennis and hiking on the mountain.
+        for more details of the competition). I am also a self-taught programmer interested in learning tips & tricks and useful Linux commands, 
+        learning best practices for coding to increase the performance of codes, benchmarking high-performance supercomputers 
+        (and any electronic devices that have processing units).
       </p>
     </div>
 
     <div class="card">
-      <h1 class="card-title">Projects</h1>
-      <ul>
-        <li>
-          <a href="https://github.com/rangsimanketkaew//ET-NWChem">ET-NWChem</a>
-        </li>
-        <li>
-          <a href="https://github.com/rangsimanketkaew/QM-on-TAIWANIA">QM-on-TAIWANIA</a>
-        </li>
-        <li>
-          <a href="https://octadist.github.io/">OctaDist</a>
-        </li>
-        <li>
-          <a href="https://github.com/moleview/moleview">MoleView</a>
-        </li>
-        <li>
-          <a href="https://github.com/rangsimanketkaew/tv_counting">tv_counting</a>
-        </li>
-        <li>
-          <a href="https://sites.google.com/site/rangsiman1993/">Google Site Blog</a>
-        </li>
-      </ul>
+      <h1 class="card-title">Book</h1>
+        <ul>
+          <li>
+            <a href="https://rangsimanketkaew.github.io/ml-qm-book">Machine Learning for Quantum Chemistry (in Thai)</a>
+          </li>
+        </ul>
     </div>
 
     <div class="card">
@@ -195,7 +173,8 @@ layout: default
       <h1>Skills</h1>
       <p>Bash, Python, C++, Fortran, HTML/CSS,</p>
       <p>Unix/Linux, Windows, Git, Vi</p>
-      <p>AWS Cloud and System administration</p>
+      <p>AWS Cloud and System administration (Parallel/distributed computing)</p>
+      <p>Computational chemistry software benchmarking</p>
     </div>
 
     <div class="card">
@@ -203,6 +182,30 @@ layout: default
       <ul>
         <li><p><a href="https://github.com/rangsimanketkaew">https://github.com/rangsimanketkaew</a></p></li>
         <li><p><a href="https://scholar.google.com/citations?user=3wOKfJAAAAAJ&hl=en">Google Scholar</a></p></li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h1 class="card-title">Projects</h1>
+      <ul>
+        <li>
+          <a href="https://github.com/rangsimanketkaew//ET-NWChem">ET-NWChem</a>
+        </li>
+        <li>
+          <a href="https://github.com/rangsimanketkaew/QM-on-TAIWANIA">QM-on-TAIWANIA</a>
+        </li>
+        <li>
+          <a href="https://octadist.github.io/">OctaDist</a>
+        </li>
+        <li>
+          <a href="https://github.com/moleview/moleview">MoleView</a>
+        </li>
+        <li>
+          <a href="https://github.com/rangsimanketkaew/tv_counting">tv_counting</a>
+        </li>
+        <li>
+          <a href="https://sites.google.com/site/rangsiman1993/">Google Site Blog</a>
+        </li>
       </ul>
     </div>
 
