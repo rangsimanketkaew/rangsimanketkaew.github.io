@@ -25,15 +25,14 @@ layout: default
         finding configurational space of chemical reactions and calculating free energies. 
         I am also working on quantum chemistry and electronic structure with an emphasis on (diabatic) intramolecular electron transfer 
         in transition metal complexes for catalyst design. My interest also extends to the development and improvement of open-source software. 
-        Now I am mainly active on the development of <a href="https://www.cp2k.org/">CP2K</a> and <a href="https://www.plumed.org/">PLUMED</a> packages. 
         I am currently a member of <a href="https://www.lightchec.uzh.ch/">LightChEC</a> and <a href="https://www.nccr-catalysis.ch/">NCCR Catalysis</a> 
-        advised by <a href="http://luber-group.com/cv">Prof. Sandra Luber</a>.
+        advised by Prof. Sandra Luber.
       </p>
 
       <p class="indent">
         Before Zurich, I was a consultant at the <a href="https://newequilibriumbio.com/">New Equilibrium Biosciences</a> 
         (from 2019 to 2020) working on cloud computing and computational chemistry.
-        I helped the team design and setup AWS infrastructures for performing high-performance molecular dynamics simulations and training 
+        I helped the team design and set up AWS infrastructures for performing high-performance molecular dynamics simulations and training 
         neural network models for developing specific-purpose molecular force fields for studying intrinsically disordered proteins (IDP) structures.
         In 2016, I won the royal winner award of 
         <a href="https://www.facebook.com/TCC.ChallengeUBE/">Thailand Computational Chemistry Challenge (TCCC)</a>. For the competition, I used the dissipative particle dynamics technique to 
@@ -43,21 +42,18 @@ layout: default
       <p class="indent">
         In 2016 and 2019, I received Bachelor's and Master's degrees respectively from Thammasat University, Thailand, 
         where I focused on several research topics in computer modeling ranging from density functional theory to multiscale 
-        (coarse-grained model) simulation under the supervision of 
-        <a href="https://sites.google.com/site/compchem403/people/faculty/yuthana">Prof. Yuthana Tantirungrotechai</a>.
-        During my education at that time, I received the NCTU Taiwan Elite International Internship scholarship 
-        and worked at NCTU in the research group of <a href="http://wild.life.nctu.edu.tw/~jsyu/">Prof. Jen-Shiang K. Yu</a> in 2015 and 2018, respectively. In 2016, I was also a visiting student at <a href="https://www.ictp.it/">ICTP</a>, Trieste, Italy.
+        (coarse-grained model) simulation under the supervision of Prof. Yuthana Tantirungrotechai.
+        During my education at that time, I received the NCTU Taiwan Elite International Internship Scholarship 
+        and worked at NCTU in the research group of Prof. Jen-Shiang K. Yu in 2015 and 2018, respectively. In 2016, I was also a visiting student at <a href="https://www.ictp.it/">ICTP</a>, Trieste, Italy.
       </p>
 
       <p class="indent">
-        I have been volunteering as a member of the organizer of many conferences and events, working in both software developer 
-        and scientific computing communities. I was part of the organizer of <a href="https://2019.th.pycon.org/en/">PyCon APAC 2019</a> and 
+        I am now a core team member of <a href="https://gdsc.community.dev/eth-zurich/">Google Developer Student Clubs (GDSC) Zurich</a>. 
+        I was part of the organizer of <a href="https://2019.th.pycon.org/en/">PyCon APAC 2019</a> and 
         <a href="https://th.pycon.org/">PyCon Thailand 2021</a>. In 2021, I was the academic team leader of 
         <a href="http://tmlcc.cseathai.org/">Thailand Machine Learning for Chemistry Challenge (TMLCC)</a> 
         (check <a href="https://competitions.codalab.org/competitions/34540">this</a> and <a href="https://tmlcc2021.devpost.com/">this</a> 
-        for more details of the competition). I am also a self-taught programmer interested in learning tips & tricks and useful Linux commands, 
-        learning best practices for coding to increase the performance of codes, benchmarking high-performance supercomputers 
-        (and any electronic devices that have processing units).
+        for more details of the competition).
       </p>
     </div>
 
