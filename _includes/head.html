@@ -5,6 +5,10 @@
   {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include google-analytics.html %}
   {% endif %}
+  <!-- Google Analytics 4 -->
+  {% if site.google_analytics_4 and jekyll.environment == 'production' %}
+  {% include google-analytics-4.html %}
+  {% endif %}
 
   <meta charset="utf-8" />
   <!-- Site title -->
