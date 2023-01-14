@@ -17,4 +17,8 @@ gem install bundler
 cd rangsimanketkaew.github.io
 bundle install
 bundle exec jekyll server
+
+# Build website with google analytics included
+# (google analytics tag will be included in index.html of the built site)
+JEKYLL_ENV=production bundle exec jekyll serve
 ```
