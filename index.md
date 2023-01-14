@@ -44,16 +44,7 @@ layout: default
         where I focused on several research topics in computer modeling ranging from density functional theory to multiscale 
         (coarse-grained model) simulation under the supervision of Prof. Yuthana Tantirungrotechai.
         During my education at that time, I received the NCTU Taiwan Elite International Internship Scholarship 
-        and worked at NCTU in the research group of Prof. Jen-Shiang K. Yu in 2015 and 2018, respectively. In 2016, I was also a visiting student at <a href="https://www.ictp.it/">ICTP</a>, Trieste, Italy.
-      </p>
-
-      <p class="indent">
-        I am now a core team member of <a href="https://gdsc.community.dev/eth-zurich/">Google Developer Student Clubs (GDSC) Zurich</a>. 
-        I was part of the organizer of <a href="https://2019.th.pycon.org/en/">PyCon APAC 2019</a> and 
-        <a href="https://th.pycon.org/">PyCon Thailand 2021</a>. In 2021, I was the academic team leader of 
-        <a href="http://tmlcc.cseathai.org/">Thailand Machine Learning for Chemistry Challenge (TMLCC)</a> 
-        (check <a href="https://competitions.codalab.org/competitions/34540">this</a> and <a href="https://tmlcc2021.devpost.com/">this</a> 
-        for more details of the competition).
+        and worked at NCTU in the research group of Prof. Jen-Shiang K. Yu in 2015 and 2018, respectively. In 2016, I was also a visiting student at ICTP, Trieste, Italy.
       </p>
     </div>
 
@@ -64,6 +55,30 @@ layout: default
             <a href="ml-qm-book">Machine Learning for Quantum Chemistry (in Thai)</a>
           </li>
         </ul>
+    </div>
+
+    <div class="card">
+      <h1 class="card-title">Contributions</h1>
+      <ul>
+        <li>
+          <a href="https://gdsc.community.dev/eth-zurich/">Google Developer Student Clubs (GDSC) Zurich</a>
+        </li>
+        <li>
+          Thailand Machine Learning for Chemistry Competition 2021 (see <a href="https://competitions.codalab.org/competitions/34540">this</a> and <a href="https://tmlcc2021.devpost.com/">this</a>)
+        </li>
+        <li>
+          HackZurich, 2020, <a href="https://devpost.com/software/mygarden">2021</a>, <a href="https://github.com/rangsimanketkaew/hackzurich2022-emotion">2022</a>
+        </li>
+        <li>
+          <a href="https://github.com/JeanBaptiste-dlb/Skiptify">BaselHack 2022</a>
+        </li>
+        <li>
+          PyCon 2019 & 2021
+        </li>
+        <li>
+          <a href="https://www.kaggle.com/c/champs-scalar-coupling">Kaggle's Predicting Molecular Properties 2019</a>
+        </li> 
+      </ul>
     </div>
 
     <div class="card">
@@ -79,73 +94,6 @@ layout: default
           </li>
         {% endfor %}
         </ol>
-    </div>
-
-    <div class="card">
-      <h1 class="card-title">Contributions</h1>
-      <div class="row">
-        <div class="col-lg4">
-        <div class="card">
-
-          <p>
-          <h5>PyCon Thailand 2019</h5>
-          <img
-            src="/assets/img/about/pycon-assemble.JPG"
-            alt="pycon-assemble"
-            width="500px"
-            height="auto"
-          />
-          </p>
-
-          <p>
-          <h5>ThaiPy Bangkok Meetup</h5>
-          <img
-            src="/assets/img/about/thaipy.JPG"
-            alt="thaipy"
-            width="500px"
-            height="auto"
-          />
-          </p>
-
-          <p>
-          <h5>Hack Zurich 2021</h5>
-          <img
-            src="/assets/img/about/hackzurich2021.jpeg"
-            alt="hack-zurich-2021"
-            width="500px"
-            height="auto"
-          />
-          </p>
-
-        </div>
-        </div>
-
-        <div class="col-lg4">
-        <div class="card">
-
-          <p>
-          <h5>PySomTum</h5>
-          <img
-            src="/assets/img/about/pysomtum.JPG"
-            alt="pysomtum"
-            width="500px"
-            height="auto"
-          />
-          </p>
-
-          <p>
-          <h5>Hack Zurich 2020</h5>
-          <img
-            src="/assets/img/about/hackzurich2020.PNG"
-            alt="hack-zurich-2020"
-            width="500px"
-            height="auto"
-          />
-          </p>
-
-        </div>
-        </div>
-      </div>
     </div>
   </div>
 
@@ -169,6 +117,7 @@ layout: default
       <h1>Skills</h1>
       <p>Bash, Python, C++, Fortran, HTML/CSS,</p>
       <p>Unix/Linux, Windows, Git, Vi</p>
+      <p>Deep learning, Distributed system</p>
       <p>AWS Cloud and System administration (Parallel/distributed computing)</p>
       <p>Computational chemistry software benchmarking</p>
     </div>
