@@ -49,10 +49,16 @@ layout: default
     </div>
 
     <div class="card">
-      <h1 class="card-title">Book</h1>
+      <h1 class="card-title">Resources</h1>
         <ul>
           <li>
-            <a href="ml-qm-book">Machine Learning for Quantum Chemistry (in Thai)</a>
+            <a href="ml-qm-book">Book: Machine Learning for Quantum Chemistry (in Thai)</a>
+          </li>
+          <li>
+            <a href="elec-struct">Slide: Computational Chemistry: Electronic Structure Calculation</a>
+          </li>
+          <li>
+            <a href="moldyn">Note: Based-on-experiences Note on Statistical Molecular Dynamics for Soft Matter Simulations</a>
           </li>
         </ul>
     </div>
