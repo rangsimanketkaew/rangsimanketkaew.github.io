@@ -115,8 +115,8 @@ layout: default
 
     <div class="card">
       <h1>CV</h1>
-      <p>My CV is available in a <a href="/cv_short.pdf" target="_blank">short</a> and 
-      <a href="/cv_full.pdf" target="_blank">full</a> version.</p>
+      <p>My CV is available <a href="/cv.pdf" target="_blank">here</a> and resume is
+      <a href="/resume.pdf" target="_blank">here</a>.</p>
     </div>
 
     <div class="card">
