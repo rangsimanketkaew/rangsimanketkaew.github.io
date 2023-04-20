@@ -8,6 +8,6 @@ category:
   - sports
 summary: How I learned to ski in 3 days
 thumbnail: 
-permalink: content/how-to-learn-ski-in-3-days
+permalink: content/how-I-learned-to-ski-in-3-days
 comments: false
 ---
