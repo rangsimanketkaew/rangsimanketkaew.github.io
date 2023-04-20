@@ -115,6 +115,29 @@ layout: home
       <a href="{{ site.baseurl }}/comp-chem" class="btn btn-primary btn-lg custom_btn">Read</a>
     </p>
   </div>
+
+  <div class="card blog-post">
+    <img
+      src="/assets/img/pages/misc.png"
+      alt="misc"
+      width="200px"
+      height="auto"
+      class="center-img"
+    />
+
+    <h5 align="center">Miscellaneous</h5>
+    <ul>
+      <li>Hobbies</li>
+      <li>Sports</li>
+      <li>Travel</li>
+      <li>Photos</li>
+    </ul>
+
+    <p align="center">
+      <a href="{{ site.baseurl }}/misc" class="btn btn-primary btn-lg custom_btn">Read</a>
+    </p>
+  </div>
+
 </div>
 
 <div class="card">
