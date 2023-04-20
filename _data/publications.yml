@@ -1,6 +1,11 @@
+- title: "Enabling Direct Photoelectrochemical H2 Production using Alternative Oxidation Reactions on WO3"
+  authors: N. Plainpan, R. Ketkaew, S. Luber, K. Sivula
+  journal: Chimia 2023, 77, 110
+  link: 10.2533/chimia.2023.110
+
 - title: "DeepCV: A Deep Learning Framework for Blind Search of Collective Variables in Expanded Configurational Space"
   authors: R. Ketkaew, S. Luber
-  journal: J. Chem. Inf. Model. 2022
+  journal: J. Chem. Inf. Model. 2022, 62, 24, 6352-6364
   link: 10.1021/acs.jcim.2c00883
 
 - title: "Two Novel Dinuclear Cobalt Polypyridyl Complexes in Electro- and Photocatalysis for Hydrogen Production: Cooperativity Increases Performance"
@@ -8,7 +13,7 @@
   journal: ChemSusChem 2022, e202201049
   link: 10.1002/cssc.202201049
 
-- title: "Effects of surface wettability on (001)-WO and (100)-WSe: A spin-polarized DFT-MD study"
+- title: "Effects of surface wettability on (001)-WO3 and (100)-WSe2: A spin-polarized DFT-MD study"
   authors: F. Creazzo, R. Ketkaew, S. Luber
   journal: Appl. Surf. Sci. 2022, 601, 154203
   link: 10.1016/j.apsusc.2022.154203
