@@ -9,14 +9,14 @@ category:
 summary: Change Static Hostname without Reboot on CentOS
 thumbnail: posts/blog.png
 permalink: content/23
-comments: true
+comments: false
 ---
 
-Booting the CentOS for first time, the name of Linux machine is set based on the protocal network, which is difficult to remember. When you have many Linux machines, it's better the change the name of each machine. One can do this using a hostnamectl tool.  You can use this command to show the current status of your network and control the system hostname. Learn the definition of each option of hostnamectl using *man hostnamectl* command.
+Booting the CentOS for first time, the name of Linux machine is set based on the protocal network, which is difficult to remember. When you have many Linux machines, it's better the change the name of each machine. One can do this using a hostnamectl tool. You can use this command to show the current status of your network and control the system hostname. Learn the definition of each option of hostnamectl using _man hostnamectl_ command.
 
-*man* command is always useful for both admin and user.
+_man_ command is always useful for both admin and user.
 
-Step 1: Check the current status of your machine using  hostnamectl status command
+Step 1: Check the current status of your machine using hostnamectl status command
 
 The following is an example of output of this command on my Linu machine.
 
@@ -36,7 +36,7 @@ Transient hostname: host-10-100-1-9
 
 Look at first two lines, the static and transient hostnames of my machine are **localhost.localdomain** and **host-10-100-1-9**.
 
-Step 2: What you have to do is changing the static hostname. You can set new static hostname using *hostnamectl set-hostname new-hostname* command.
+Step 2: What you have to do is changing the static hostname. You can set new static hostname using _hostnamectl set-hostname new-hostname_ command.
 
 ```sh
 hostnamectl set-hostname RANGSIMAN1993

@@ -10,7 +10,7 @@ category:
 summary: Check memory usage of your individual Linux machine and cluster
 thumbnail: posts/memory-ram.png
 permalink: content/14
-comments: true
+comments: false
 ---
 
 ## Table of Content
@@ -47,9 +47,9 @@ Mem:            62         54          8          1          2         45
 Swap:           99          4         95
 ```
 
-* Total memory is  62 GB
-* Used memory is  6 GB   (2nd row)
-* Free memory is  56 GB   (2nd row)
+- Total memory is 62 GB
+- Used memory is 6 GB (2nd row)
+- Free memory is 56 GB (2nd row)
 
 or
 
@@ -59,8 +59,8 @@ Mem:             31           0          23           0           6          29
 Swap:            15           0          15
 ```
 
-* Total memory is  31 GB
-* Free memory is  29 GB  (+ buffers/cache)
+- Total memory is 31 GB
+- Free memory is 29 GB (+ buffers/cache)
 
 <br>
 

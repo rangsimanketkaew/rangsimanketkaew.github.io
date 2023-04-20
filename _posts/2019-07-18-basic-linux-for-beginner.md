@@ -8,7 +8,7 @@ category:
 summary: Resources for everyone to get started Linux
 thumbnail: posts/linux-1.png
 permalink: content/4
-comments: true
+comments: false
 ---
 
 <br>

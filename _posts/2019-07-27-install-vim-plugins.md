@@ -9,7 +9,7 @@ category:
 summary: How to install plugins for Vim editor
 thumbnail: posts/vim-logo.png
 permalink: content/7
-comments: true
+comments: false
 ---
 
 ## เกริ่นนำ
@@ -45,6 +45,7 @@ comments: true
 - Windows Linux Subsystem (WLS)
 - Ubuntu: Version: 18.04.2 LTS (Bionic Beaver)
 - Vim editor (vim-gnome)
+
 ```
 VIM - Vi IMproved 8.0 (2016 Sep 12, compiled Jun 06 2019 17:31:41)
 Included patches: 1-1453
@@ -61,41 +62,51 @@ Compiled by pkg-vim-maintainers@lists.alioth.debian.org
 1. เปิด terminal
 
 2. ดาวน์โหลด source code ของ Plug มาที่เครื่องของเรา
+
 ```sh
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
 1. เปิดไฟล์ ~/.vimrc
+
 ```sh
 vi ~/.vimrc
 ```
 
 1. เพิ่มคำสั่งเพื่อเรียกใช้งาน plugin หรือ extension ที่ต้องการ ซึ่งคำสั่งจะขึ้นต้นด้วยคีเวิร์ด **Plug** ดังตัวอย่างต่อไปนี้
+
 ```
 Plug 'junegunn/vim-easy-align'
 ```
+
 ---
+
 ตัวอย่างไฟล์ .vimrc ของผมครับ
+
 <script src="https://gist.github.com/rangsimanketkaew/ac5e705540fd1feeeda5866e32073deb.js"></script>
 
 1. อัพเดทการตั้งค่าของไฟล์ .vimrc โดยการ activate ไฟล์ด้วยคำสั่งต่อไป
+
 ```sh
 source ~/.vimrc
 ```
 
 1. เปิด vim แล้วเข้า Normal Mode โดยกดปุ่ม **Esc** และกด **shift** + **;**
    (สังเกตว่าด้านล่างซ้ายของหน้าต่าง vim จะปรากฎ **:** ขึ้นมา)
+
 ```sh
 vi
 ```
 
 1. รันคำสั่งต่อไปนี้เพื่อติดตั้ง plugin ทั้งหมดที่ระบุในไฟล์ .vimrc ด้วย plug แล้ว Enter
+
 ```
 :PlugInstall
 ```
 
 1. รอสักครู่จนกระทั่งการติดตั้งเสร็จเรียบร้อย หากต้องการตรวจสอบสถานะของ Plug และปลั๊กอินอื่น ๆ สามารถทำได้โดยรันคำสั่งต่อไปนี้
+
 ```
 :PlugStatus
 ```
@@ -118,23 +129,25 @@ vi
 เช่น ผมต้องการติดตั้งปลั๊กอิน python-mode สามารถทำได้ดังนี้
 
 1. เพิ่มคำสั่งต่อไปนี้เข้าไปยังไฟล์ .vimrc
+
 ```
 Plug 'klen/python-mode'
 ```
 
 2. เปิด vim แล้วรันคำสั่งต่อไปนี้ใน Normal Mode
+
 ```
 :source %
 :PlugInstall
 ```
 
 3. รอสักครู่จนการติดตั้งจะเสร็จสมบูรณ์
-<img 
-  src="/assets/img/posts/install-python-plugin-vim.png" 
-  alt="install-python-plugin-vim" 
-  width="100%" 
-  height="auto" 
-/>
+   <img 
+     src="/assets/img/posts/install-python-plugin-vim.png" 
+     alt="install-python-plugin-vim" 
+     width="100%" 
+     height="auto" 
+   />
 
 <br>
 
@@ -145,22 +158,24 @@ Plug 'klen/python-mode'
 การเรียกใช้งาน NERDTree ทำได้ดังต่อไปนี้
 
 1. เปิด vim
+
 ```
 vi
 ```
 
 2. เข้า Normal Mode และรันคำสั่งต่อไปนี้
+
 ```
 :NERDTree
 ```
 
 3. เมื่อ NERDTree ทำงาน จะปรากฎหน้าต่าง File/Folder explorer ขึ้นมาทางด้านซ้าย ซึ่งจะเป็นการแสดงไฟล์และแฟ้มข้อมูลแบบ tree นั่นเอง ซึ่งปลั๊กอินตัวนี้มีประโยชน์อย่างมากในการทำงานที่ต้องมีการแก้ไขหลาย ๆ ไฟล์พร้อมกัน
-<img 
-  src="/assets/img/posts/vi-nerdtree-test.png" 
-  alt="vi-nerdtree-test" 
-  width="100%" 
-  height="auto" 
-/>
+   <img 
+     src="/assets/img/posts/vi-nerdtree-test.png" 
+     alt="vi-nerdtree-test" 
+     width="100%" 
+     height="auto" 
+   />
 
 <br>
 
@@ -183,11 +198,13 @@ autocmd VimEnter * wincmd p
 ## คำสั่งอื่น ๆ ที่อาจจะมีประโยชน์
 
 - อัพเดทปลั๊กอิน
+
 ```
 :PlugUpdate
 ```
 
 - อัพเกรด Plug
+
 ```
 :PlugUpgrade
 ```

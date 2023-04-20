@@ -8,7 +8,7 @@ category:
 summary: Referencing with natbib and biblatex
 thumbnail: posts/LaTeX_logo.svg.png
 permalink: content/28
-comments: true
+comments: false
 ---
 
 - [Natbib](#natbib)

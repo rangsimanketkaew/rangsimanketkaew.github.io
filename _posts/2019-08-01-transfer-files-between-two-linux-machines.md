@@ -9,7 +9,7 @@ category:
 summary: File transfer between server and local host machines
 thumbnail: posts/file-transfer.png
 permalink: content/12
-comments: true
+comments: false
 ---
 
 ## Table of Content
@@ -70,11 +70,13 @@ etc ...
 Here is the normal syntax for single file transfer.
 
 1. From a local machine to a remote machine:
+
 ```
 scp  file  user@ip-address:/remote/directory/
 ```
 
 2. From a remote machine to a local machine:
+
 ```
 scp user@ip-address:/remote/directory/file  /local/directory/
 ```
@@ -83,22 +85,28 @@ scp user@ip-address:/remote/directory/file  /local/directory/
 
 ## Transfers multiple files/folders
 
-For sending multiple files, one can use regular expression  "{" and "}" for grouping all files and send them all at the same time.
+For sending multiple files, one can use regular expression "{" and "}" for grouping all files and send them all at the same time.
 
 1. From a local machine to a remote machine:
+
 ```
 scp  file1 file2 file3 ...  user@ip-address:/remote/directory/
 ```
+
 or
+
 ```
 scp  file.*  user@ip-address:/remote/directory/
 ```
+
 or
+
 ```
 scp  file{1,2,3}  user@ip-address:/remote/directory/
 ```
 
 2. From a remote machine to a local machine:
+
 ```
 scp user@ip-address:/remote/directory/\{file1,file2,file3\}  /local/directory/
 ```

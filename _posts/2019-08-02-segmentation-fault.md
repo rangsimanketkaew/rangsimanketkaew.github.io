@@ -12,7 +12,7 @@ category:
 summary: What is segmentation fault and how to handle it
 thumbnail: posts/segfault.png
 permalink: content/17
-comments: true
+comments: false
 ---
 
 ## Table of Content
@@ -49,7 +49,7 @@ The following is a standard error message you have ever found before or may be s
 ===================================================================================
 ```
 
-This error is called **segmentation fault** or **segfault**. Typically, the segmentation fault is error in the program or application that you use, not in MPI. Therefore, before running any parallel calculation using MPI, you should carefully check that your program/application is designed for this task of calculation. 
+This error is called **segmentation fault** or **segfault**. Typically, the segmentation fault is error in the program or application that you use, not in MPI. Therefore, before running any parallel calculation using MPI, you should carefully check that your program/application is designed for this task of calculation.
 
 <br>
 
@@ -57,19 +57,23 @@ This error is called **segmentation fault** or **segfault**. Typically, the segm
 
 To overcome the segmentation fault, you can use the debugger such as _gdb_, _ddd_, _totalview_, and _padb_ for debugging segmentation fault in your program. In Linux, you can try first with "gdb" or "ddd". But, these tools are serial debuggers. If you want to use parallel debugger, please use "totalview" as describes below.
 
-- For gdb, you can use command like this: 
+- For gdb, you can use command like this:
+
 ```
 mpiexec -np 4 xterm -e gdb ./your_program
 ```
 
 - For ddd, you can use
-mpiexec -np 4 ddd ./foo/your_program
+  mpiexec -np 4 ddd ./foo/your_program
 
 - Moreover, the "totalview" debugger allows multiple levels of debugging for MPI programs. If you need to debug your application without any information from the MPICH stack, you just need to compile your program, like this:
+
 ```
 mpicc -g
 ```
+
 and then run your application using command:
+
 ```
 totalview mpiexec -a -f machinefile ./your_program
 ```

@@ -9,7 +9,7 @@ category:
 summary: Example of style code I use to write this site
 thumbnail: posts/html.png
 permalink: content/6
-comments: true
+comments: false
 ---
 
 <br>
@@ -112,7 +112,7 @@ comments: true
 
   <hr />
 
-  ### HTML in Markdown
+### HTML in Markdown
 
   <img src="/assets/img/test-and-wow.jpg" width="100%" height="auto" />
 
@@ -123,7 +123,7 @@ comments: true
 
   <p>Now, lets try different heading styles :</p>
 
-  <code class="inlinecode"><h1>Hello in h1 !</h1></code>
+<code class="inlinecode"><h1>Hello in h1 !</h1></code>
 
   <h1>Hello in h1 !</h1>
   <code class="inlinecode"><h2>Hello in h2 !</h2></code>
@@ -402,7 +402,7 @@ This line is so longgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 
   <h4>embed</h4>
 
-  <embed
+<embed
     src="/sample/sample.pdf"
     type="application/pdf"
     width="100%"

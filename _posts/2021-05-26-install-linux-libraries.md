@@ -9,7 +9,7 @@ category:
 summary: Install Linux libraries
 thumbnail: posts/blog.png
 permalink: content/26
-comments: true
+comments: false
 ---
 
 - [wget](#wget)

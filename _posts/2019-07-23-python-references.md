@@ -8,7 +8,7 @@ category:
 summary: Reference books and materials for Python learner
 thumbnail: posts/code-capture.jpeg
 permalink: content/5
-comments: true
+comments: false
 ---
 
 <br>

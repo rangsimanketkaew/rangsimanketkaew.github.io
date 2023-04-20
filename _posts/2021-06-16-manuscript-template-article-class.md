@@ -8,7 +8,7 @@ category:
 summary: Manuscript template using article class
 thumbnail: posts/LaTeX_logo.svg.png
 permalink: content/27
-comments: true
+comments: false
 ---
 
 ## Article class

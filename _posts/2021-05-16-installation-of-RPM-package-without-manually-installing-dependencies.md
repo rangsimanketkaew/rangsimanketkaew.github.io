@@ -9,7 +9,7 @@ category:
 summary: Installation of RPM package without manually installing dependencies
 thumbnail: posts/blog.png
 permalink: content/21
-comments: true
+comments: false
 ---
 
 ## Table of Content
@@ -18,7 +18,7 @@ comments: true
 - [Installation](#installation)
 - [Uninstallation](#uninstallation)
 
-Normally Linux user installs the program or package via either yum or rpm tools.  For yum installer, sometimes yum cannot install the package because the repository mirror or yum server database have no those pakcages. Linux experts suggest create of local yum repository, but it is quite not convenient for beginner or novice.  The rpm is an alternative to yum repo method. The rpm file of a certain pakcage can be searched and downloaded from the rpm database.  For example, <https://rpmfind.net>, in this website, user can search desired packages with system and arch optional filter to narrow down the search results.  Then user can download rpm file to Linux machine using wget command and install using rpm installer.
+Normally Linux user installs the program or package via either yum or rpm tools. For yum installer, sometimes yum cannot install the package because the repository mirror or yum server database have no those pakcages. Linux experts suggest create of local yum repository, but it is quite not convenient for beginner or novice. The rpm is an alternative to yum repo method. The rpm file of a certain pakcage can be searched and downloaded from the rpm database. For example, <https://rpmfind.net>, in this website, user can search desired packages with system and arch optional filter to narrow down the search results. Then user can download rpm file to Linux machine using wget command and install using rpm installer.
 
 ## Installation
 
@@ -28,13 +28,13 @@ The following is rpm command for installation of GTK+-2 package on CentOS 7 64 b
 rpm -i gtk2-devel-2.24.31-1.el7.x86_64.rpm
 ```
 
-Even if RPM normally works well for most of user, but, the problem with this installer is that some package requires user to install the dependecies of package beforehand. I would say that this is one of disadventages of rpm.  However, to deal with this, we can use yum installer to install the package and its dependencies automatically.  So users do not need to install themselve some unknown packages anymore. The followinf command is a solution that I am talking about (refer to the rpm file),
+Even if RPM normally works well for most of user, but, the problem with this installer is that some package requires user to install the dependecies of package beforehand. I would say that this is one of disadventages of rpm. However, to deal with this, we can use yum installer to install the package and its dependencies automatically. So users do not need to install themselve some unknown packages anymore. The followinf command is a solution that I am talking about (refer to the rpm file),
 
 ```sh
 yum install packagename.arch.rpm
 ```
 
-or 
+or
 
 ```sh
 yum --nogpgcheck localinstall packagename.arch.rpm

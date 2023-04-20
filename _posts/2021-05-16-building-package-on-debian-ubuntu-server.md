@@ -10,7 +10,7 @@ category:
 summary: Building Package on Debian/Ubuntu Server
 thumbnail: posts/ubuntu.png
 permalink: content/22
-comments: true
+comments: false
 ---
 
 ## Table of Content
@@ -40,12 +40,15 @@ Original document is available at <http://packaging.ubuntu.com/singlehtml/index.
 ## Generate KEY id.
 
 1. Generate KEY id.
+
 ```
 gpg --full-gen-key
 ```
 
 2. Follows an interactive question.
+
 - Question 1:
+
 ```
 Please select what kind of key you want:
 (1) RSA and RSA (default)
@@ -54,7 +57,9 @@ Please select what kind of key you want:
 (4) RSA (sign only)
 Your selection? 1
 ```
+
 - Question 2:
+
 ```
 Please specify how long the key should be valid.
       0 = key does not expire
@@ -64,7 +69,9 @@ Please specify how long the key should be valid.
     n y = key expires in n years
 Key is valid for 0 0
 ```
+
 - Question 3:
+
 ```
 Real name: Rangsiman Ketkaew
 Email address: test_test@gmail.com
@@ -72,10 +79,13 @@ Comment:
 ```
 
 3. Check your KEY id
+
 ```
 gpg --list-secret-keys --keyid-format LONG
 ```
+
 Output:
+
 ```
 sec   rsa3072/TESTKEY112233 2019-05-23 [SC] [expires: XXXX-XX-XX]
       4C220144Fd0892C02CF337AC6F0BF90G43CDE61D
@@ -92,23 +102,27 @@ gpg --send-keys --keyserver keyserver.ubuntu.com TESTKEY112233
 ## Generate SSH key
 
 1. To generate SSH key, use following command:
+
 ```
-ssh-keygen -t rsa 
+ssh-keygen -t rsa
 ```
 
 2. Then you will ask where the ssh key fille will be saved, just enter the default setting.
+
 ```
 Generating public/private rsa key pair.
-Enter file in which to save the key (/home/nutt/.ssh/id_rsa): 
+Enter file in which to save the key (/home/nutt/.ssh/id_rsa):
 ```
 
 3. Type and confirm your passphrase.
+
 ```
 Enter passphrase (empty for no passphrase):
-Enter same passphrase again: 
+Enter same passphrase again:
 ```
 
 4. Done!
+
 ```
 Your identification has been saved in /home/rangsiman/.ssh/id_rsa.
 Your public key has been saved in /home/rangsiman/.ssh/id_rsa.pub.
@@ -136,10 +150,13 @@ pbuilder-dist <release> create
 where <release> is for example xenial, zesty, artful or in the case of Debian maybe sid or buster.
 
 FYI: You can use following command to check Ubuntu code name:
+
 ```
 lsb_release -a
 ```
+
 Output:
+
 ```
 No LSB modules are available.
 Distributor ID: Ubuntu
@@ -155,27 +172,32 @@ Codename: bionic
 2. Confirmation e-mail will be sent to your e-mail.
 
 3. Get back to the terminal. Check your KEY id using:
+
 ```
 gpg --list-secret-keys --keyid-format LONG
 ```
+
 Output:
+
 ```
 sec rsa3072/TESTKEY112233 2019-05-23 [SC] [expires: XXXX-XX-XX]
 4C220144Fd0892C02CF337AC6F0BF90G43CDE61D
 uid [ultimate] Rangsiman Ketkaew <test_test@gmail.com>
-ssb rsa3072/XXXXXXXXX 2019-05-23 [E] [expires: XXXX-XX-XX] 
+ssb rsa3072/XXXXXXXXX 2019-05-23 [E] [expires: XXXX-XX-XX]
 ```
 
 4. Submit SSH key to Ubuntu server:
+
 ```
-gpg --send-keys --keyserver keyserver.ubuntu.com TESTKEY112233 
+gpg --send-keys --keyserver keyserver.ubuntu.com TESTKEY112233
 ```
 
 5. Go to <https://launchpad.net/~/+editpgpkeys>
 
 6. Append your Key Fingerprint (a long one) to text box, for example,
+
 ```
-4C220144Fd0892C02CF337AC6F0BF90G43CDE61D 
+4C220144Fd0892C02CF337AC6F0BF90G43CDE61D
 ```
 
 7. Then click "Import Key".
@@ -187,6 +209,7 @@ Ref: <https://help.launchpad.net/ReadingOpenPgpMail>
 1. A confirmation e-mail will be sent to your e-mail.
 
 2. In the e-mail there will be a long PGP KEY message like this:
+
 ```sh
 ---BEGIN PGP MESSAGE---
 Version: GnuPG v1
@@ -197,18 +220,21 @@ xxxxxxxxxxx
 ```
 
 3. Open your terminal and create file call opgpm.txt.
+
 ```
-vi opgpm.txt 
+vi opgpm.txt
 ```
 
 4. Copy and paste the PGP message from the e-mail to the file.
 
 5. Then execute the following command
+
 ```sh
-gpg -d opgpm.txt 
+gpg -d opgpm.txt
 ```
 
 6. Output below confirms that a process is done successfully.
+
 ```
 gpg: encrypted with 3072-bit RSA key, ID XXXXXXXXXXXX, created 2019-05-23
 "Rangsiman Ketkaew test_test@gmail.com;"
@@ -217,6 +243,7 @@ gpg: encrypted with 3072-bit RSA key, ID XXXXXXXXXXXX, created 2019-05-23
 ```
 
 7. Then submit SSH key to Ubuntu server again.
+
 ```sh
 gpg --keyserver keyserver.ubuntu.com --send-keys TESTKEY112233
 ```
@@ -230,12 +257,14 @@ gpg --keyserver keyserver.ubuntu.com --send-keys TESTKEY112233
 ## Configure the shell
 
 1. Environment variable
+
 ```
 export DEBFULLNAME="Rangsiman Ketkaew"
-export DEBEMAIL="test_test@gmail.com" 
+export DEBEMAIL="test_test@gmail.com"
 ```
 
 2. Now save the file and either restart your terminal or run:
+
 ```
 source ~/.bashrc
 ```
@@ -245,28 +274,33 @@ source ~/.bashrc
 1. In this post, I will use a simple program hello world as an example.
 
 2. Download source code of GNU hello version 2.10 from its library.
+
 ```
-wget -O hello-2.10.tar.gz "http://ftp.gnu.org/gnu/hello/hello-2.10.tar.gz" 
+wget -O hello-2.10.tar.gz "http://ftp.gnu.org/gnu/hello/hello-2.10.tar.gz"
 ```
 
 2. Uncompress the tarball:
+
 ```
 tar xf hello-2.10.tar.gz
-cd hello-2.10 
+cd hello-2.10
 ```
 
 3. This application uses the autoconf build system so we want to run ./configure to prepare for compilation.
+
 ```
-./configure 
+./configure
 ```
 
 4. Compile program and install it. Binary executable file of hello program will be installed at /usr/local/bin/.
+
 ```
 make
-sudo make install 
+sudo make install
 ```
 
 5. Test program by running:
+
 ```
 hello
 ```
@@ -276,30 +310,35 @@ hello
 The following content is proposed by https://ubuntuforums.org/showthread.php?t=910717 .
 
 1. Decide on the name of your package. For example, you could name your first package
+
 ```sh
-helloworld_2.10-1 
+helloworld_2.10-1
 ```
 
 2. Create a directory to make your package in. The name should be the same as the package name.
+
 ```sh
-mkdir helloworld_2.10-1 
+mkdir helloworld_2.10-1
 ```
 
 3. Pretend that the packaging directory is actually the root of the file system. Put the files of your program where they would be installed to on a system.
+
 ```sh
 mkdir helloworld_2.10-1/usr
 mkdir helloworld_2.10-1/usr/local
 mkdir helloworld_2.10-1/usr/local/bin
-cp "~/Projects/Hello World/helloworld" helloworld_2.10-1/usr/local/bin 
+cp "~/Projects/Hello World/helloworld" helloworld_2.10-1/usr/local/bin
 ```
 
 4. Now create a special metadata file with which the package manager will install your program...
+
 ```
 mkdir helloworld_2.10-1/DEBIAN
-gedit helloworld_2.10-1/DEBIAN/control 
+gedit helloworld_2.10-1/DEBIAN/control
 ```
 
 5. Put something like this in that file...
+
 ```
 Package: helloworld
 Version: 2.10-1
@@ -312,9 +351,11 @@ Description: Hello World
 When you need some sunshine, just run this
 small program!
 ```
+
 (the space before each line in the description is important)
 
 6. Now you just need to make the package:
+
 ```
 dpkg-deb --build helloworld_1.0-1
 ```

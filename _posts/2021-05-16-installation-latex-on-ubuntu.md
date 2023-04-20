@@ -9,7 +9,7 @@ category:
 summary: Installation of LaTeX on Ubuntu
 thumbnail: posts/blog.png
 permalink: content/20
-comments: true
+comments: false
 ---
 
 ## Table of Content
@@ -24,21 +24,25 @@ comments: true
 1. Open linux terminal
 
 2. Download package via repository ppa "jonathonf"
+
 ```sh
 sudo add-apt-repository ppa:jonathonf/texlive
 ```
 
 3. Update package
+
 ```sh
 sudo apt-get update
 ```
 
 4. Install texlive first
+
 ```sh
 sudo apt-get install texlive-full
 ```
 
 5. Install texstudio
+
 ```sh
 sudo apt-get install texstudio
 ```
@@ -55,4 +59,3 @@ sudo apt install ppa-purge && sudo ppa-purge ppa:jonathonf/texlive
 sudo apt-get install texstudio
 sudo apt-get purge texstudio\*
 ```
-

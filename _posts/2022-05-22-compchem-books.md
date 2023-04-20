@@ -6,9 +6,9 @@ date: "2022-05-22 15:31:00 +0200"
 category:
   - chemistry
 summary: Quantum Chemistry and Electronic Structure Books
-thumbnail: 
+thumbnail:
 permalink: content/29
-comments: true
+comments: false
 ---
 
 Selected physical chemistry books and lecture notes
@@ -27,7 +27,7 @@ Selected physical chemistry books and lecture notes
 - Molecular Energy Levels and Thermodynamics - James Keeler
 - Molecular Symmetry and Group Theory - Alan Vincent
 - Molecular Thermodynamics - Donald A. McQuarrie, John D. Simon
-- Photochemistry and Photophysics - Balzani, Vincenzo_ Ceroni, Paola_ Juris, Albert
+- Photochemistry and Photophysics - Balzani, Vincenzo* Ceroni, Paola* Juris, Albert
 - Physical Chemistry - Ira Levine
 - Thermodynamics and an Introduction to Thermostatistics - Herbert B. Callen
 - Thermodynamics and Statistical Mechanics - John M. Seddon, Julian D. Gale
@@ -100,4 +100,4 @@ Selected physical chemistry books and lecture notes
 - Multiconfigurational Quantum Chemistry - Björn O. Roos
 - Quantum Chemistry and Dynamics of Excited States Methods and Applications - Leticia González, Roland Lindh 2021
 - Reduced Density Matrices in Quantum Chemistry (1976) - Ernest Roy Davidson
-- Theoretical and Mathematical Physics - Density Functional Theory - Eberhard Engel and Reiner M. Dreizler 
+- Theoretical and Mathematical Physics - Density Functional Theory - Eberhard Engel and Reiner M. Dreizler

@@ -9,7 +9,7 @@ category:
 summary: Remote Control Linux Client using Passwordless SSH
 thumbnail: posts/cluster-ssh.png
 permalink: content/11
-comments: true
+comments: false
 ---
 
 ## Table of Content
@@ -25,6 +25,7 @@ comments: true
 ## Remote Control Linux Client using Passwordless SSH
 
 Suppose that a cluster has mother node and clients nodes whose their hostname are follows:
+
 - compute-1
 - compute-2
 - compute-3
@@ -35,7 +36,7 @@ Suppose that a cluster has mother node and clients nodes whose their hostname ar
 
 ### Step 1. Generating a private key
 
-The first step starts with creation of an authentication key on Remote SSH for accessing to client or computing node. 
+The first step starts with creation of an authentication key on Remote SSH for accessing to client or computing node.
 
 Run the following command to generate the key.
 

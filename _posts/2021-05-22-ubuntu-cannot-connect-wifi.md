@@ -10,27 +10,30 @@ category:
 summary: Ubuntu Cannot Connect WI-FI
 thumbnail: posts/blog.png
 permalink: content/25
-comments: true
+comments: false
 ---
 
-The following is the workaround for fixing Wi-Fi connection of Ubuntu. 
+The following is the workaround for fixing Wi-Fi connection of Ubuntu.
 
 1. Type command:
+
 ```
 sudo vi /etc/NetworkManager/NetworkManager.conf
 ```
 
 2. At the bottom of this file, copy and paste the following to a file
+
 ```
-[device] 
+[device]
 wifi.scan-rand-mac-address=no
 ```
 
 3. Then restart network of system using command
+
 ```
 sudo service network-manager restart
 ```
 
-4. Try to connect Wi-Fi again. 
+4. Try to connect Wi-Fi again.
 
 This solution should also work for other Ubuntu versions.

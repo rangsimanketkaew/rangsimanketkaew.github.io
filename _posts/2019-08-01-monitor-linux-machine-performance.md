@@ -9,7 +9,7 @@ category:
 summary: Monitor Linux Performance using Passwordless SSH
 thumbnail: posts/linux-server.png
 permalink: content/15
-comments: true
+comments: false
 ---
 
 ## Table of Content
@@ -69,20 +69,23 @@ echo "Done  on $(date +%D) at $(date +%T)"
 
 ## Getting Program
 
-Program code can be downloaded from 
+Program code can be downloaded from
 <https://raw.githubusercontent.com/rangsimanketkaew/Linux/master/check-linux-performance.sh>.
 
 1. Download script to your SSH client.
+
 ```
 wget https://raw.githubusercontent.com/rangsimanketkaew/Linux/master/check-linux-performance.sh
 ```
 
 2. Change permission
+
 ```
 chmod +x check-linux-performance.sh
 ```
 
 3. Execute program
+
 ```
 . check-linux-performance.sh
 ```
@@ -92,17 +95,21 @@ chmod +x check-linux-performance.sh
 ## Read This Before Running The Script
 
 1. My script is running slow because of it can access to compute node one at a time.
-2. User directories are assumed to be under /home/ directory. If all or some of them is other location, please adjust the code around line number 23.  For example, user directories are different locations: /home1/, /home2/, and /home3. The correct command for searching of user list is following
+2. User directories are assumed to be under /home/ directory. If all or some of them is other location, please adjust the code around line number 23. For example, user directories are different locations: /home1/, /home2/, and /home3. The correct command for searching of user list is following
+
 ```
 user=($(ls /home1/) $(ls /home2/) $(ls /home3/))
 ```
 
 3. Do not forget to change host name of compute node.
-Most of Linux cluster has SSH clients whose host name are sequence. For example, q1, q2, q3, ... , q99, and q100. You can use regular expression  {  }  for expression of the integer number.
+   Most of Linux cluster has SSH clients whose host name are sequence. For example, q1, q2, q3, ... , q99, and q100. You can use regular expression { } for expression of the integer number.
+
 ```
 for i in q{1..100}
 ```
+
 Combination of two or multiple variables is supported as well. E.g.,
+
 ```
 for i in q{1..100} node-0-{1..20} client1 client2 client3
 ```

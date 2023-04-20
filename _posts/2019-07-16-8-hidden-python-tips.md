@@ -10,7 +10,7 @@ summary: 8 hidden Python tips you may never see before
 thumbnail: posts/python-tips.jpg
 permalink: content/2
 redirect_from: /python-tips/8-hidden-tips/compiled_notebook
-comments: true
+comments: false
 ---
 
 # 8 hidden Python tips you may never see before
