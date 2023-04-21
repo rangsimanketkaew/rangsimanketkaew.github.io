@@ -115,6 +115,7 @@ that is very important and everyone should know before skiing is how to put on a
 if you do not really know how to put on your boots properly it can hurt your feet.
 
 My playlist basically contains videos in different type of skill development as follows:
+</p>
 
 - General introduction to ski
   - Pizza (stop)
@@ -128,7 +129,6 @@ My playlist basically contains videos in different type of skill development as 
 - Ski on steeper slopes : useful for skking on red and black runs
 - Ski on icy slopes : useful when slopes become icy
 - Carving (curved turn)
-</p>
 
 Last but not least, one more important thing is positive thinking. You have to keep telling youself that "I Can Do It"! 
 Don't fear of slopes, respect it.
