@@ -42,6 +42,11 @@ Yeah.. that is the ending of my Davos trip which later becomes the beginning of 
 my life up to now (and for good), and I would like tto share it with you.
 </p>
 
+<figure>
+  <img src="/assets/img/posts/skiing/flum-blue-run.png" width="50%" height="auto" class="center-img"/>
+  <figcaption class="center">Flumserberg blue runs</figcaption>
+</figure>
+
 <p style="text-indent: 40px">
 After stopping skiing forng for 2 years, my friends in Zurich organized a trip to Flumserberg to snowboard. We were a group of
 6 people. 5 of us rented a car and drove there and there was ome who decided to joinjoin them on the night of the day before,
@@ -88,6 +93,44 @@ is "Release the edge, ski gets flat, steer the ski".
 The second video up here by Paul Lorenz is also fantastic. He explains how to transfer weight when skiing which is 
 something that is super important. Long story short, we transfer weight before making a turn, not at the moment of turning. 
 If we transfer weight suddenly when we turn, we are going to skidding and then finally rotate.
+</p>
+
+<figure>
+  <img src="/assets/img/posts/skiing/elm-run.png" width="50%" height="auto" class="center-img"/>
+  <figcaption class="center">Elm blue and red runs</figcaption>
+</figure>
+
+<p style="text-indent: 40px">
+So, I nailed it! After watching these two videos I managed a blue run in the afternoon at Flumserberg with friends. 
+Though I fell a lot but everytime I fall I learn something from mistakes I made. One week later, we checked the weather 
+on the weekend and organized a trip to <a href="https://www.sportbahnenelm.ch/index.php?id=winter-pistenplan">Elm Sportbahnen ski resort</a>.
+We kicked the day off with a blue slope no. 8 and no.6, respectively. We repeated the run around 2 times in the morning and 
+in the afternoon I had to try a red slope first time in my life which is no.7. Of course, I fell a lot and plus it was 
+icy on that day. With the video "how to transfer weight" by Paul, I was able to fix the issue that I was always skidding and 
+also under- or over countered rotatation when turning (learng about counter rotation 
+<a href="https://www.psia-nw.org/its-counter-to-be-square/">here</a>). To gain energy we eventually closed 
+the trip with tasty Thai food on the way back to Zurich.
+</p>
+
+<figure>
+  <img src="/assets/img/posts/skiing/engelberg-blue-run.png" width="60%" height="auto" class="center-img"/>
+  <figcaption class="center">Engelberg blue runs</figcaption>
+</figure>
+
+<p style="text-indent: 40px">
+My third day of skiing in this season was in Engelberg. I has already been there in winter but just never have 
+chance to ski or did snow sport. The blue and red runs on Trubsee (part of Titlis) are so perfect and suitable 
+for beginner to practice their skills. This time I skiied only in the afternoon as there was a friend whom I came with 
+traveled from France. He lives in a city next to Basel, drove directly from there to Zurich and then took at train 
+with me from Zurich to Luzern, and Engelberg, around 1.5 hrs in total, so close. We started with an easy blue run 
+no. 6 in the early afternoon and did short red run no. 6a later. I practiced more and more parallel turn as well as 
+hocky stop that I just learned from a video on YouTube, again. I find the latter interesting and cool that you 
+can stop whenever you want regardless of how much fast you ski.
+</p>
+
+<p style="text-indent: 40px">
+Apart from these three ski resorts, I have been to many other mountains to ski including the ones that I already 
+checked it out and ones that I never been to, such as, Flumserberg (twice), Andermatt, Arosa (twice), and Davos.
 </p>
 
 <p style="text-indent: 40px">
