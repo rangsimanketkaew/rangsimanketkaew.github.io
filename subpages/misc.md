@@ -15,6 +15,12 @@ permalink: misc
 
 ## Hiking
 
+* [Exploring beautiful swiss mountains through hiking lens]()
+
+## Running
+
+* [Improving pace: from 7 to 5 minutes]()
+
 ## Website
 
 * [How I Build This Site](content/6)
