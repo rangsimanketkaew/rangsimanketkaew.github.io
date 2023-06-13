@@ -8,7 +8,7 @@ category:
   - sports
 summary: Improving pace from 7 to 5 minutes
 thumbnail:
-permalink: content/improve-pace-from-7-to-5-minutes
+permalink: content/improve-pace-from-7-to-5
 comments: false
 ---
 

@@ -14,7 +14,7 @@ permalink: misc
 
 ## Running
 
-* [Improving pace from 7 to 5 minutes](content/improve-pace-from-7-to-5-minutes)
+* [Improving pace from 7 to 5 minutes](content/improve-pace-from-7-to-5)
 
 ## Hiking
 
