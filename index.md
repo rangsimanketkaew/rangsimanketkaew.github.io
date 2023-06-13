@@ -115,8 +115,10 @@ layout: default
 
     <div class="card">
       <h1>CV</h1>
-      <p>My CV is available <a href="/cv.pdf" target="_blank">here</a> and resume is
+      <p>My academic CV is available <a href="/cv.pdf" target="_blank">here</a> and resume is
       <a href="/resume.pdf" target="_blank">here</a>.</p>
+      <br>
+      <p>My tech CV is <a href="/tech_cv.pdf" target="_blank">here</a>.</p>
     </div>
 
     <div class="card">
