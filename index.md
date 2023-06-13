@@ -52,6 +52,9 @@ layout: default
       <h1 class="card-title">Resources</h1>
         <ul>
           <li>
+            <a href="algo-sim-mol-book">Book: Algorithms for Computer Simulation of Molecular Systems (in Thai)</a>
+          </li>
+          <li>
             <a href="ml-qm-book">Book: Machine Learning for Quantum Chemistry (in Thai)</a>
           </li>
           <li>
@@ -123,10 +126,10 @@ layout: default
 
     <div class="card">
       <h1>Skills</h1>
-      <p>Bash, Python, C++, Fortran, HTML/CSS,</p>
-      <p>Unix/Linux, Windows, Git, Vi</p>
-      <p>Deep learning, Distributed system</p>
-      <p>AWS Cloud and System administration (Parallel/distributed computing)</p>
+      <p>Bash, Python, C++, Fortran, LaTeX</p>
+      <p>Unix/Linux, AWS Cloud and system administration, Git, Vi(m)</p>
+      <p>Machine (Deep) learning, Sci-kit learn, TensorFlow </p>
+      <p>Parallel/distributed computing, distributed system</p>
       <p>Computational chemistry software benchmarking</p>
     </div>
 
@@ -141,6 +144,9 @@ layout: default
     <div class="card">
       <h1 class="card-title">Projects</h1>
       <ul>
+        <li>
+          <a href="https://github.com/rangsimanketkaew/skull-king">Skull King</a>
+        </li>
         <li>
           <a href="https://github.com/rangsimanketkaew//ET-NWChem">ET-NWChem</a>
         </li>
