@@ -26,4 +26,11 @@ of city and hill, with 200 m elevation. On that day, my pace was about 7 minutes
 (side cramps) while in running after 3 km. It was so painful and I suffered a lot! 
 </p>
 
+Some blogs on [running Coach](https://blog.runningcoach.me) website that I find useful are
+
+- [Nutrition on marathon/half marathon day](https://blog.runningcoach.me/en/2022/09/22/the-right-diet-on-race-day/)
+- [Packing list for your running competition](https://blog.runningcoach.me/en/2019/09/11/packing-list-for-your-running-competition/)
+
+<img src="/assets/img/posts/running-cloths.png" width="100%" height="auto" />
+
 Happy running!
