@@ -20,6 +20,10 @@ permalink: misc
 
 * [Exploring beautiful swiss mountains through hiking lens]()
 
+## General Stuff
+
+* [My bucket list](content/my-bucket-list)
+
 ## Website
 
 * [How I Build This Site](content/6)
