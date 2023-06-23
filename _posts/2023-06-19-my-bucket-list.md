@@ -50,7 +50,8 @@ exciting nor crazying things but I am proud of them especially the ones that alr
   <li> Drink beers at Oktoberfest</li>
   <li> Take the rollercoaster at Disneyworld 3 times</li>
   <li> Travel around 7 continents</li>
-  <li> Teach my son how to drive a car and ski</li>
+  <li> Teach people to drive</li>
+  <li> Teach people to ski</li>
   <li> Drive from the southernmost city to the northernmost city within Thailand</li>
   <li> Run a half-marathon</li>
   <li> Run a marathon</li>
