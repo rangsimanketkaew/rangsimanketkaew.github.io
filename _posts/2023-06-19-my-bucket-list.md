@@ -19,18 +19,25 @@ My list is actually not as fancy as others' but I am proud of mine.
 
 <ol>
   <li> Travel in Europe</li>
+  <li> Sit on Trolltunga, Norway</li>
   <li> Visit Sir Isaac Newton’s tomb</li>
+  <li> Visit the Empire State building</li>
+  <li> Stand in front of the great dome, MIT</li>
+  <li> Eat pizza in Time Square, NYC</li>
+  <li> Eat lobster</li>
+  <li> Have bubble tea for 30 days in a row</li>
   <li> Go Skydiving</li>
   <li> Ski on different types of slopes</li>
   <li> Organize hackathon</li>
+  <li> Read and watch 'The Lord of the Rings' trilogy</li>
   <li> Watch 100 feel good movies</li>
   <li> Buy a good watch</li>
-  <li> Talk to and take a photo with Nobel laureate in person</li>
   <li> Volunteering in a rural camp</li>
   <li> Eat healthy food</li>
+  <li> Drink Belgium, Czech, and German beers</li>
   <li> Do a PhD (finishing in 2024)</li>
   <li> Write a book</li>
-  <li> Read and watch 'The Lord of the Rings' trilogy
+  <li> Talk to and take a photo with Nobel laureate in person</li>
   <li> Teach machine learning</li>
   <li> Derive density functional theory's equations</li>
   <li> Publish in top-tier theoretical chemistry journals</li>
@@ -41,6 +48,7 @@ My list is actually not as fancy as others' but I am proud of mine.
 <ol>
   <li> Travel around 7 continents</li>
   <li> Travel in USA over 10 states</li>
+  <li> Do a road trip in the US</li>
   <li> Visit Tokyo, Japan</li>
   <li> Visit filming locations of 'The Secret Life of Walter Mitty' movie</li>
   <li> See the northern light</li>
@@ -48,15 +56,16 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Take the longest flight in the world</li>
   <li> Drive from the southernmost city to the northernmost city within Thailand</li>
   <li> Drive a tram/train</li>
-  <li> Do bungee jumping</li>
+  <li> Experience bungee jumping</li>
   <li> Take the rollercoaster at Disneyworld 3 times</li>
   <li> Get 10,000 subscripbers on YouTube channel</li>
   <li> Read 100 best (or good) books</li>
-  <li> Publish at least 10 scientific papers
+  <li> Publish at least 10 scientific papers</li>
   <li> Earn a second degree in non-science</li>
   <li> Code (in any languages) at least 1 M lines of codes</li>
   <li> Get a job and work in NYC</li>
   <li> Try paella in Spain in 5 different restaurants</li>
+  <li> Try original Texas BBQ spare ribs</li>
   <li> Drink beers at Oktoberfest</li>
   <li> Learn how to make authentic ramen</li>
   <li> Teach people to drive</li>
@@ -66,5 +75,6 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Watch the final round of table tennis world championship</li>
   <li> Build a house after retirement</li>
   <li> Talk to one of the 300 richest people in the world</li>
+  <li> Donate blood at least 50 times</li>
   <li> Bring others joy</li>
 </ol>
