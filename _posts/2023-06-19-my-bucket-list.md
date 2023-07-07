@@ -30,6 +30,7 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Eat healthy food</li>
   <li> Do a PhD (finishing in 2024)</li>
   <li> Write a book</li>
+  <li> Read and watch 'The Lord of the Rings' trilogy
   <li> Teach machine learning</li>
   <li> Derive density functional theory's equations</li>
   <li> Publish in top-tier theoretical chemistry journals</li>
@@ -43,19 +44,26 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Visit Tokyo, Japan</li>
   <li> Visit filming locations of 'The Secret Life of Walter Mitty' movie</li>
   <li> See the northern light</li>
+  <li> Dive in Hawaii</li>
+  <li> Take the longest flight in the world</li>
   <li> Drive from the southernmost city to the northernmost city within Thailand</li>
   <li> Drive a tram/train</li>
+  <li> Do bungee jumping</li>
   <li> Take the rollercoaster at Disneyworld 3 times</li>
-  <li> Read 100 books</li>
+  <li> Get 10,000 subscripbers on YouTube channel</li>
+  <li> Read 100 best (or good) books</li>
+  <li> Publish at least 10 scientific papers
   <li> Earn a second degree in non-science</li>
   <li> Code (in any languages) at least 1 M lines of codes</li>
   <li> Get a job and work in NYC</li>
   <li> Try paella in Spain in 5 different restaurants</li>
   <li> Drink beers at Oktoberfest</li>
+  <li> Learn how to make authentic ramen</li>
   <li> Teach people to drive</li>
   <li> Teach people to ski</li>
   <li> Run a half-marathon</li>
   <li> Run a marathon</li>
+  <li> Watch the final round of table tennis world championship</li>
   <li> Build a house after retirement</li>
   <li> Talk to one of the 300 richest people in the world</li>
   <li> Bring others joy</li>
