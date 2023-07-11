@@ -55,6 +55,9 @@ layout: default
             <a href="algo-sim-mol-book">Book: Algorithms for Computer Simulation of Molecular Systems (in Thai)</a>
           </li>
           <li>
+            <a href="qm-summary-book">Book: Summary of Quantum Chemistry (in Thai)</a>
+          </li>
+          <li>
             <a href="ml-qm-book">Book: Machine Learning for Quantum Chemistry (in Thai)</a>
           </li>
           <li>
