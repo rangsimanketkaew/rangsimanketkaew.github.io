@@ -20,7 +20,7 @@ permalink: misc
 
 ##### &#10004; Hiking
 
-* [Exploring beautiful swiss mountains through hiking lens]()
+* [Exploring beautiful swiss mountains through hiking lens](content/explore-switzerland-through-hiking-lens)
 
 ##### &#10004; Table Tennis
 
