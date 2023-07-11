@@ -2,7 +2,7 @@
 layout: post
 title: Exploring beautiful swiss mountains through hiking lens
 author: Rangsiman Ketkaew
-date: "2023-06-13 16:00:00 +0200"
+date: "2023-07-11 16:00:00 +0200"
 category:
   - hiking
   - Switzerland
