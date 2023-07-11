@@ -8,7 +8,7 @@ category:
   - Switzerland
 summary: Exploring beautiful swiss mountains through hiking lens
 thumbnail:
-permalink: content/iexplore-switzerland-through-hiking-lens
+permalink: content/explore-switzerland-through-hiking-lens
 comments: false
 ---
 
