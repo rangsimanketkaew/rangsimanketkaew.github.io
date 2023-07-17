@@ -31,28 +31,28 @@ Probably the most popular app of all athletes! Actually the app is designed not 
 biking and swimming (yes, it's a perfect app for triathlon lovers).
 </p>
 
-**Running by Adidas**
-
 <figure>
   <img src="/assets/img/posts/running/adidas-running.png" width="50%" height="auto" class="center-img"/>
-  <figcaption class="center">Strava</figcaption>
+  <figcaption class="center">Addidas running</figcaption>
 </figure>
+
+**Running by Adidas**
 
 <p style="text-indent: 40px">
 Frankly, I use adidas's running app for joining Adidas Running (AR) club. The app always has nice tips on 
 running especially how to improve your (motivation) and performance.
 </p>
 
-**On the go map**
-
 <figure>
   <img src="/assets/img/posts/running/onthegomap.png" width="50%" height="auto" class="center-img"/>
-  <figcaption class="center">https://onthegomap.com</figcaption>
+  <figcaption class="center">On the go map</figcaption>
 </figure>
+
+**On the go map**
 
 <p style="text-indent: 40px">
 If you're looking for a tool to quickly design a course for your run, consider 
-<a href=https://onthegomap.com>https://onthegomap.com</a>. This website is very easy to use 
+<a href="https://onthegomap.com">https://onthegomap.com</a>. This website is very easy to use 
 (support a webbrower on both PC and smartphone). It approximate the distance of the route, elevation, and etc. 
 It can also export the route as GPX file that you can upload it later to 
 your smart watch.
