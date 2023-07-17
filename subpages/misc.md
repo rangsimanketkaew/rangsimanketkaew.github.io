@@ -17,6 +17,7 @@ permalink: misc
 ##### &#10004; Running
 
 * [Improving pace from 7 to 5 minutes](content/improve-pace-from-7-to-5)
+* [Running techniques that I learn from my research](content/running-technique)
 
 ##### &#10004; Hiking
 
