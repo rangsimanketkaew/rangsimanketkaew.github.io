@@ -21,7 +21,6 @@ runner should have is perfect running form.
 I watched so many videos on YouTube and I found this very useful video summarizing good techniques:
 </p>
 
-
 <center>
 <iframe 
   width="560" 
