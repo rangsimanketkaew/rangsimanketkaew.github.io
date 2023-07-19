@@ -12,6 +12,14 @@ permalink: content/improve-pace-from-7-to-5
 comments: false
 ---
 
+<img 
+  src="/assets/img/posts/running/me-running.png"
+  width="25%"
+  height="auto"
+  class="left_img"
+  align="left"
+/>
+
 <p style="text-indent: 40px">
 Running is proably the most popular sport. Everyone can run. You don't need a friend or partner to run with 
 as you can do it alone. But, for me, running is a sport that I never had imagined that I would like and love to 
