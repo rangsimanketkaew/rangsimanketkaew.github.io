@@ -30,9 +30,13 @@ permalink: misc
 
 * [Serving techniques]()
 
-## General Stuff
+## Life
 
 * [My bucket list](content/my-bucket-list)
+* [Eat well, live well, live longer](content/eat-well-live-well-live-longer)
+
+## General Stuff
+
 * [Reading list](content/reading-list)
 
 ## Website
