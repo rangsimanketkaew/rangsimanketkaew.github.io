@@ -19,6 +19,7 @@ permalink: misc
 
 * [Improving pace from 7 to 5 minutes](content/improve-pace-from-7-to-5)
 * [Running techniques that I learn from my research](content/running-technique)
+* [Tips for long runs](content/tips-for-long-runs)
 * [My favorite running apps](content/my-favorite-running-apps)
 
 ##### &#129406; Hiking
