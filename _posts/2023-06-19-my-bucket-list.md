@@ -33,7 +33,7 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Watch 100 feel good movies</li>
   <li> Buy a good watch</li>
   <li> Volunteering in a rural camp</li>
-  <li> Eat healthy food</li>
+  <li> Eat healthy food (on-going)</li>
   <li> Drink Belgium, Czech, and German beers</li>
   <li> Do a PhD (finishing in 2024)</li>
   <li> Write a book</li>
@@ -41,6 +41,8 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Teach machine learning</li>
   <li> Derive density functional theory's equations</li>
   <li> Publish in top-tier theoretical chemistry journals</li>
+  <li> Teach people to drive</li>
+  <li> Teach people to ski</li>
 </ol>
 
 **Not Done / In Progress**
@@ -68,8 +70,7 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Try original Texas BBQ spare ribs</li>
   <li> Drink beers at Oktoberfest</li>
   <li> Learn how to make authentic ramen</li>
-  <li> Teach people to drive</li>
-  <li> Teach people to ski</li>
+  <li> Get a ski instructor license Lv.1 & 2</li>
   <li> Run a half-marathon</li>
   <li> Run a marathon</li>
   <li> Watch the final round of table tennis world championship</li>
