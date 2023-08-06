@@ -13,3 +13,15 @@ comments: false
 ---
 
 ### Understanding Nutrition
+
+Sources giving energies (calories) you need in daily life
+- Carbohydrates
+- Fats
+- Proteins
+
+(*Quiz: why does water not give you energy?*)
+
+There are other 3 nutrients you need
+- Vitamins
+- Minerals
+- Water
