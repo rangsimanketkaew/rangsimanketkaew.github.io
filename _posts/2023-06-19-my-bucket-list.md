@@ -15,40 +15,11 @@ comments: false
 My list is actually not as fancy as others' but I am proud of mine.
 </p>
 
-**Done**
-
-<ol>
-  <li> Travel in Europe</li>
-  <li> Sit on Trolltunga, Norway</li>
-  <li> Visit Sir Isaac Newton’s tomb</li>
-  <li> Visit the Empire State building</li>
-  <li> Stand in front of the great dome, MIT</li>
-  <li> Eat pizza in Time Square, NYC</li>
-  <li> Eat lobster</li>
-  <li> Have bubble tea for 30 days in a row</li>
-  <li> Go Skydiving</li>
-  <li> Ski on different types of slopes</li>
-  <li> Organize hackathon</li>
-  <li> Read and watch 'The Lord of the Rings' trilogy</li>
-  <li> Watch 100 feel good movies</li>
-  <li> Buy a good watch</li>
-  <li> Volunteering in a rural camp</li>
-  <li> Eat healthy food (on-going)</li>
-  <li> Drink Belgium, Czech, and German beers</li>
-  <li> Do a PhD (finishing in 2024)</li>
-  <li> Write a book</li>
-  <li> Talk to and take a photo with Nobel laureate in person</li>
-  <li> Teach machine learning</li>
-  <li> Derive density functional theory's equations</li>
-  <li> Publish in top-tier theoretical chemistry journals</li>
-  <li> Teach people to drive</li>
-  <li> Teach people to ski</li>
-</ol>
-
 **Not Done / In Progress**
 
 <ol>
   <li> Travel around 7 continents</li>
+  <li> Travel at least 10 countries in Europe</li>
   <li> Travel in USA over 10 states</li>
   <li> Do a road trip in the US</li>
   <li> Visit Tokyo, Japan</li>
@@ -71,11 +42,40 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Drink beers at Oktoberfest</li>
   <li> Learn how to make authentic ramen</li>
   <li> Get a ski instructor license Lv.1 & 2</li>
-  <li> Run a half-marathon</li>
   <li> Run a marathon</li>
+  <li> Run a 100-km trail</li>
   <li> Watch the final round of table tennis world championship</li>
   <li> Build a house after retirement</li>
   <li> Talk to one of the 300 richest people in the world</li>
   <li> Donate blood at least 50 times</li>
   <li> Bring others joy</li>
+</ol>
+
+**Done**
+
+<ol>
+  <li> Sit on Trolltunga, Norway</li>
+  <li> Visit Sir Isaac Newton’s tomb</li>
+  <li> Visit the Empire State building</li>
+  <li> Stand in front of the great dome, MIT</li>
+  <li> Eat pizza in Time Square, NYC</li>
+  <li> Eat tasty lobster</li>
+  <li> Have bubble tea for 30 days in a row</li>
+  <li> Go Skydiving</li>
+  <li> Ski on different types of slopes</li>
+  <li> Organize hackathon</li>
+  <li> Read and watch 'The Lord of the Rings' trilogy</li>
+  <li> Watch 100 feel good movies</li>
+  <li> Buy a good watch</li>
+  <li> Volunteering in a rural camp</li>
+  <li> Eat healthy food (on-going)</li>
+  <li> Drink Belgium, Czech, and German beers</li>
+  <li> Do a PhD (finishing in 2024)</li>
+  <li> Write a book</li>
+  <li> Talk to and take a photo with Nobel laureate in person</li>
+  <li> Teach machine learning</li>
+  <li> Derive density functional theory's equations</li>
+  <li> Publish in top-tier theoretical chemistry journals</li>
+  <li> Teach people to drive</li>
+  <li> Swim across a lake (1 km)</li>
 </ol>
