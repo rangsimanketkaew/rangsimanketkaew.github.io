@@ -35,6 +35,7 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Read 100 best (or good) books</li>
   <li> Publish at least 10 scientific papers</li>
   <li> Earn a second degree in non-science</li>
+  <li> Learn German</li>
   <li> Code (in any languages) at least 1 M lines of codes</li>
   <li> Get a job and work in NYC</li>
   <li> Try paella in Spain in 5 different restaurants</li>
