@@ -41,7 +41,7 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Try original Texas BBQ spare ribs</li>
   <li> Drink beers at Oktoberfest</li>
   <li> Learn how to make authentic ramen</li>
-  <li> Get a ski instructor license Lv.1 & 2</li>
+  <li> Get a ski instructor license (and teach at a ski resort)</li>
   <li> Run a marathon</li>
   <li> Run a 100-km trail</li>
   <li> Watch the final round of table tennis world championship</li>
