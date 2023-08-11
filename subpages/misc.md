@@ -7,6 +7,10 @@ permalink: misc
 
 ---
 
+## Science
+
+* [3 things that help me to learn quantum chemistry]()
+
 ## Sports
 
 ##### &#127935; Skiing
@@ -40,11 +44,8 @@ permalink: misc
 ## Life
 
 * [My bucket list](content/my-bucket-list)
-* [Eat well, live well, live longer](content/eat-well-live-well-live-longer)
-
-## General Stuff
-
 * [Reading list](content/reading-list)
+* [Eat well, live well, live longer](content/eat-well-live-well-live-longer)
 
 ## Website
 
