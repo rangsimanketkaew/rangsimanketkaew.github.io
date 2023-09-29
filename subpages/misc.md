@@ -25,6 +25,8 @@ permalink: misc
 * [Running techniques that I learn from my research](content/running-technique)
 * [Tips for long runs](content/tips-for-long-runs)
 * [My favorite running apps](content/my-favorite-running-apps)
+* [How I prepared for a marathon](content/preparation-for-marathon)
+* [Berlin Marathon 2023: Yes, I nailed it!](content/berlin-marathon-2023)
 
 ##### &#127956;&#65039; Trail Running
 
