@@ -29,7 +29,7 @@ The start time of wave 1 is exactly at 9:15 a.m. (Kipchoge was also in this wave
 but I actually started running from the starting point around 9:30 a.m.!! In this long run I listened to the 
 song because, I personally like to listen to dancing, fast, exciting music. It helps make me feel good 🤣 
 Normally, I listen to both international and Thai music, but I much more like Thai country dance songs that 
-are remixed more. If you're interested in the playlist, check it out below!.
+are remixed more.
 
 🏃🏻‍♂️ there were a lot of people in the first 10 kilometers. It was almost impossible to run very fast because 
 there were so many people trying to find their own space to run fast. It was difficult for me to overtake and 
@@ -54,9 +54,5 @@ It made me very happy and I could feel the strength throughout the run which hel
 The event was very well organized. There are a lot of officers and they provide crystal clear information, 
 also first aid units and security units. There are drinking water and energy drink stations for you along the way 
 (every 5 km) and there are fruits such as bananas and apples as well.
-
-
-🎶 Playlist that I listened to while running the Berlin Marathon 2023: 
-<a href="https://www.youtube.com/playlist?list=PLt-twymrmZ2cIixvDO1zjWMcz7IrjPxXw">Click Here</a> 
 
 Happy running!
