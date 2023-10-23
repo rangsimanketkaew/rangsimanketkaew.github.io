@@ -175,7 +175,7 @@ My playlist basically contains videos in different type of skill development as 
 - Short turn : for very steep slope
 - Pole plant : for balancing
 - Hockey stop : useful for sudden stopping
-- Ski on steeper slopes : useful for skking on red and black runs
+- Ski on steeper slopes : useful for skiing on red and black runs
 - Ski on icy slopes : useful when slopes become icy
 - Carving (curved turn)
 
