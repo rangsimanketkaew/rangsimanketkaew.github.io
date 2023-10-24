@@ -16,8 +16,9 @@ permalink: misc
 ##### &#127935; Skiing
 
 * [How I learned to ski in 3 days](content/how-I-learned-to-ski-in-3-days)
-* [Mobile phone apps for skiing that you should have]()
+* [Mobile phone apps for skiing that you should have](content/mobile-apps-for-skiing)
 * [A journey of my ski gear and equipment]()
+* [ใคร ๆ ก็เล่นสกีได้](content/everyone-can-ski)
 
 ##### &#127939;&#127997; Road Running
 
