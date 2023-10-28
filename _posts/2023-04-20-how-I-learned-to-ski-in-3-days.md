@@ -149,19 +149,87 @@ complixity of skills raning from beginner to intermediate and to advanced level,
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube.com/embed/videoseries?list=PLt-twymrmZ2clvHiIhBYusdVoB_WgxWu8" 
+  src="https://www.youtube.com/embed/videoseries?si=rqUzpCP9IWWYOEQZ&amp;list=PLt-twymrmZ2cZ3O6qnki-QwNoksrlAZX2" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  allowfullscreen
-></iframe>
+  allowfullscreen>
+</iframe>
+<br>
+"<a href="https://www.youtube.com/playlist?list=PLt-twymrmZ2clvHiIhBYusdVoB_WgxWu8">Let’s Skiing ⛷️: Basic</a>"
 </center>
 
+<br>
+
+<center>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/videoseries?si=5tusLwMLV5m7QcG6&amp;list=PLt-twymrmZ2dLr_CTev4lLNWjQnB5djOA" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
+<br>
+"<a href="https://www.youtube.com/playlist?list=PLt-twymrmZ2dLr_CTev4lLNWjQnB5djOA">Let’s Skiing ⛷️: Parallel Turn</a>"
+</center>
+
+<br>
+
+<center>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/videoseries?si=bQtkc8uBocFLKs5A&amp;list=PLt-twymrmZ2cZILBzEIzLyh5YaU30s9JX" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
+<br>
+"<a href="https://www.youtube.com/playlist?list=PLt-twymrmZ2cZILBzEIzLyh5YaU30s9JX">Let’s Skiing ⛷️: Short Turn</a>"
+</center>
+
+<br>
+
+<center>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/videoseries?si=tGDyCZ2Yr5RxIo3N&amp;list=PLt-twymrmZ2dX58k_H_fdHc8ph53Znyfm" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
+<br>
+"<a href="https://www.youtube.com/playlist?list=PLt-twymrmZ2dX58k_H_fdHc8ph53Znyfm">Let’s Skiing ⛷️: Carving</a>"
+</center>
+
+<br>
+
+<center>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/videoseries?si=FCr7bPgN84yJO3pu&amp;list=PLt-twymrmZ2clvHiIhBYusdVoB_WgxWu8" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
+<br>
+"<a href="https://www.youtube.com/playlist?list=PLt-twymrmZ2clvHiIhBYusdVoB_WgxWu8">Let’s Skiing ⛷️: Techniques</a>"
+</center>
+
+<br>
+
 <p style="text-indent: 40px">
-My playlist "<a href="https://www.youtube.com/playlist?list=PLt-twymrmZ2clvHiIhBYusdVoB_WgxWu8">Let’s Learn Skiing ⛷️</a>" 
-contains a wide range of skiing lessons; from very basic to very advanced level. E.g., the first thing 
-that is very important and everyone should know before skiing is how to put on and buckle ski boots. This means that 
-if you do not really know how to put on your boots properly it can hurt your feet.
+My playlists above contain a wide range of skiing lessons; from very basic to very advanced level. For example, 
+the first thing that is very very important and everyone should know before skiing is how to put on and buckle ski boots. 
+This means that if you do not really know how to put on your boots properly it can hurt your feet. Trust me, 
+you will never want to have that experience.
 
 My playlist basically contains videos in different type of skill development as follows:
 </p>
