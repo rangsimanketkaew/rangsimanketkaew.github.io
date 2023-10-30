@@ -18,7 +18,7 @@ permalink: misc
 * [How I learned to ski in 3 days](content/how-I-learned-to-ski-in-3-days)
 * [Mobile phone apps for skiing that you should have](content/mobile-apps-for-skiing)
 * [A journey of my ski gear and equipment]()
-* [ใคร ๆ ก็เล่นสกีได้: ประสบการณ์ฝึกเล่น Blue ถึง Black ในซีซั่นเดียว"](content/everyone-can-ski)
+* [ใคร ๆ ก็เล่นสกีได้: ประสบการณ์ฝึกเล่น Blue Slope ถึง Black Slope ในซีซั่นเดียว"](content/everyone-can-ski)
 
 ##### &#127939;&#127997; Road Running
 
