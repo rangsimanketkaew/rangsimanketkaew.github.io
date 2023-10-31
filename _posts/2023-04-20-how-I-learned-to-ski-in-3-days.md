@@ -156,7 +156,7 @@ complixity of skills raning from beginner to intermediate and to advanced level,
   allowfullscreen>
 </iframe>
 <br>
-"<a href="https://www.youtube.com/playlist?list=PLt-twymrmZ2clvHiIhBYusdVoB_WgxWu8">Let’s Skiing ⛷️: Basic</a>"
+"<a href="https://www.youtube.com/playlist?list=PLt-twymrmZ2cZ3O6qnki-QwNoksrlAZX2">Let’s Skiing ⛷️: Basic</a>"
 </center>
 
 <br>
