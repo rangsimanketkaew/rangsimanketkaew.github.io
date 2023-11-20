@@ -17,8 +17,8 @@ layout: default
           align="left"
         /> -->
 
-        I am a Ph.D. student in <a href="https://www.luber-group.com/">theoretical and computational chemistry group</a> 
-        at Department of Chemistry, University of Zurich, Switzerland. 
+        I am a Ph.D. student in computational chemistry and machine leaerning at 
+        <a href="https://www.luber-group.com/">Department of Chemistry, University of Zurich, Switzerland</a>.
         My current research relies on atomistic simulation with <i>ab initio</i> molecular dynamics (based on density functional theory) 
         and enhanced sampling techniques of condensed phased systems (soft matter and solid/liquid interface). 
         I am now interested in applying machine learning and graph theory to develop highly efficient collective variables for 
