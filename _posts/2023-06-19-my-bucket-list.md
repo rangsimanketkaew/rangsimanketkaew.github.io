@@ -32,24 +32,22 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Drive a tram or train</li>
   <li> Experience bungee jumping</li>
   <li> Take the rollercoaster at Disneyworld 3 times</li>
-  <li> Get 10,000 subscribers on YouTube channel</li>
   <li> Read 100 best (or good) books</li>
-  <li> Publish at least 10 scientific papers</li>
+  <li> Publish 10 papers in scientific journals</li>
   <li> Earn a second degree in non-science</li>
   <li> Learn German</li>
   <li> Write a song</li>
   <li> Code (in any languages) at least 1 M lines of codes</li>
-  <li> Get a job in NYC</li>
   <li> Try paella in Spain in 5 different restaurants</li>
   <li> Try original Texas BBQ spare ribs</li>
   <li> Drink beers at Oktoberfest</li>
   <li> Learn how to make authentic ramen</li>
-  <li> Get a ski instructor license (and teach at a ski resort)</li>
+  <li> Get a ski instructor license</li>
   <li> Run a 100-km trail with at least 3,000-m elevation</li>
   <li> Watch the final round of table tennis world championship</li>
   <li> Build a house after retirement</li>
   <li> Talk to one of the 300 richest people in the world</li>
-  <li> Donate blood at least 50 times</li>
+  <li> Donate blood at least 20 times</li>
   <li> Bring others joy</li>
 </ol>
 
@@ -67,6 +65,7 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Organize a successful hackathon</li>
   <li> Read and watch 'The Lord of the Rings' trilogy</li>
   <li> Watch 100 feel good movies</li>
+  <li> Get 1,000 subscribers on YouTube channel</li>
   <li> Buy a good watch</li>
   <li> Volunteering in a rural camp</li>
   <li> Eat healthy food (on-going)</li>
