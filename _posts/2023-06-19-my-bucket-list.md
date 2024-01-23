@@ -15,7 +15,7 @@ comments: false
 My list is actually not as fancy as others' but I am proud of mine.
 </p>
 
-**Not Done / In Progress**
+**Not Done / In Progress** &#128640;
 
 <ol>
   <li> Travel around 7 continents</li>
@@ -32,7 +32,7 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Drive a tram or train</li>
   <li> Experience bungee jumping</li>
   <li> Take the rollercoaster at Disneyworld 3 times</li>
-  <li> Read 100 best (or good) books</li>
+  <li> Read 100 good books</li>
   <li> Publish 10 papers in scientific journals</li>
   <li> Earn a second degree in non-science</li>
   <li> Learn German</li>
@@ -42,7 +42,6 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Try original Texas BBQ spare ribs</li>
   <li> Drink beers at Oktoberfest</li>
   <li> Learn how to make authentic ramen</li>
-  <li> Get a ski instructor license</li>
   <li> Run a 100-km trail with at least 3,000-m elevation</li>
   <li> Watch the final round of table tennis world championship</li>
   <li> Build a house after retirement</li>
@@ -51,7 +50,7 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Bring others joy</li>
 </ol>
 
-**Done**
+**Done** &#9989;
 
 <ol>
   <li> Visit Sir Isaac Newton’s tomb</li>
@@ -80,4 +79,5 @@ My list is actually not as fancy as others' but I am proud of mine.
   <li> Teach people to drive</li>
   <li> Swim across a lake (1 km)</li>
   <li> Run a marathon</li>
+  <li> Get a ski instructor license</li>
 </ol>
