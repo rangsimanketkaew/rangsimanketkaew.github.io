@@ -14,15 +14,15 @@ comments: false
 
 <p style="text-indent: 40px">
 I started skiing in Switzerland where I have been pursuing my PhD degree (still a PhD student even on
-the day of writing this blog). My friends and I made a 3-day trip (if I remember correctly) during Christmas break 
-to Davos for skiing. We did arrive at Davos Dorf, an area where uncountable skiers gather and stay over
-a long holiday to enjoy the slopes with puffy snow. On the first day, we went to a ski shop/school close to our hotel, 
-rented ski equipments and asked for a beginner course for a group of 4 people including me.
-The lesson was so short as it lasted for 2 hours in the morning, 10.00 am - 12.00 pm, again.
+the day of writing this blog). My friends and I made a 2-day trip during Christmas break to Davos for skiing. 
+We did arrive at Davos Dorf, an area where uncountable skiers gather and stay over a long holiday to enjoy 
+the slopes with puffy snow. On the first day, we went to a ski shop close to our hotel to rent equipments 
+and asked for a beginner course for a group of 4 people including me.
+The lesson was pretty short as it lasted for 2 hours in the morning from 10.00 am to 12.00 pm.
 That was my very first time skiing! Our ski teacher taught basic skills such as how to break (pizza) and turn (plough turn).
-After the 2-hr lesson, my group managed a couple of skills and styles on a kid slope (around 100 meters long), 
-and I thought (I am very optimistic, too much sometimes!) that I was ready for a blue slope which is considered an easy run 
-for people here growing up/living in Switzerland. The nightmare started from here...
+After the lesson, my group learned a couple of skills and styles on a kid slope (around 100 meters long), 
+and I thought that I was ready for a blue slope which is considered an easy run for people here growing 
+up/living in Switzerland. (I am very optimistic, too much sometimes!)  Well... the nightmare started from here...
 </p>
 
 <figure>
@@ -31,20 +31,22 @@ for people here growing up/living in Switzerland. The nightmare started from her
 </figure>
 
 <p style="text-indent: 40px">
-In the early afternoon after having lunch, having been convinced by my friends, I somehow took a chairlift to the
-starting point of the blue slope (around 400-500 meters, not sure) with another friend who already has experience in 
-skiing for many years (see in a map above) Frankly, I never forget the feeling at that time the slope was super steep 
-and it scared me a lot! I asked myself "Is this a good idea to come here?" .. Hmm, anyway, let's try! I tried to recall 
-what I had learned from the morning's lesson. Ok, at least, I got pizza and plough turn! I then quickly made a decision 
-and started to ski on that steep slope whose first 20 meters, to me, at least, were like a cliff compared to the rest 
-of the slope. Right thereafter I took off, I tried to ski down by cutting the slope to reduce the speed but it was getting 
-faster and faster as I could not control my speed. So the pizza trick that I had been believing that it was my best friend 
-could not help me to stop!! I completely lost control and ultimately fell on the skis on the slope. Luckily I did not hurt 
-myself, yet, which is thank to the binding technology that automatically released my ski boots from the skis. 
-I was able to stand up and decided to walk down to the camp and swear to myself that "ENOUGH!, NEVER EVER SKI IN THIS LIFE AGAIN!". 
-In the following days, it was so upsetting for me as I did stop skiing and returned all equipments (skis, ski boots, a helmet) 
-to the ski shop from where I rented them. Yeah.. that is the ending of my Davos trip which later becomes the beginning of 
-skiing again which completely changes my life up to now (and for good), and I would like tto share it with you.
+In the early afternoon after having lunch, having been convinced by my friends, for some unknown reaons, 
+I took a chairlift to the starting point of a blue slope (around 600-700 meters, not sure) with another 
+friend who already has experience in skiing (see a map above) Frankly, I never forget the feeling at that time;
+the slope was super steep and it scared me a lot! I asked myself "Is this a good idea to come here?" .. 
+Hmm, anyway, let's try! I tried to recall what I had learned from the morning's lesson. 
+Ok, at least, I got pizza and plough turn! I then quickly made a decision and started to ski on that steep slope 
+whose first 20 meters, to me, at least, were like a cliff compared to the rest of the slope. 
+Right thereafter I took off, I tried to ski down by cutting the slope to reduce the speed but it was getting 
+faster and faster and eventually I was not able to control my speed. So the pizza trick that I had been believing 
+that it was my best friend could not help me to stop!! I completely lost control and ultimately fell on the skis on the slope. 
+Luckily I did not hurt myself, yet, thank to the binding technology that automatically released my ski boots from the skis. 
+I was able to stand up and decided to walk down to the valley, and I swear to myself that 
+"I AM DONE! ENOUGH!, NEVER EVER SKI IN THIS LIFE AGAIN!". 
+In the following day, it was so upsetting for me as I did stop skiing and returned all equipments (skis, ski boots, a helmet) 
+to the ski shop. Yeah.. that is the ending of my Davos trip which has later become the beginning of skiing 
+again, that completely changes my life up to now (and for good). HERE WE GO!! 
 </p>
 
 <figure>
@@ -53,14 +55,14 @@ skiing again which completely changes my life up to now (and for good), and I wo
 </figure>
 
 <p style="text-indent: 40px">
-After stopping skiing forng for 2 years, my friends in Zurich organized a trip to Flumserberg to snowboard. We were a group of
-6 people. 5 of us rented a car and drove there and there was ome who decided to joinjoin them on the night of the day before,
-so I took a 1-hr train from Zurich HB to Tannenboden station. I brought my skis andboots (both are second hand
-which I luckily got for free). While my friends were learning snowboarding on a kid slope in the morning,
-I also tried to learn to ski myself. This time it was different from 2 years ago. I somehow got my phone and searched
-for videos teaching how to ski for beginner level on YouTube. I watched a few videos during lunch and on the chairlift
-to the first blue slope after have not been skiing for 2 years! I still remember until today and would never forget
-the two videos that changed my life!
+2 years later after stopping skiing, my friends in Zurich organized a trip to Flumserberg to snowboard. 
+We were a group of 6 people. 5 of us rented a car and drove there and there was only me who had suddenly decided 
+on the night of the day before to join a trip. I took a 1-hr train from Zurich HB to Tannenboden station, and 
+brought my skis andboots (both are second hand that I luckily got for free). 
+While my friends were learning snowboarding on a kid slope in the morning, I also tried to learn to ski myself. 
+This time it was different from 2 years ago. I somehow got my phone and searched for videos teaching how to ski 
+for beginner level on YouTube. On the chairlift to the first blue slope, I watched a few videos teaching how to ski. 
+I will never forget the two videos that changed my life!
 </p>
 
 <center>
@@ -76,10 +78,11 @@ the two videos that changed my life!
 </center>
 
 <p style="text-indent: 40px">
-The first video above here by Robin Barnes taught me how to parallel ski. When we are on the slope, we cannot always make pizza 
-as we are going down and our speed is getting increse more and more. So the best way to handle this situation is that 
-we have to make a turn in order to maintain and control the speed. The trick that is explained in the video and crystal clear 
-is "Release the edge, ski gets flat, steer the ski". 
+The first video above here by Robin Barnes taught me how to parallel ski. The concept is very simple. 
+When we are on the (steep) slope, we cannot always make pizza as we are going down and our speed is getting 
+increse more and more. So the best way to handle this situation is that we have to make a turn in order to 
+maintain and control the speed. The crystal clear trick that she explained in the video is
+"Release the edge, ski gets flat, steer the ski". 
 </p>
 
 <center>
@@ -96,7 +99,8 @@ is "Release the edge, ski gets flat, steer the ski".
 
 <p style="text-indent: 40px">
 The second video up here by Paul Lorenz is also fantastic. He explains how to transfer weight when skiing which is 
-something that is super important. Long story short, we transfer weight before making a turn, not at the moment of turning. 
+something that is very very important (Yes, skiing is nothing but weight transfer!). 
+Long story short, we transfer weight before making a turn, not at the moment of turning. 
 If we transfer weight suddenly when we turn, we are going to skidding and then finally rotate.
 </p>
 
@@ -106,16 +110,20 @@ If we transfer weight suddenly when we turn, we are going to skidding and then f
 </figure>
 
 <p style="text-indent: 40px">
-So, I nailed it! After watching these two videos, I managed a blue run in the afternoon at Flumserberg with friends 
-(Thanks my friends being as driving force to push me and dare myself to try the blue run there). Though I fell a lot 
-but everytime I fall I learn something from mistakes I made. One week later, we checked the weather on the weekend and 
-organized a trip to <a href="https://www.sportbahnenelm.ch/index.php?id=winter-pistenplan">Elm Sportbahnen ski resort</a>. 
+I nailed it! After watching these two videos, I managed to ski down on a blue piste in the afternoon at Flumserberg with friends 
+(Thanks my friends for being driving force to push and dare me to try the blue run there). Though I fell a lot 
+but that is the point, right? Everytime you fall, you learn something new from a mistake you made. 
+</p>
+
+<p style="text-indent: 40px">
+One week later, we checked the weather on the weekend and organized a trip to 
+<a href="https://www.sportbahnenelm.ch/index.php?id=winter-pistenplan">Elm Sportbahnen ski resort</a>. 
 We kicked the day off with a blue slope no. 8 and no.6, respectively. We repeated the run around 2 times in the morning and 
-in the afternoon I had to try a red slope first time in my life which is no.7. Of course, I fell a lot and plus it was 
-icy on that day. With the video "how to transfer weight" by Paul, I was able to fix the issue that I was always skidding and 
-also under- or over countered rotatation when turning (learng about counter rotation 
-<a href="https://www.psia-nw.org/its-counter-to-be-square/">here</a>). To gain energy we eventually closed 
-the trip with tasty Thai food on the way back to Zurich.
+in the afternoon I did try a red slope for the first time in my life (slope no.7). Of course, I fell a lot and plus it was 
+icy on that day (excuse!). With the video "How to transfer weight" by Paul, I was able to fix the issue that I was always skidding and 
+also under- or over countered rotatation when turning 
+(<a href="https://www.psia-nw.org/its-counter-to-be-square/">learning about counter rotation here</a>). 
+To gain energy, we closed the trip with tasty Thai food on the way back to Zurich.
 </p>
 
 <figure>
@@ -125,24 +133,23 @@ the trip with tasty Thai food on the way back to Zurich.
 
 <p style="text-indent: 40px">
 My third day of skiing in this season was in Engelberg. I has already been there in winter but just never have 
-chance to ski or did snow sport. The blue and red runs on Trubsee (part of Titlis) are so perfect and suitable 
-for beginner to practice their skills. This time I skiied only in the afternoon as there was a friend whom I came with 
-traveled from France. He lives in a city next to Basel, drove directly from there to Zurich and then took at train 
-with me from Zurich to Luzern, and Engelberg, around 1.5 hrs in total, so close. We started with an easy blue run 
-no. 6 in the early afternoon and did short red run no. 6a later. I practiced more and more parallel turn as well as 
-hocky stop that I just learned from a video on YouTube, again. I find the latter interesting and cool that you 
-can stop whenever you want regardless of how much fast you ski.
+chance to ski or do snow sports. The blue and red runs on Trubsee (part of Titlis) are perfect for beginner 
+to practice skills. This time I skiied only in the afternoon as there was a friend whom I came with 
+traveled from France. He lives in a city next to Basel, drove directly from there to Zurich and then took a train 
+with me from Zurich to Luzern, and then to Engelberg (the travel took around 1.5 hrs in total). 
+We started with an easy blue run no. 6 in the early afternoon and did short red run no. 6a later. 
+I practiced more and more parallel turn as well as hocky stop that I just learned from a video on YouTube, again. 
+I find the latter interesting and cool as you can stop whenever you want regardless of how much fast you ski.
 </p>
 
 <p style="text-indent: 40px">
-Apart from these three ski resorts, I have been to many other mountains to ski including the ones that I already 
-checked it out and ones that I never been to, such as, Flumserberg (twice), Andermatt, Arosa (twice), and Davos.
+Apart from Flumserberg, Elm and Engelberg, I have been to many other mountains to ski, like Andermatt, Arosa and Davos.
 </p>
 
 <p style="text-indent: 40px">
-There are also many other videos that I found very useful and help me a lot to practice my skiing skill. I watched a lot 
-like more than 100 videos. I tried to create my playlist, add and sort the videos that I selected according to the level of 
-complixity of skills raning from beginner to intermediate and to advanced level, respectively. Here is my list!
+There are also many other videos that I found useful and help me to practice my skiing skill. I watched a lot 
+like more than 100 videos. I created my playlist, added and sorted the videos that I selected according to the level of 
+complixity of skills raning from beginner to intermediate and to advanced level. There you go!
 </p>
 
 <center>
@@ -226,10 +233,10 @@ complixity of skills raning from beginner to intermediate and to advanced level,
 <br>
 
 <p style="text-indent: 40px">
-My playlists above contain a wide range of skiing lessons; from very basic to very advanced level. For example, 
+My playlists contain a wide range of skiing lessons; from very basic to very advanced level. For example, 
 the first thing that is very very important and everyone should know before skiing is how to put on and buckle ski boots. 
-This means that if you do not really know how to put on your boots properly it can hurt your feet. Trust me, 
-you will never want to have that experience.
+This means that if you do not really know how to put on your boots properly, it can hurt your feet. 
+Trust me, you will never want to have such disastrous experience.
 
 My playlist basically contains videos in different type of skill development as follows:
 </p>
@@ -248,17 +255,17 @@ My playlist basically contains videos in different type of skill development as 
 - Carving (curved turn)
 
 <p style="text-indent: 40px">
-A list above here I extract from videos I watched, sorted it based on my experiences I develop, mistakes I made, 
-and by figuring it out myself. I am 100% sure that it is not 100% correct way to learn ski compared to the lessons 
-taught in ski school, but it could help me able to ski and have a lot of fun with this sport. At least, what I can 
-tell you is that I have proven that it works! And, I also do believe that you can do it as well!
+The list here was extracted from videos I watched, sorted it based on my experiences that I developed, mistakes I made. 
+I am 100% sure that it is not 100% correct to learn ski compared to lessons taught by a ski instructor, 
+but it could help me able to ski and have a lot of fun with this sport. At least, what I can 
+tell you is that I have proven that it works, and I also do believe that you can do it as well!
 </p>
 
 <p style="text-indent: 40px">
-Right now it is like the boot is on the other foot. Everything has changed. Me who in the past never like skiing now 
-completely change to a new me who keeps asking and convincing my friends to ski with me every week. With skis I can 
-go as fast as I want (as long as not hurt other people or break my legs) which makes me feel like I have freedom to 
-do whatever I want.
+Right now it is like the boot is on the other foot. Everything has changed. Me who in the past never like skiing 
+had completely changed to a new me who keeps asking and convincing my friends to ski with me every week. 
+With skis I can go as fast as I want (as long as I am not hurting other people or break my legs) 
+which makes me feel like I have freedom to do whatever I want.
 </p>
 
 Last but not least, one more important thing is positive thinking. You have to keep telling youself that "I Can Do It"! 
