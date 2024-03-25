@@ -18,7 +18,7 @@ layout: default
         />
 
         I am a Ph.D. student in computational chemistry and machine learning at
-        <a href="https://www.luber-group.com/">Department of Chemistry, University of Zurich, Switzerland</a>.
+        <a href="https://lubergroup.ch/">Department of Chemistry, University of Zurich, Switzerland</a>.
         My current research relies on atomistic simulation with <i>ab initio</i> molecular dynamics (based on quantum chemistry)
         and enhanced sampling techniques to calculate free energies of condensed phased systems.
         I am now interested in applying machine learning and graph theory to design new molecules and
