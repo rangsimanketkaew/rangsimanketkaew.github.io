@@ -7,45 +7,45 @@ layout: default
     <div class="card">
       <h1 class="card-title">About Me</h1>
 
-      <p class="indent">
-        <img 
-          src="/assets/img/nutt.jpg"
-          alt="RK"
-          width="20%"
-          height="auto"
-          class="left_img"
-          align="left"
-        />
+      <img
+        src="/assets/img/nutt.jpg"
+        alt="RK"
+        width="20%"
+        height="auto"
+        class="left_img"
+        align="left"
+      />
 
-        I am a Ph.D. student in computational chemistry and machine learning at 
+      <p class="indent">
+        I am a Ph.D. student in computational chemistry and machine learning at
         <a href="https://www.luber-group.com/">Department of Chemistry, University of Zurich, Switzerland</a>.
-        My current research relies on atomistic simulation with <i>ab initio</i> molecular dynamics (based on quantum chemistry) 
+        My current research relies on atomistic simulation with <i>ab initio</i> molecular dynamics (based on quantum chemistry)
         and enhanced sampling techniques to calculate free energies of condensed phased systems.
-        I am now interested in applying machine learning and graph theory to design new molecules and 
-        investigate chemical reactions. My interest also extends to the development and improvement of open-source software 
-        using cloud-based and full stack technology. 
-        I am currently a member of <a href="https://www.lightchec.uzh.ch/">LightChEC</a> and 
+        I am now interested in applying machine learning and graph theory to design new molecules and
+        investigate chemical reactions. My interest also extends to the development and improvement of open-source software
+        using cloud-based and full stack technology.
+        I am currently a member of <a href="https://www.lightchec.uzh.ch/">LightChEC</a> and
         <a href="https://www.nccr-catalysis.ch/">NCCR Catalysis</a> advised by Prof. Sandra Luber.
       </p>
 
       <p class="indent">
-        Before Zurich, I was a scientist at the <a href="https://newequilibriumbio.com/">New Equilibrium Biosciences</a> 
+        Before Zurich, I was a scientist at the <a href="https://newequilibriumbio.com/">New Equilibrium Biosciences</a>
         (from 2019 to 2020) working on computational chemistry and machine learning for drug discovery.
-        I helped the team design and set up AWS infrastructures for performing high-performance molecular dynamics 
-        simulations and training neural network models for developing specific-purpose molecular force fields 
+        I helped the team design and set up AWS infrastructures for performing high-performance molecular dynamics
+        simulations and training neural network models for developing specific-purpose molecular force fields
         for studying intrinsically disordered proteins (IDP) structures.
       </p>
 
       <p class="indent">
-        In 2016 and 2019, I received Bachelor's and Master's degrees respectively from Thammasat University, Thailand, 
-        where I focused on several research topics in computer modeling ranging from density functional theory to multiscale 
+        In 2016 and 2019, I received Bachelor's and Master's degrees respectively from Thammasat University, Thailand,
+        where I focused on several research topics in computer modeling ranging from density functional theory to multiscale
         (coarse-grained model) simulation under the supervision of Prof. Yuthana Tantirungrotechai.
-        During my education at that time, I received the NCTU Taiwan Elite International Internship Scholarship 
-        and worked at NCTU in the research group of Prof. Jen-Shiang K. Yu in 2015 and 2018, respectively. 
-        In 2016, I was also a visiting student at ICTP, Trieste, Italy. In addition, I won the royal winner award of 
-        <a href="https://www.facebook.com/TCC.ChallengeUBE/">Thailand Computational Chemistry Challenge (TCCC) 2016</a>. 
-        For the competition, I used the dissipative particle dynamics technique to investigate the mechanical properties 
-        of crosslinking-polyisoprene (natural rubber) reinforced by single-walled carbon nanotubes. 
+        During my education at that time, I received the NCTU Taiwan Elite International Internship Scholarship
+        and worked at NCTU in the research group of Prof. Jen-Shiang K. Yu in 2015 and 2018, respectively.
+        In 2016, I was also a visiting student at ICTP, Trieste, Italy. In addition, I won the royal winner award of
+        <a href="https://www.facebook.com/TCC.ChallengeUBE/">Thailand Computational Chemistry Challenge (TCCC) 2016</a>.
+        For the competition, I used the dissipative particle dynamics technique to investigate the mechanical properties
+        of crosslinking-polyisoprene (natural rubber) reinforced by single-walled carbon nanotubes.
       </p>
     </div>
 
@@ -90,7 +90,7 @@ layout: default
         </li>
         <li>
           <a href="https://www.kaggle.com/c/champs-scalar-coupling">Kaggle's Predicting Molecular Properties 2019</a>
-        </li> 
+        </li>
       </ul>
     </div>
 
@@ -100,7 +100,7 @@ layout: default
         {% for paper in site.data.publications %}
           <li>
            {{ paper.title }}. <br>
-           {{ paper.authors }}. 
+           {{ paper.authors }}.
            <a href="https://doi.org/{{ paper.link }}"
             >DOI: {{ paper.link }}</a
           >
@@ -108,6 +108,7 @@ layout: default
         {% endfor %}
         </ol>
     </div>
+
   </div>
 
   <div class="col-lg-4">
@@ -176,16 +177,16 @@ layout: default
       <h4>Favorite books</h4>
       <ul>
         <li><h6>
-        <a 
-          href="http://www.scielo.br/pdf/bjp/v36n4a/a35v364a.pdf" 
+        <a
+          href="http://www.scielo.br/pdf/bjp/v36n4a/a35v364a.pdf"
           target="_blank">
           A Bird’s-Eye View of Density-Functional Theory
         </a>
         </h6></li>
 
         <li><h6>
-        <a 
-          href="https://www.amazon.com/Statistical-Mechanics-Donald-Allan-McQuarrie/dp/1891389157" 
+        <a
+          href="https://www.amazon.com/Statistical-Mechanics-Donald-Allan-McQuarrie/dp/1891389157"
           target="_blank">
           Statistical Mechanics by Donald A. McQuarrie
         </a>
@@ -203,5 +204,6 @@ layout: default
         <li><h6><a href="https://scicomp.stackexchange.com/questions/3159/is-it-a-good-idea-to-use-vectorvectordouble-to-form-a-matrix-class-for-high" target="_blank">Is it a good idea to use vector&lt;vector&lt;double&gt;&gt; to form a matrix class for high performance scientific computing code?</a></h6></li>
       </ul>
     </div>
+
   </div>
 </div>
