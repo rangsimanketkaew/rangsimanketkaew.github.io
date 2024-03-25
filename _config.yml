@@ -1,7 +1,7 @@
 title: Rangsiman Ketkaew
-subtitle: Ph.D. Student in Theoretical Chemistry at UZH
+subtitle: Ph.D. Student in Computational Chemistry and Machine Learning at UZH
 description: >- # this means to ignore newlines until "baseurl:"
-  Rangsiman Ketkaew's website: Ph.D. Student in Theoretical Chemistry at University of Zurich
+  Rangsiman Ketkaew's website: Ph.D. Student in Computational Chemistry and Machine Learning at University of Zurich
 baseurl: "" # the subpath of site, e.g. /blog
 url: "https://rangsimanketkaew.github.io" # the base hostname & protocol for site, e.g. http://example.com
 
