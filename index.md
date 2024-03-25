@@ -7,16 +7,16 @@ layout: default
     <div class="card">
       <h1 class="card-title">About Me</h1>
 
-      <img
-        src="/assets/img/nutt.jpg"
-        alt="RK"
-        width="20%"
-        height="auto"
-        class="left_img"
-        align="left"
-      />
-
       <p class="indent">
+        <img
+          src="/assets/img/nutt.jpg"
+          alt="RK"
+          width="20%"
+          height="auto"
+          class="left_img"
+          align="left"
+        />
+
         I am a Ph.D. student in computational chemistry and machine learning at
         <a href="https://www.luber-group.com/">Department of Chemistry, University of Zurich, Switzerland</a>.
         My current research relies on atomistic simulation with <i>ab initio</i> molecular dynamics (based on quantum chemistry)
@@ -125,7 +125,7 @@ layout: default
       <h1>CV</h1>
       <p>My academic <a href="/cv.pdf" target="_blank">CV</a> and <a href="/resume.pdf" target="_blank">resume</a>.</p>
       <br>
-      <p>My tech <a href="/cv-tech.pdf" target="_blank">CV</a> and <a href="/resume-tech.pdf" target="_blank">resume</a>.</p>
+      <p>My tech <a href="/resume-tech.pdf" target="_blank">resume</a>.</p>
     </div>
 
     <div class="card">
