@@ -19,29 +19,30 @@ layout: default
 
         I am a Ph.D. student in computational chemistry and machine learning at
         <a href="https://lubergroup.ch/">Department of Chemistry, University of Zurich, Switzerland</a>.
-        My current research relies on atomistic simulation with <i>ab initio</i> molecular dynamics (based on quantum chemistry)
-        and enhanced sampling techniques to calculate free energies of condensed phased systems.
-        I am now interested in applying machine learning and graph theory to design new molecules and
-        investigate chemical reactions. My interest also extends to the development and improvement of open-source software
-        using cloud-based and full stack technology.
+        My current research relies on atomistic quantum simulation with <i>ab initio</i> molecular dynamics
+        and enhanced sampling techniques to calculate free energies of chemical reactions.
+        I am now interested in applying statistical methods, such as machine learning, graph theory, symbolic regression,
+        to design new molecules and investigate reaction mechanisms. My interest also extends to the development 
+        and improvement of open-source software using cloud-based and full stack technology.
         I am currently a member of <a href="https://www.lightchec.uzh.ch/">LightChEC</a> and
         <a href="https://www.nccr-catalysis.ch/">NCCR Catalysis</a> advised by Prof. Sandra Luber.
       </p>
 
       <p class="indent">
-        Before Zurich, I was a scientist at the <a href="https://newequilibriumbio.com/">New Equilibrium Biosciences</a>
-        (from 2019 to 2020) working on computational chemistry and machine learning for drug discovery.
-        I helped the team design and set up AWS infrastructures for performing high-performance molecular dynamics
-        simulations and training neural network models for developing specific-purpose molecular force fields
-        for studying intrinsically disordered proteins (IDP) structures.
+        Before Zurich, I was a consultant scientist at the <a href="https://newequilibriumbio.com/">New Equilibrium Biosciences</a>, 
+        Boston, MA, from 2019 to 2020, working on machine learning force field for drug discovery.
+        I helped the computational team design and set up AWS infrastructures for performing high-performance molecular dynamics
+        simulations and training neural network models for studying intrinsically disordered proteins (IDP) structures.
       </p>
 
       <p class="indent">
         In 2016 and 2019, I received Bachelor's and Master's degrees respectively from Thammasat University, Thailand,
         where I focused on several research topics in computer modeling ranging from density functional theory to multiscale
-        (coarse-grained model) simulation under the supervision of Prof. Yuthana Tantirungrotechai.
+        (coarse-grained model) simulation under the supervision of <a href="https://sites.google.com/site/compchem403">
+        Prof. Yuthana Tantirungrotechai</a>. 
         During my education at that time, I received the NCTU Taiwan Elite International Internship Scholarship
-        and worked at NCTU in the research group of Prof. Jen-Shiang K. Yu in 2015 and 2018, respectively.
+        and conducted research at NCTU in the research group of <a href="http://wild.life.nctu.edu.tw/~jsyu/"> 
+        Prof. Jen-Shiang K. Yu</a> in 2015 and 2018, respectively. 
         In 2016, I was also a visiting student at ICTP, Trieste, Italy. In addition, I won the royal winner award of
         <a href="https://www.facebook.com/TCC.ChallengeUBE/">Thailand Computational Chemistry Challenge (TCCC) 2016</a>.
         For the competition, I used the dissipative particle dynamics technique to investigate the mechanical properties
@@ -74,10 +75,10 @@ layout: default
       <h1 class="card-title">Contributions</h1>
       <ul>
         <li>
-          <a href="https://gdsc.community.dev/eth-zurich/">Google Developer Student Clubs (GDSC) Zurich</a>
+          Core member of <a href="https://gdsc.community.dev/eth-zurich/">Google Developer Student Clubs (GDSC) Zurich</a>
         </li>
         <li>
-          Thailand Machine Learning for Chemistry Competition 2021 (see <a href="https://competitions.codalab.org/competitions/34540">this</a> and <a href="https://tmlcc2021.devpost.com/">this</a>)
+          Organizer of Thailand Machine Learning for Chemistry Competition 2021 (see <a href="http://tmlcc.cseathai.org/">http://tmlcc.cseathai.org/</a>, <a href="https://competitions.codalab.org/competitions/34540">this</a> and <a href="https://tmlcc2021.devpost.com/">this</a>)
         </li>
         <li>
           HackZurich, 2020, <a href="https://devpost.com/software/mygarden">2021</a>, <a href="https://github.com/rangsimanketkaew/hackzurich2022-emotion">2022</a>
@@ -86,7 +87,7 @@ layout: default
           <a href="https://github.com/JeanBaptiste-dlb/Skiptify">BaselHack 2022</a>
         </li>
         <li>
-          PyCon 2019 & 2021
+          Organizer of PyCon Thailand 2019 & 2021
         </li>
         <li>
           <a href="https://www.kaggle.com/c/champs-scalar-coupling">Kaggle's Predicting Molecular Properties 2019</a>
@@ -124,7 +125,6 @@ layout: default
     <div class="card">
       <h1>CV</h1>
       <p>My academic <a href="/cv.pdf" target="_blank">CV</a> and <a href="/resume.pdf" target="_blank">resume</a>.</p>
-      <br>
       <p>My tech <a href="/resume-tech.pdf" target="_blank">resume</a>.</p>
     </div>
 
