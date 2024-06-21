@@ -78,10 +78,10 @@ layout: default
           Core member of <a href="https://gdsc.community.dev/eth-zurich/">Google Developer Student Clubs (GDSC) Zurich</a>
         </li>
         <li>
-          Organizer of Thailand Machine Learning for Chemistry Competition 2021 (see <a href="http://tmlcc.cseathai.org/">http://tmlcc.cseathai.org/</a>, <a href="https://competitions.codalab.org/competitions/34540">this</a> and <a href="https://tmlcc2021.devpost.com/">this</a>)
+          Organizer of <a href="http://tmlcc.cseathai.org/">Thailand Machine Learning for Chemistry Competition 2021</a> (see also <a href="https://competitions.codalab.org/competitions/34540">this</a> and <a href="https://tmlcc2021.devpost.com/">this</a>)
         </li>
         <li>
-          HackZurich, 2020, <a href="https://devpost.com/software/mygarden">2021</a>, <a href="https://github.com/rangsimanketkaew/hackzurich2022-emotion">2022</a>
+          HackZurich 2020, <a href="https://devpost.com/software/mygarden">2021</a>, <a href="https://github.com/rangsimanketkaew/hackzurich2022-emotion">2022</a>
         </li>
         <li>
           <a href="https://github.com/JeanBaptiste-dlb/Skiptify">BaselHack 2022</a>
