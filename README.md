@@ -2,13 +2,21 @@
 
 https://rangsimanketkaew.github.io
 
-<br>
+#### Running a website locally
+
+I do not recommend installing ruby directly via `apt-get` or `brew`. I suggest using `rbenv` instead to manage the version of ruby.
 
 ```sh
 # Linux (Ubuntu)
-sudo apt-get install ruby ruby-full
+sudo apt-get install rbenv
 # macOS:
-brew install ruby
+brew install rbenv ruby-build
+
+# Install ruby and set the version
+rbenv init
+rbenv install 3.2.3
+rbenv global 3.2.3  # (for this machine)
+rbenv local 3.2.3   # (for this directory)
 
 # Instlal bundler
 gem install bundler
@@ -23,4 +31,8 @@ bundle exec jekyll server
 JEKYLL_ENV=production bundle exec jekyll serve
 ```
 
-If you have error about loading bundle, please remove all old versions of gem using `gem cleanup` and then run `gem install bundler` again.
+#### Q&A
+
+- If you have error about loading bundle, please remove all old versions of gem using `gem cleanup` and then run `gem install bundler` again.
+
+- I suggest adding the following command `eval "$(rbenv init - zsh)"` to an environment script, e.g., `.zshrc` for macOS.
