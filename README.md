@@ -22,3 +22,5 @@ bundle exec jekyll server
 # (google analytics tag will be included in index.html of the built site)
 JEKYLL_ENV=production bundle exec jekyll serve
 ```
+
+If you have error about loading bundle, please remove all old versions of gem using `gem cleanup` and then run `gem install bundler` again.
