@@ -43,7 +43,7 @@ My list is actually not as fancy as others' but I am very proud of mine &#128515
   <li><s> Run ultra trail </s></li>
   <li> Participate a UTMB Mont-Blanc 100M </li>
   <li> Run a 100km trail with at least 3,000m D+ </li>
-  <li> Climb Mount Kilimanjaro </s></li>
+  <li> Climb Mount Kilimanjaro </li>
   <li> Watch the final round of table tennis world championship </li>
   <li> Go Skydiving </li>
   <li><s> Ski on different types of slopes </s></li>
