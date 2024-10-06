@@ -39,7 +39,12 @@ My list is actually not as fancy as others' but I am very proud of mine &#128515
   <li><s> Run a marathon </s></li>
   <li><s> Run around Lake Zurich </s></li>
   <li> Run from Zurich to Basel </li>
-  <li> Run 10k in less than 40 minutes </li>
+  <li> Run a sub 40 min 10k </li>
+  <li><s> Run ultra trail </s></li>
+  <li> Participate a UTMB Mont-Blanc 100M </li>
+  <li> Run a 100km trail with at least 3,000m D+ </li>
+  <li> Climb Mount Kilimanjaro </s></li>
+  <li> Watch the final round of table tennis world championship </li>
   <li> Go Skydiving </li>
   <li><s> Ski on different types of slopes </s></li>
   <li><s> Get a ski instructor license </s></li>
@@ -55,7 +60,7 @@ My list is actually not as fancy as others' but I am very proud of mine &#128515
   <li><s> Derive density functional theory's equations </s></li>
   <li> Earn a second degree in non-science </li>
   <li><s> Do a PhD (finishing in 2024) </s></li>
-  <li><s> Code in Fortran </s></li>
+  <li><s> Code a quantum software in Fortran </s></li>
   <li><s> Write a book </s></li>
   <li> Learn German </li>
   <li><s> Teach machine learning </s></li>
@@ -65,20 +70,16 @@ My list is actually not as fancy as others' but I am very proud of mine &#128515
   <li> Try paella in Spain in 5 different restaurants </li>
   <li><s> Have bubble tea for 30 days in a row </s></li>
   <li> Try original Texas BBQ spare ribs </li>
-  <li> Drink beers at Oktoberfest (impossible as I quit drinking) </li>
-  <li> Learn how to make authentic ramen </li>
+  <li><s> Quit drinking </s></li>
+  <li> Make authentic ramen </li>
   <li><s> Made an authentic pizza </s></li>
-  <li> Organize a Thai dinner for Zurich friends </s></li>
   <li><s> Eat healthy food (on-going) </s></li>
   <li><s> Drink Belgium, Czech, and German beers </s></li>
   <li><s> Watch 100 feel good movies </s></li>
   <li><s> Get 1,000 subscribers on YouTube channel </s></li>
   <li><s> Buy a good watch </s></li>
-  <li> Run a 100-km trail with at least 3,000-m elevation </li>
-  <li> Watch the final round of table tennis world championship </li>
   <li> Build a house after retirement </li>
   <li> Talk to one of the 300 richest people in the world </li>
   <li><s> Teach people to drive </s></li>
   <li><s> Donate blood at least 20 times </s></li>
-  <li> Bring others joy </li>
 </ol>
