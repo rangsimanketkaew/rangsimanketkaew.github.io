@@ -25,6 +25,8 @@ My list is actually not as fancy as others' but I am very proud of mine &#128515
   <li> Do a road trip in the US </li>
   <li><s> Visit Tokyo, Japan </s></li>
   <li> Visit filming locations of 'The Secret Life of Walter Mitty' </li>
+  <li><s> Visit the British Museum, London </s></li>
+  <li><s> Visit The Metropolitan Museum of Art, NYC </s></li>
   <li><s> Visit Sir Isaac Newton’s tomb </s></li>
   <li><s> See the northern light </s></li>
   <li> Dive in Hawaii </li>
