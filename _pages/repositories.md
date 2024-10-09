@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
-nav: true
+title: Repositories
+description: Repositories of the projects that I am working on.
+nav: false
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
+<!-- {% if site.data.repositories.github_users %}
 
 ## GitHub users
 
@@ -33,7 +33,7 @@ nav_order: 4
 
 {% endfor %}
 {% endif %}
-{% endif %}
+{% endif %} -->
 
 {% if site.data.repositories.github_repos %}
 
