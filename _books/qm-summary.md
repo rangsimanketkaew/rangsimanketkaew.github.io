@@ -3,7 +3,7 @@ layout: page
 title: สรุปเคมีควอนตัม
 description: Summary of Quantum Chemistry
 img: 
-category: book
+category: Book
 importance: 3
 ---
 
