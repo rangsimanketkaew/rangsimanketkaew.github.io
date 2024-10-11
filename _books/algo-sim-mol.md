@@ -1,0 +1,23 @@
+---
+layout: page
+title: อัลกอริทึมสำหรับการจำลองทางคอมพิวเตอร์ของระบบโมเลกุล
+description: Algorithms for Computer Simulation of Molecular Systems
+img: 
+category: book
+importance: 2
+---
+
+หนังสือ "อัลกอริทึมสำหรับการจำลองทางคอมพิวเตอร์ของระบบโมเลกุล - Algorithms for Computer Simulation of Molecular Systems"
+
+- ไฟล์ PDF ของหนังสือ: [https://rangsimanketkaew.github.io/algo-sim-mol-book.pdf](https://rangsimanketkaew.github.io/algo-sim-mol-book.pdf)
+- ซอร์สโค้ด LaTeX หนังสือ: [https://github.com/rangsimanketkaew/algo-sim-mol-book](https://github.com/rangsimanketkaew/algo-sim-mol-book)
+- โค้ดของโปรแกรมที่ใช้ในหนังสือ: [https://github.com/rangsimanketkaew/algo-sim-mol-book-code](https://github.com/rangsimanketkaew/algo-sim-mol-book-code)
+
+ความตั้งใจของผมคืออยากให้ทุกคนได้อ่านฟรีและถ้าใครต้องการที่จะสนับสนุนผลงานก็สามารถทำได้โดยการบริจาคเพื่อช่วยเหลือเด็กและผู้ที่กำลังประสบภัยในประเทศที่กำลังมีสงครามโดยผ่านสภากาชาดระหว่างประเทศ รายละเอียดอยู่ที่ [การสนับสนุนผลงาน](https://github.com/rangsimanketkaew/ml-qm-book#%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99%E0%B8%9C%E0%B8%A5%E0%B8%87%E0%B8%B2%E0%B8%99)
+
+การเขียนหนังสือเล่มนี้ได้แรงบันดาลใจมาจากการเขียนหนังสือเล่มแรก (การเรียนรู้ของเครื่องสำหรับเคมีควอนตัม) ที่ผู้อ่านหลาย ๆ ท่านได้รับประโยชน์ สำหรับเล่มนี้เป็นการอธิบายทฤษฎีของวิธีต่าง ๆ ในเคมีควอนตัม รวมถึงอัลกอริทึมสำหรับการเขียนโปรแกรมเพื่อใช้ในการคำนวณเพื่อศึกษาคุณสมบัติทางควอนตัมของระบบโมเลกุล
+ผมหวังว่าหนังสือเล่มนี้จะเป็นประโยชน์ไม่มากก็น้อยต่อเพื่อน ๆ พี่ ๆ น้อง ๆ นักศึกษา อาจารย์ นักวิจัยที่สนใจงานวิจัยทางด้านนี้ + ผมเรียบเรียงเนื้อหาในหนังสือตามความเข้าใจของผมเอง ถ้าหากพบจุดผิดพลาดตรงไหนก็ชี้แนะเข้ามาได้เลยนะครับ :) ขอให้มีความสุขกับการอ่านครับ
+
+หนังสืออัพเดทล่าสุด: 6 กุมภาพันธ์ พ.ศ. 2567
+
+<iframe width="100%" height="800" src="/assets/book/algo-sim-mol-book.pdf">
