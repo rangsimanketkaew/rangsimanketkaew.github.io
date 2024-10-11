@@ -6,7 +6,7 @@ subtitle: Department of Chemistry, University of Zurich, Switzerland
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: nutt.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
 news: false # includes a list of news items

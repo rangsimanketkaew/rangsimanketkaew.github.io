@@ -4,10 +4,10 @@
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
-        {%- if site.data.venues[entry.abbr] -%}
+        {%- if site.data.venues[entry.category] -%}
           {% assign venue_style = null %}
-          {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
+          {% if site.data.venues[entry.category].color != blank %}
+            {% assign venue_style = site.data.venues[entry.category].color | prepend: 'style="background-color:' | append: '"' %}
           {%- endif -%}
           <abbr
             class="badge rounded w-100"
