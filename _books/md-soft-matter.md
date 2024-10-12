@@ -9,7 +9,7 @@ importance: 1
 
 A note "Based-on-experiences Note on Statistical Molecular Dynamics for Soft Matter Simulations"
 
-- PDF file: [https://rangsimanketkaew.github.io/moldyn-softmat.pdf](https://rangsimanketkaew.github.io/moldyn-softmat.pdf)
+- [PDF file](https://rangsimanketkaew.github.io/assets/book/moldyn-softmat.pdf)
 
 Last update: November 18, 2022
 

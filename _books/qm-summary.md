@@ -9,8 +9,8 @@ importance: 3
 
 หนังสือ "สรุปเคมีควอนตัม - Summary of Quantum Chemistry"
 
-- ไฟล์ PDF ของหนังสือ: [https://rangsimanketkaew.github.io/qm-summary-book.pdf](https://rangsimanketkaew.github.io/qm-summary-book.pdf)
-- ซอร์สโค้ด LaTeX หนังสือ: [https://github.com/rangsimanketkaew/qm-summary-book](https://github.com/rangsimanketkaew/qm-summary-book)
+- [ไฟล์ PDF ของหนังสือ](https://rangsimanketkaew.github.io/assets/book/qm-summary-book.pdf)
+- [ซอร์สโค้ด LaTeX หนังสือ](https://github.com/rangsimanketkaew/qm-summary-book)
 
 ความตั้งใจของผมคืออยากให้ทุกคนได้อ่านฟรีและถ้าใครต้องการที่จะสนับสนุนผลงานก็สามารถทำได้โดยการบริจาคเพื่อช่วยเหลือเด็กและผู้ที่กำลังประสบภัยในประเทศที่กำลังมีสงครามโดยผ่านสภากาชาดระหว่างประเทศ รายละเอียดอยู่ที่ [การสนับสนุนผลงาน](https://github.com/rangsimanketkaew/qm-summary-book/tree/main#%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99%E0%B8%9C%E0%B8%A5%E0%B8%87%E0%B8%B2%E0%B8%99)
 

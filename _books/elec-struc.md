@@ -9,7 +9,7 @@ importance: 1
 
 A slide "Electronic Structure Calculation"
 
-- PDF file: [https://rangsimanketkaew.github.io/elec-struct.pdf](https://rangsimanketkaew.github.io/elec-struct.pdf)
+- [PDF file](https://rangsimanketkaew.github.io/assets/book/elec-struct.pdf)
 
 Credit: Original version "Electronic Structure Calculations in Quantum Chemistry" by AB Pacheco
 

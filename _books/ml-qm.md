@@ -9,9 +9,9 @@ importance: 1
 
 หนังสือ "การเรียนรู้ของเครื่องสำหรับเคมีควอนตัม - Machine Learning for Quantum Chemistry"
 
-- ไฟล์ PDF ของหนังสือ: [https://rangsimanketkaew.github.io/ml-qm-book.pdf](https://rangsimanketkaew.github.io/ml-qm-book.pdf)
-- ซอร์สโค้ด LaTeX หนังสือ: [https://github.com/rangsimanketkaew/ml-qm-book](https://github.com/rangsimanketkaew/ml-qm-book)
-- โค้ดของโปรแกรมที่ใช้ในหนังสือ: [https://github.com/rangsimanketkaew/ml-qm-book-code](https://github.com/rangsimanketkaew/ml-qm-book-code)
+- [ไฟล์ PDF ของหนังสือ](https://rangsimanketkaew.github.io/assets/book/ml-qm-book.pdf)
+- [ซอร์สโค้ด LaTeX หนังสือ](https://github.com/rangsimanketkaew/ml-qm-book)
+- [โค้ดของโปรแกรมที่ใช้ในหนังสือ](https://github.com/rangsimanketkaew/ml-qm-book-code)
 
 ความตั้งใจของผมคืออยากให้ทุกคนได้อ่านฟรีและถ้าใครต้องการที่จะสนับสนุนผลงานก็สามารถทำได้โดยการบริจาคเพื่อช่วยเหลือเด็กและผู้ที่กำลังประสบภัยในประเทศที่กำลังมีสงครามโดยผ่านสภากาชาดระหว่างประเทศ รายละเอียดอยู่ที่ [การสนับสนุนผลงาน](https://github.com/rangsimanketkaew/ml-qm-book#%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99%E0%B8%9C%E0%B8%A5%E0%B8%87%E0%B8%B2%E0%B8%99)
 
