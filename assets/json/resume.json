@@ -135,46 +135,25 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "AWS Cloud Practitioner Essentials",
+      "date": "2021-12",
+      "issuer": "Amazon Web Services (AWS)",
+      "url": "https://github.com/rangsimanketkaew/certificates/blob/main/AWS%20Course%20Completion%20Certificate.pdf",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Troubleshooting EC2 - Linux",
+      "date": "2021-12",
+      "issuer": "Amazon Web Services (AWS)",
+      "url": "https://github.com/rangsimanketkaew/certificates/blob/main/AWS%20Toubleshooting%20EC2%20Linux.pdf",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Graph Theory Algorithm",
+      "date": "2022-11",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-7b7e0210-9897-4388-8533-799111d95601/",
+      "icon": "fa-solid fa-tag"
     }
   ],
   "skills": [
@@ -191,16 +170,16 @@
       "keywords": ["TensorFlow", "NumPy", "SciPy", "SymPy", "Scikit-Learn", "Pandas"]
     },
     {
-      "name": "Platforms",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["AWS"]
-    },
-    {
       "name": "Development Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": ["Git", "CI/CD", "Docker", "Kubernetes"]
+    },
+    {
+      "name": "Platforms",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["AWS"]
     }
   ],
   "languages": [
