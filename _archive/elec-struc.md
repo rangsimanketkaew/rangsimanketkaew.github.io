@@ -3,8 +3,8 @@ layout: page
 title: Electronic Structure Calculation
 description: Slide
 img:
-category: Slide
-importance: 1
+category: Science
+importance: 5
 ---
 
 A slide "Electronic Structure Calculation"

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Books
-permalink: /books/
-description: My books
+title: Archive
+permalink: /archive/
+description: My Archive
 nav: true
 nav_order: 5
-display_categories: [Book, Note, Slide]
+display_categories: [Science, Sports]
 horizontal: false
 ---
 
@@ -17,7 +17,7 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.books | where: "category", category %}
+  {% assign categorized_projects = site.archive | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.books | sort: "importance" %}
+{% assign sorted_projects = site.archive | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 

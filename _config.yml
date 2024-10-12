@@ -198,7 +198,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
-  books:
+  archive:
     output: true
     permalink: /:collection/:title/
 

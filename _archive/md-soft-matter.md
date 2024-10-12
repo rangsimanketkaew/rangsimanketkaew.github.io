@@ -3,8 +3,8 @@ layout: page
 title: Molecular Dynamics
 description: Note on MD
 img:
-category: Note
-importance: 1
+category: Science
+importance: 4
 ---
 
 A note "Based-on-experiences Note on Statistical Molecular Dynamics for Soft Matter Simulations"
