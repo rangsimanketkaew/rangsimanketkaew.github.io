@@ -23,4 +23,4 @@ to understanding chemical space and reactivity of molecules. My interest also ex
 improvement of open-source software using cloud-based and full stack technology.
 
 I am currently a member of [LightChEC](https://www.lightchec.uzh.ch/en.html) and
-[NCCR Catalysis](https://www.nccr-catalysis.ch/) advised by Prof. Sandra Luber.
+[NCCR Catalysis](https://www.nccr-catalysis.ch/) under the supervision of Prof. Sandra Luber.

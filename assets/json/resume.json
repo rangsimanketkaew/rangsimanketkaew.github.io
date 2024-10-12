@@ -29,7 +29,7 @@
       ]
     },
     {
-      "name": "Thingking Machines Data Science",
+      "name": "Thingking Machines Data Science, Bangkok, Thailand",
       "position": "Machine Learning Consultant",
       "url": "https://thinkingmachin.es/",
       "startDate": "2019-09-01",
@@ -71,9 +71,9 @@
       "location": "Zurich, Switzerland",
       "url": "https://www.uzh.ch/",
       "area": "Theoretical Chemistry",
-      "studyType": "PhD",
+      "studyType": "Dr. rer. nat.",
       "startDate": "2020-06",
-      "endDate": "2024-09",
+      "endDate": "",
       "score": "10",
       "courses": ["Quantum chemistry", "Ab initio molecular dynamics", "Enhanced sampling", "Machine learning", "Software development"]
     },
