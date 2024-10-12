@@ -7,13 +7,6 @@
     "phone": "",
     "url": "https://rangsimanketkaew.github.io",
     "summary": "A doctoral student interested in quantum chemistry, machine learning, software development, and high-performance computing",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
     "profiles": [
       {
         "network": "Twitter",
@@ -26,11 +19,38 @@
     {
       "name": "University of Zurich, Zurich, Switzerland",
       "position": "Doctoral Researcher",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Focusing on the development and application of computational techniques for molecule and reaction design. I am also a member of NCCR Catalysis.",
-      "highlights": ["Relativity"]
+      "url": "https://lubergroup.ch/",
+      "startDate": "2020-06-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Develop and apply computational techniques for molecule design and reaction investigation",
+        "Synergistic collaboration with NCCR Catalysis"
+      ]
+    },
+    {
+      "name": "Thingking Machines Data Science",
+      "position": "Machine Learning Consultant",
+      "url": "https://thinkingmachin.es/",
+      "startDate": "2019-09-01",
+      "endDate": "2020-05-31",
+      "summary": "",
+      "highlights": [
+        "Develop machine learning model for predicting fouling in heat exchangers",
+        "Provide expert guidance and domain skills in chemistry"
+      ]
+    },
+    {
+      "name": "New Equilibrium Biosciences, Boston, MA, USA",
+      "position": "Computational Chemist",
+      "url": "https://www.linkedin.com/company/new-equilibrium-biosciences/",
+      "startDate": "2019-09-01",
+      "endDate": "2020-05-31",
+      "summary": "",
+      "highlights": [
+        "Design AWS-based autoscaling parallel cluster with GPUs for high-performance calculations",
+        "Develop machine learning force field for drug discovery targeting intrinsically disordered proteins (IDPs)"
+      ]
     }
   ],
   "volunteer": [
@@ -55,7 +75,7 @@
       "startDate": "2020-06",
       "endDate": "2024-09",
       "score": "10",
-      "courses": ["Ab initio molecular dynamics", "Enhanced sampling", "Machine learning", "Software development"]
+      "courses": ["Quantum chemistry", "Ab initio molecular dynamics", "Enhanced sampling", "Machine learning", "Software development"]
     },
     {
       "institution": "Thammasat University, Thailand",
@@ -66,7 +86,7 @@
       "startDate": "2016-06",
       "endDate": "2018-12",
       "score": "10",
-      "courses": ["Constrained Density Functional Theory", "Marcus Theory for Electron Transfer", "Computational Catalysis"]
+      "courses": ["Constrained Density Functional Theory", "Marcus Theory for Electron Transfer", "Homogeneous catalysts"]
     },
     {
       "institution": "Thammasat University, Thailand",
@@ -88,11 +108,29 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "CMSZH Travel Award | Machine learning workshop ",
+      "date": "2024-11",
+      "awarder": "Graduate School of Chemical and Molecular Sciences Zurich, Switzerland",
+      "url": "",
+      "summary": "CECAM Machine Learning Workshop, Berlin, Germany"
+    },
+    {
+      "title": "NCTU Elite Internship Program",
+      "date": "2018-04",
+      "awarder": "National Chiao Tung University, Hsinchu, Taiwan",
+      "summary": "Scholarship for international student"
+    },
+    {
+      "title": "Visiting Scholarship",
+      "date": "2017-02",
+      "awarder": "International Centre for Theoretical Physics, Trieste, Italy",
+      "summary": "Travel Award Fellowship"
+    },
+    {
+      "title": "The Royal Winner Award ",
+      "date": "2016-03",
+      "awarder": "UBE Corporation, Bangkok, Thailand",
+      "summary": "The winner of 2016 Thailand Computational Chemistry Challenge"
     }
   ],
   "certificates": [
@@ -141,29 +179,47 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Fortran",
+        "C++",
+        "SQL",
+        "Bash"
       ]
     },
     {
-      "name": "Physics",
+      "name": "Libraries/Frameworks",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "TensorFlow",
+        "NumPy",
+        "SciPy",
+        "SymPy",
+        "Scikit-Learn",
+        "Pandas"
+      ]
+    },
+    {
+      "name": "Platforms",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "AWS"
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Git",
+        "CI/CD",
+        "Docker",
+        "Kubernetes"
       ]
     }
   ],
@@ -186,15 +242,43 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computational Chemistry",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Molecular quantum chemistry",
+        "Free energy calculation",
+        "Electron transfer",
+        "Statistical and mathematical techniques"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Deep neural network",
+        "Unsupervised machine learning",
+        "Symbolic regression",
+        "Graph-based neural network"
+      ]
+    },
+    {
+      "name": "Scientific Software Development",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "High-performance computing",
+        "Software benchmarking",
+        "Distributed computing",
+        "Cloud technology"
+      ]
+    },
+    {
+      "name": "Endurance Sports",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Distance running",
+        "Trail running",
+        "Skiing",
+        "Cycling"
       ]
     }
   ],
