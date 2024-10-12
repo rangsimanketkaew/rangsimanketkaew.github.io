@@ -1,6 +1,6 @@
 # Personal website - al-folio template
 
-Preparation to install 
+Preparation to install
 
 ```
 sudo apt-get install ruby-full

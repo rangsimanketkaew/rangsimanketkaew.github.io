@@ -2,7 +2,7 @@
 layout: page
 title: สรุปเคมีควอนตัม
 description: Summary of Quantum Chemistry
-img: 
+img:
 category: Book
 importance: 3
 ---
@@ -18,4 +18,4 @@ importance: 3
 
 หนังสืออัพเดทล่าสุด: 11 กรกฎาคม พ.ศ. 2566
 
-<iframe width="100%" height="800" src="assets/book/qm-summary-book.pdf">
+<iframe width="100%" height="800" src="/assets/book/qm-summary-book.pdf">

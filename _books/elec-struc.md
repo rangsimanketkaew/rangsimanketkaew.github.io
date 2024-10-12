@@ -2,7 +2,7 @@
 layout: page
 title: Electronic Structure Calculation
 description: Slide
-img: 
+img:
 category: Slide
 importance: 1
 ---

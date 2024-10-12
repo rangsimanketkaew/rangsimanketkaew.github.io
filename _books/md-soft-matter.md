@@ -2,7 +2,7 @@
 layout: page
 title: Molecular Dynamics
 description: Note on MD
-img: 
+img:
 category: Note
 importance: 1
 ---

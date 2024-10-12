@@ -30,9 +30,7 @@
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Focusing on the development and application of computational techniques for molecule and reaction design. I am also a member of NCCR Catalysis.",
-      "highlights": [
-        "Relativity"
-      ]
+      "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
@@ -44,10 +42,7 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-        "Men of the year 2014 by Time magazine"
-      ]
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
@@ -60,12 +55,7 @@
       "startDate": "2020-06",
       "endDate": "2024-09",
       "score": "10",
-      "courses": [
-        "Ab initio molecular dynamics",
-        "Enhanced sampling",
-        "Machine learning",
-        "Software development"
-      ]
+      "courses": ["Ab initio molecular dynamics", "Enhanced sampling", "Machine learning", "Software development"]
     },
     {
       "institution": "Thammasat University, Thailand",
@@ -76,11 +66,7 @@
       "startDate": "2016-06",
       "endDate": "2018-12",
       "score": "10",
-      "courses": [
-        "Constrained Density Functional Theory",
-        "Marcus Theory for Electron Transfer",
-        "Computational Catalysis"
-      ]
+      "courses": ["Constrained Density Functional Theory", "Marcus Theory for Electron Transfer", "Computational Catalysis"]
     },
     {
       "institution": "Thammasat University, Thailand",
