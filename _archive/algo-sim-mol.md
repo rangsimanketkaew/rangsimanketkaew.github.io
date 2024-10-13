@@ -2,7 +2,7 @@
 layout: page
 title: อัลกอริทึมสำหรับการจำลองทางคอมพิวเตอร์ของระบบโมเลกุล
 description: Algorithms for Computer Simulation of Molecular Systems
-img:
+img: /assets/img/archive/chemistry/algo.png
 category: Science
 importance: 2
 ---

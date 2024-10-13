@@ -2,7 +2,7 @@
 layout: page
 title: สรุปเคมีควอนตัม
 description: Summary of Quantum Chemistry
-img:
+img: /assets/img/archive/chemistry/summary-qm.png
 category: Science
 importance: 3
 ---

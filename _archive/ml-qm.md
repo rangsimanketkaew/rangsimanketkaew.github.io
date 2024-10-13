@@ -2,7 +2,7 @@
 layout: page
 title: การเรียนรู้ของเครื่องสำหรับเคมีควอนตัม
 description: Machine Learning for Quantum Chemistry
-img:
+img: /assets/img/archive/chemistry/ml-qm.png
 category: Science
 importance: 1
 ---

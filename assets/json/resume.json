@@ -55,14 +55,34 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
+      "organization": "Google Developer Student Clubs (GDSC)",
       "location": "Zurich, Switzerland",
+      "position": "Core Team Member",
+      "url": "https://gdsc.community.dev/eth-zurich/",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Event organizer for GDSC.",
+      "highlights": ["Organized a seminar with D.E. Shaw Research, NYC, USA"]
+    },
+    {
+      "organization": "Thailand Machine Learning for Chemistry Competition 2021",
+      "location": "Bangkok, Thailand",
       "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "url": "http://tmlcc.cseathai.org/",
+      "startDate": "2021-03-01",
+      "endDate": "2021-12-31",
+      "summary": "Committee member and technical team leader of the TMLCC",
+      "highlights": ["Initiate TMLCC - the first data science competition in Thailand that focuses on chemistry problem", "Design the problem and challenge"]
+    },
+    {
+      "organization": "PyCon Thailand 2019 & 2021",
+      "location": "Bangkok, Thailand",
+      "position": "Marketing Team Member",
+      "url": "https://th.pycon.org/",
+      "startDate": "2019-01-01",
+      "endDate": "2021-12-31",
+      "summary": "Core team member focusing marketing and public relations",
+      "highlights": ["Strategic marketing idea", "Coordinate with invited speakers"]
     }
   ],
   "education": [
