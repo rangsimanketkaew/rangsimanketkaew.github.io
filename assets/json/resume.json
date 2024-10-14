@@ -72,7 +72,10 @@
       "startDate": "2021-03-01",
       "endDate": "2021-12-31",
       "summary": "Committee member and technical team leader of the TMLCC",
-      "highlights": ["Initiate TMLCC - the first data science competition in Thailand that focuses on chemistry problem", "Design the problem and challenge"]
+      "highlights": [
+        "Initiate TMLCC - the first data science competition in Thailand that focuses on chemistry problem",
+        "Design the problem and challenge"
+      ]
     },
     {
       "organization": "PyCon Thailand 2019 & 2021",
