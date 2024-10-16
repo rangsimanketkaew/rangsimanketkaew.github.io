@@ -190,17 +190,17 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /:collection/:title/
-  projects:
-    output: true
-    permalink: /:collection/:title/
   archive:
     output: true
     permalink: /:collection/:title/
+  # news:
+  #   defaults:
+  #     layout: post
+  #   output: true
+  #   permalink: /:collection/:title/
+  # projects:
+  #   output: true
+  #   permalink: /:collection/:title/
 
 announcements:
   enabled: false
