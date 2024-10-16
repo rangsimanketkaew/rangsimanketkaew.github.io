@@ -10,6 +10,7 @@ importance: 1
 # How I self-coached for the 50th Berlin Marathon
 
 **Fun facts**
+
 - **Old PB for Marathon:** 3:42 hours (Berlin marathon, September 2023)
 - **New PB for Marathon:** 3:19 hours (Berlin marathon, September 2024)
 - **Training plan:** 2Q program, Daniels' Running Formula book
@@ -21,7 +22,7 @@ My preparation is devided into four parts.
 
 ## 1. Theory
 
-I often wondered, "Why do others improve their running so quickly, making significant progress in just a few months?" This question sparked my serious study of long-distance running, primarily using books and YouTube, along with research on Reddit, particularly in `r/AdvancedRunning`. The book I relied on was *Daniels' Running Formula* (4th edition), and I watched many relevant YouTube videos (links at the end). A particular focus was on endurance training through the Polarized method by Stephen Seiler, which aligns with the 80/20 approach in Matt Fitzgerald’s *80/20 Running*.
+I often wondered, "Why do others improve their running so quickly, making significant progress in just a few months?" This question sparked my serious study of long-distance running, primarily using books and YouTube, along with research on Reddit, particularly in `r/AdvancedRunning`. The book I relied on was _Daniels' Running Formula_ (4th edition), and I watched many relevant YouTube videos (links at the end). A particular focus was on endurance training through the Polarized method by Stephen Seiler, which aligns with the 80/20 approach in Matt Fitzgerald’s _80/20 Running_.
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-4">
@@ -29,11 +30,11 @@ I often wondered, "Why do others improve their running so quickly, making signif
   </div>
 </div>
 
-For my training program, I adapted Jack Daniels' plan, mixing it with the Polarized method. The core principles of both approaches are threefold: 
+For my training program, I adapted Jack Daniels' plan, mixing it with the Polarized method. The core principles of both approaches are threefold:
 
 1. ⁠Understanding the purpose of each training type (Easy, Threshold, Interval, Repetition, Long run)
 2. Training for optimal efficiency without risking injury (the main pillar of Daniels)
-3. Enhancing running economy by avoiding intermediate runs, instead focusing on easy and intense efforts. 
+3. Enhancing running economy by avoiding intermediate runs, instead focusing on easy and intense efforts.
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-6">
@@ -43,7 +44,7 @@ For my training program, I adapted Jack Daniels' plan, mixing it with the Polari
 
 For the (3), mmost of mileage is easy run (80-85%) and the rest (15-20%) is quality training (speed work). This is exactly the 80/20 concept, [aka Polarized method, developed by Stephen Sieler](https://www.youtube.com/watch?v=dxODgYXOO7w)
 
-understanding the purpose of each training session (details are clear in the book or summary videos), , and 
+understanding the purpose of each training session (details are clear in the book or summary videos), , and
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-4">
@@ -62,7 +63,7 @@ I chose the 2Q program for 18 weeks but had to modify it due to my 3-month (12 w
   </div>
 </div>
 
-To follow JD's program, I needed to determine my running paces for various training types, using VDOT values that JAck developed with his colleaque, which indicate maximum potential compared to VO2Max and recent race paces. I used [vdoto2.com](https://vdoto2.com/) to calculate these paces (based on VDOT), which include: 
+To follow JD's program, I needed to determine my running paces for various training types, using VDOT values that JAck developed with his colleaque, which indicate maximum potential compared to VO2Max and recent race paces. I used [vdoto2.com](https://vdoto2.com/) to calculate these paces (based on VDOT), which include:
 
 - **Easy (E):** To strengthen body and heart muscles, generate mitochondria (cellular adaptation)
 - **Marathon (M):** To familiarize with race pace
@@ -77,6 +78,7 @@ Keep in mind that Daniels training program is quite tough. So, make sure that yo
 You should not run faster than the pace that the calculator suggested, even tho you feel that you can run faster, because if you run faster a little bit, it would not give you much performance but you will probably increase the risk of injury instead. So in his book he explains everything.
 
 How much should I run?
+
 - Threshold (Tempo) should not be more than 10% of the total weekly mileage
 - Interval should not be more than 8% of the total mileage
 - Repetition should not be more than 2 min per week
@@ -85,9 +87,10 @@ How much should I run?
 
 I trained both on tracks and roads, averaging 90-100 km per week. Before and after runs, I warmed up for about 5 minutes (any exercise for runners video on YouTube). I often run with friends from the Adidas Runners Zurich club. I found JD's program challenging, especially with recovery and speed work on the same day, where the easy pace wasn’t slow at all, so I recommend adjusting the easy pace based on personal comfort (easy pace should be conversational pace).
 
-I used a Garmin watch to record data and analyze my performance, checking metrics like cadence, stride length, ground contact time, time spent in different  (HR) zones, and pace stability. 
+I used a Garmin watch to record data and analyze my performance, checking metrics like cadence, stride length, ground contact time, time spent in different (HR) zones, and pace stability.
 
-My shoe rotation included three types: 
+My shoe rotation included three types:
+
 1. Daily training (two pairs)
 2. Speed work training
 3. Racing shoes (also used for tempo workouts before race day).
@@ -95,6 +98,7 @@ My shoe rotation included three types:
 During long runs, I also took energy gels to practice and prepare for race day. I also followed drill tutorials by Aj.Aekawit (Head coach of Thailand athletes team) on YouTube, which significantly helped improve my running form. Apart from running, I did cross-training activities like cycling, hiking, and strength training.
 
 From my further research, I gained more insights:
+
 1. Our bodies use energy from all sources (phosphagen, glycogen, fatty acids) simultaneously, depending on duration and intensity.
 2. Training in HR Zone 2 boosts cellular adaptation, enhancing endurance and allowing longer tempo running.
 3. Threshold/tempo training increases lactic threshold, preventing early energy depletion.
@@ -122,7 +126,7 @@ I aimed to drink about 3-4 liters of water daily, depending on activity levels, 
   </div>
 </div>
 
-To prevent injuries, I studied running form and injury prevention from *Science of Running* by Chris Napier, a well-illustrated and concise book. I also hung out with friends occasionally, ensuring I got about 6-7 hours of sleep, which I was fortunate to manage without trouble waking up early.
+To prevent injuries, I studied running form and injury prevention from _Science of Running_ by Chris Napier, a well-illustrated and concise book. I also hung out with friends occasionally, ensuring I got about 6-7 hours of sleep, which I was fortunate to manage without trouble waking up early.
 
 ## 4. Final Phase of Training and Race Day
 
@@ -155,6 +159,7 @@ Finally, I want to thank my friends at Adidas Runners Zurich for everything!
 I hope this post is benefitial and inspiring for those who are planing to train for a marathon 😊
 
 ## Links for Further Study:
+
 - My curated YouTube playlist: [YouTube Playlist](https://www.youtube.com/watch?v=Iz6t9ZnviiQ&list=PLt-twymrmZ2f5cbM7Sz6oJO_TCTuStGOC&ab_channel=BiomechanicsofMovement)
 - VDOT pace calculator: [VDOT Calculator](https://vdoto2.com/)
 - JD's long run program calculator: [Long Run Calculator](https://fellrnr.com/wiki/Running_Calculator)
