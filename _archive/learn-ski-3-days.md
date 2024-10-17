@@ -16,9 +16,10 @@ and asked for a beginner course for a group of 4 people including me.
 
 The lesson lasted for 2 hours in the morning from 10.00 am to 12.00 pm, which was pretty short.
 That was my very first time skiing! Our ski teacher taught basic skills such as how to break (pizza) and turn (plough turn).
-After the lesson, my group learned a couple of skills and styles on a kid slope (around 100 meters long), 
-and I thought that I was ready for a blue slope which is considered an easy run for people here growing 
-up/living in Switzerland. (I am very optimistic, too much sometimes!)  Well... the nightmare started from here...
+After the lesson, my group learned a couple of skills and styles on a kid slope (around 100 meters long),
+and I thought that I was ready for a blue slope which is considered an easy run for people here growing
+up/living in Switzerland. (I am very optimistic, too much sometimes!) Well... the nightmare started from here...
+
 </p>
 
 <div class="row justify-content-sm-center">
@@ -239,6 +240,7 @@ This means that if you do not really know how to put on your boots properly, it 
 Trust me, you will never want to have such disastrous experience.
 
 My playlist basically contains videos in different type of skill development as follows:
+
 </p>
 
 - General introduction to ski
