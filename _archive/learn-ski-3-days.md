@@ -4,7 +4,7 @@ title: How I Learned to Ski in 3 Days
 description: My adventurous journey of learning to ski
 img: /assets/img/archive/skiing/ski-cover.jpg
 category: Sports
-importance: 1
+importance: 3
 ---
 
 <p style="text-indent: 40px">
