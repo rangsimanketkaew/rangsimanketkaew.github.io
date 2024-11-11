@@ -24,36 +24,40 @@ a marathon, which I find the content in the book very useful compared to other b
 
 ## 1. Here is summary of the Hansons' training concept
 
-- Hansons relies on the so-called "Cumulative Fatigue" which is the development of the long-terms effect.
-  of pain through training that results in the increase of performance.
-- Cumulative fatigue is a feeling of constant exhaustion that you can still handle.
-- Cumulative fatigue is the level of pain that is in between proper pain and overtraining.
-- Your running paces for different workouts are calculated based on your marathon goal. So it is recommended.
-  that you should already have done a half marathon race (or at least 10k) so that you can estimate your goal.
-- The book provides tables that you can use to quantify the pace for training.
-- The training plan comprises of 4 phases: 
-  - Base building
-  - Speed training
-  - Strength building
-  - Tapering phase.
-- Each week in each phase basically precribes 2-3 workouts, and the other days are easy run.
-- Hansons call workout "Something of Substance (SOS)", which is the same as quality session used in Daniels' running formula.
-- Hansons' SOS contains 3 workouts: interval, tempo, and long run.
-- Interval training is devided into 2 sub-training: speed and strength workouts (corresponding to the phase).
-- For tempo session Hansons suggests to run with your marathon pace.
-- Long run is limited at 16 miles (26-27 km). Hansons explain that the 16-mile long run is the same as the last
-  16 miles of your marathon race, not the first 16 miles.
-- I find that Hansons training plan is tough and intensive, especially the strength phase. The reason for this
-  is that Hansons want your legs to carry fatigue and get used to it so you always mimic a marathon with the long run.
+- The Hansons Method incorporates **"Cumulative Fatigue"**, which is the gradual build-up of fatigue over 
+  time through training, ultimately enhancing performance.
+- Cumulative fatigue creates a sensation of persistent exhaustion, but one that remains manageable.
+- It represents a level of strain that lies between healthy exertion and overtraining.
+- Workout paces are calculated based on your marathon goal time, so it's advisable to have completed 
+  at least a half-marathon (or a 10K) to estimate your target.
+- The book provides tables to help determine appropriate training paces or you can use the online calculator 
+  (see below)
+- The training plan includes four key phases:
+  - **Base Building**
+  - **Speed Training**
+  - **Strength Building**
+  - **Tapering**
+- Each week in each phase typically includes 2-3 focused workouts, with the remaining days designated as easy runs.
+- Hansons refers to each workout as a **"Something of Substance (SOS)"** session, 
+  similar to the "quality sessions" in *Daniels' Running Formula*.
+- The Hansons' SOS sessions include three types of workouts: **intervals, tempo runs, and long runs.**
+- Interval training is divided into two types: **speed and strength workouts**, each aligning with a specific phase.
+- For tempo sessions, Hansons recommends running at your target marathon pace.
+- The long run is capped at **16 miles (26-27 km)**. Hansons explains that this is intended to mimic 
+  the feeling of the final 16 miles of a marathon, rather than the first 16.
+- I find the Hansons training plan to be rigorous, particularly in the strength phase. 
+  This intensity is intentional; Hansons aims to keep your legs in a fatigued state to simulate the demands 
+  of a marathon throughout training, particularly during long runs.
 
 ## 2. Cumulative fatigue is not overtraining
 
-One question that you might have is "How do I know if I'm doing cumulative fatigue and not overtraining?"
+One question that may come up is: *"How do I know if I'm building cumulative fatigue and not overtraining?"*
 
-To determine if you're doing cumulative fatigue or overtraining, in the book it doesn't provide clear examples
-of the cumulative fatigue, but only a list of the symptoms that tell you that you're overtraining. I then found
-a very useful blog written by Luke Humphrey (the author of the book) that gives a clear list for the
-comparison between cumulative fatigue and overtraining. ([see the blog](https://lukehumphreyrunning.com/discerning-between-cumulative-fatigue-and-overtraining/))
+To determine if you're building cumulative fatigue rather than overtraining, the book doesn't provide 
+clear examples of cumulative fatigue, only a list of symptoms indicating overtraining. 
+However, I found a helpful blog by Luke Humphrey (the book's author), where he offers a clear comparison 
+between cumulative fatigue and overtraining. 
+([see the blog](https://lukehumphreyrunning.com/discerning-between-cumulative-fatigue-and-overtraining/))
 
 **Signes of Overtraining**
 
@@ -77,10 +81,10 @@ comparison between cumulative fatigue and overtraining. ([see the blog](https://
 
 ## 3. Training plan
 
-I follow the Advanced plan provided in the appendix of the book. There is also a plan for elite runners but
-for me it's very intensive plan and not easy to follow, unless you have a lot of free time and strong passion
-(the latter is more important, I think). The advanced plan basically puts interval (speed and strength) on Tuesday,
-tempo on Thursday, and long run Sunday. The rest day is on Wednesday (you can do cross training instead) but
+I follow *the Advanced Plan* provided in the appendix of the book. There is also a plan for elite runners but, 
+at least for me, it's very intensive plan and not easy to follow, unless you have a lot of free time and strong passion
+(the latter is more important, I think). The advanced plan basically puts interval (speed or strength, depending on the phase) 
+on Tuesday, tempo on Thursday, and long run on Sunday. The rest day is on Wednesday (you can do cross training instead) but
 I can still handle the fatigue that I have in my legs so I still run on Wednesday.
 
 The beginner and advanced training plans for half-marathon and marathon are available to
