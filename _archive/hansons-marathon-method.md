@@ -39,8 +39,8 @@ a marathon, which I find the content in the book very useful compared to other b
   - **Tapering**
 - Each week in each phase typically includes 2-3 focused workouts, with the remaining days designated as easy runs.
 - Hansons refers to each workout as a **"Something of Substance (SOS)"** session, 
-  similar to the "quality sessions" in *Daniels' Running Formula*.
-- The Hansons' SOS sessions include three types of workouts: **intervals, tempo runs, and long runs.**
+  similar to "The Quality Session" in [*Daniels' Running Formula*](https://rangsimanketkaew.github.io/archive/daniels-running-formula/).
+- The Hansons' SOS sessions include three types of workouts: **Intervals, Tempo runs, and Long runs.**
 - Interval training is divided into two types: **speed and strength workouts**, each aligning with a specific phase.
 - For tempo sessions, Hansons recommends running at your target marathon pace.
 - The long run is capped at **16 miles (26-27 km)**. Hansons explains that this is intended to mimic 
