@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Doctoral student specializing in computational chemistry and machine larning.
+I am a doctoral student in computational chemistry and machine larning.
 My research relies on _ab initio_ quantum molecular dynamics and enhanced sampling
 for free energies calculations of chemical reactions and molecular design.
 
